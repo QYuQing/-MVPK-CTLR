@@ -1,0 +1,371 @@
+Chemical,Chemical ID,Gene,Gene ID,Phenotype,Phenotype ID,Disease,Disease ID,Evidence Strength Score
+Thiamine,D013831,CAT,847,antioxidant activity,GO:0016209,Seizures,D012640,6
+Thiamine,D013831,TNF,7124,regulation of metabolic process,GO:0019222,Heart Failure,D006333,5
+Thiamine,D013831,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Heart Failure,D006333,5
+Thiamine,D013831,BCL2,596,apoptotic process,GO:0006915,Nerve Degeneration,D009410,4
+Thiamine,D013831,BCL2,596,cell population proliferation,GO:0008283,Nerve Degeneration,D009410,4
+Thiamine,D013831,BCL2,596,cellular response to DNA damage stimulus,GO:0006974,Nerve Degeneration,D009410,4
+Thiamine,D013831,BCL2,596,negative regulation of mitotic cell cycle,GO:0045930,Nerve Degeneration,D009410,4
+Thiamine,D013831,IL1B,3553,apoptotic process,GO:0006915,Cardiomyopathies,D009202,4
+Thiamine,D013831,IL1B,3553,apoptotic process,GO:0006915,Seizures,D012640,4
+Thiamine,D013831,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Urticaria,D014581,3
+Thiamine,D013831,TNF,7124,regulation of metabolic process,GO:0019222,Nerve Degeneration,D009410,3
+Thiamine,D013831,TNF,7124,regulation of metabolic process,GO:0019222,Urticaria,D014581,3
+Thiamine,D013831,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Nerve Degeneration,D009410,3
+Thiamine,D013831,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Drug Hypersensitivity,D004342,2
+Thiamine,D013831,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Heart Failure,D006333,2
+Thiamine,D013831,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Peripheral Nervous System Diseases,D010523,2
+Thiamine,D013831,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Seizures,D012640,2
+Thiamine,D013831,NQO1,1728,superoxide dismutase activity,GO:0004784,Neoplasms,D009369,2
+Thiamine,D013831,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Cardiomyopathies,D009202,2
+Thiamine,D013831,TNF,7124,regulation of metabolic process,GO:0019222,Pain,D010146,2
+Thiamine,D013831,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Pain,D010146,2
+Thiamine,D013831,TNF,7124,regulation of metabolic process,GO:0019222,Cardiomyopathies,D009202,2
+Thiamine,D013831,TNF,7124,regulation of metabolic process,GO:0019222,Drug Hypersensitivity,D004342,2
+Thiamine,D013831,TNF,7124,regulation of metabolic process,GO:0019222,Hepatic Encephalopathy,D006501,2
+Thiamine,D013831,IL1B,3553,apoptotic process,GO:0006915,Urticaria,D014581,2
+Thiamine,D013831,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Cardiomyopathies,D009202,2
+Thiamine,D013831,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Hepatic Encephalopathy,D006501,2
+Thiamine,D013831,IL1B,3553,apoptotic process,GO:0006915,Neoplasms,D009369,2
+Thiamine,D013831,BCL2,596,cell population proliferation,GO:0008283,Memory Disorders,D008569,2
+Thiamine,D013831,AKT1,207,apoptotic process,GO:0006915,Cardiomyopathies,D009202,2
+Thiamine,D013831,AKT1,207,cell population proliferation,GO:0008283,Cardiomyopathies,D009202,2
+Thiamine,D013831,AKT1,207,cellular response to DNA damage stimulus,GO:0006974,Cardiomyopathies,D009202,2
+Thiamine,D013831,AKT1,207,positive regulation of cholesterol biosynthetic process,GO:0045542,Cardiomyopathies,D009202,2
+Thiamine,D013831,BCL2,596,apoptotic process,GO:0006915,Memory Disorders,D008569,2
+Thiamine,D013831,AKT1,207,nitric oxide metabolic process,GO:0046209,Cardiomyopathies,D009202,2
+Thiamine,D013831,BCL2,596,cellular response to DNA damage stimulus,GO:0006974,Memory Disorders,D008569,2
+Thiamine,D013831,BCL2,596,negative regulation of mitotic cell cycle,GO:0045930,Memory Disorders,D008569,2
+Thiamine,D013831,CAT,847,antioxidant activity,GO:0016209,Cardiomyopathies,D009202,2
+Thiamine,D013831,IL1B,3553,apoptotic process,GO:0006915,Heart Failure,D006333,2
+Thiamine,D013831,IL1B,3553,apoptotic process,GO:0006915,Memory Disorders,D008569,2
+Thiamine,D013831,IL1B,3553,apoptotic process,GO:0006915,Mitochondrial Myopathies,D017240,2
+Thiamine,D013831,MYC,4609,cellular response to DNA damage stimulus,GO:0006974,Neoplasms,D009369,1
+Thiamine,D013831,MYC,4609,cell population proliferation,GO:0008283,Cleft Lip,D002971,1
+Thiamine,D013831,MYC,4609,cell population proliferation,GO:0008283,Cleft Palate,D002972,1
+Thiamine,D013831,MYC,4609,cell population proliferation,GO:0008283,Neoplasms,D009369,1
+Thiamine,D013831,MYC,4609,cellular response to DNA damage stimulus,GO:0006974,Cleft Lip,D002971,1
+Thiamine,D013831,MYC,4609,cellular response to DNA damage stimulus,GO:0006974,Cleft Palate,D002972,1
+Thiamine,D013831,TNF,7124,regulation of metabolic process,GO:0019222,Drug Eruptions,D003875,1
+Thiamine,D013831,NLRP3,114548,apoptotic process,GO:0006915,Drug Hypersensitivity,D004342,1
+Thiamine,D013831,PPARG,5468,cell population proliferation,GO:0008283,Heart Failure,D006333,1
+Thiamine,D013831,PPARG,5468,cell population proliferation,GO:0008283,Nerve Degeneration,D009410,1
+Thiamine,D013831,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Drug Eruptions,D003875,1
+Thiamine,D013831,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Mitochondrial Myopathies,D017240,1
+Thiamine,D013831,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Metabolic Syndrome,D024821,1
+Thiamine,D013831,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Mitochondrial Myopathies,D017240,1
+Thiamine,D013831,BAX,581,cellular response to DNA damage stimulus,GO:0006974,Nerve Degeneration,D009410,1
+Thiamine,D013831,CAT,847,antioxidant activity,GO:0016209,Neoplasms,D009369,1
+Thiamine,D013831,CAT,847,antioxidant activity,GO:0016209,Heart Failure,D006333,1
+Thiamine,D013831,CASP3,836,cellular response to DNA damage stimulus,GO:0006974,Nerve Degeneration,D009410,1
+Thiamine,D013831,CASP3,836,apoptotic process,GO:0006915,Nerve Degeneration,D009410,1
+Thiamine,D013831,BAX,581,spermatogenesis,GO:0007283,Nerve Degeneration,D009410,1
+Thiamine,D013831,BAX,581,positive regulation of apoptotic DNA fragmentation,GO:1902512,Nerve Degeneration,D009410,1
+Thiamine,D013831,BAX,581,cell population proliferation,GO:0008283,Nerve Degeneration,D009410,1
+Thiamine,D013831,BAX,581,apoptotic process,GO:0006915,Nerve Degeneration,D009410,1
+Thiamine,D013831,AKT1,207,positive regulation of cholesterol biosynthetic process,GO:0045542,Pain,D010146,1
+Thiamine,D013831,AKT1,207,nitric oxide metabolic process,GO:0046209,Pain,D010146,1
+Thiamine,D013831,AKT1,207,cellular response to DNA damage stimulus,GO:0006974,Pain,D010146,1
+Thiamine,D013831,AKT1,207,cell population proliferation,GO:0008283,Pain,D010146,1
+Thiamine,D013831,AKT1,207,apoptotic process,GO:0006915,Pain,D010146,1
+Thiamine,D013831,TNF,7124,regulation of metabolic process,GO:0019222,Mitochondrial Myopathies,D017240,1
+Isoproterenol,D007545,AGT,183,regulation of heart rate,GO:0002027,Myocardial Infarction,D009203,515424
+Isoproterenol,D007545,TNF,7124,vasodilation,GO:0042311,Myocardial Infarction,D009203,362850
+Isoproterenol,D007545,NPPA,4878,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,358956
+Resveratrol,D000077185,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,254448
+Isoproterenol,D007545,NPPA,4878,vasodilation,GO:0042311,Myocardial Infarction,D009203,230100
+Doxorubicin,D004317,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,216916
+Resveratrol,D000077185,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,212760
+Resveratrol,D000077185,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,200880
+Doxorubicin,D004317,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,200690
+Isoproterenol,D007545,NOS2,4843,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,193284
+Isoproterenol,D007545,NOS3,4846,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,193284
+Isoproterenol,D007545,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,191160
+Isoproterenol,D007545,AGT,183,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,179478
+Cisplatin,D002945,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,176580
+Cisplatin,D002945,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,171720
+Resveratrol,D000077185,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,148932
+Resveratrol,D000077185,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,148176
+Resveratrol,D000077185,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,140616
+Isoproterenol,D007545,MYH7,4625,regulation of heart rate,GO:0002027,Myocardial Infarction,D009203,138768
+Resveratrol,D000077185,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,132840
+Isoproterenol,D007545,NOS3,4846,vasodilation,GO:0042311,Myocardial Infarction,D009203,123900
+Resveratrol,D000077185,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,123120
+Fluorouracil,D005472,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,122400
+Isoproterenol,D007545,AGT,183,vasodilation,GO:0042311,Myocardial Infarction,D009203,115050
+Resveratrol,D000077185,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,114912
+Acetylcysteine,D000111,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,110162
+Acetylcysteine,D000111,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,108186
+Doxorubicin,D004317,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,105896
+Cisplatin,D002945,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,104490
+Particulate Matter,D052638,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,102900
+Particulate Matter,D052638,IL1B,3553,inflammatory response,GO:0006954,Myocardial Infarction,D009203,102900
+Fluorouracil,D005472,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,102600
+Resveratrol,D000077185,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,99288
+Losartan,D019808,AGT,183,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,98700
+Resveratrol,D000077185,CASP3,836,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,97200
+Doxorubicin,D004317,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,96012
+Isoproterenol,D007545,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,95580
+Particulate Matter,D052638,IL6,3569,inflammatory response,GO:0006954,Myocardial Infarction,D009203,95550
+Doxorubicin,D004317,BAX,581,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,94234
+Resveratrol,D000077185,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,93744
+Resveratrol,D000077185,IL6,3569,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,92988
+Resveratrol,D000077185,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Myocardial Infarction,D009203,92196
+Resveratrol,D000077185,NOS2,4843,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,91800
+Resveratrol,D000077185,BAX,581,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,90720
+Particulate Matter,D052638,TNF,7124,inflammatory response,GO:0006954,Myocardial Infarction,D009203,89180
+Resveratrol,D000077185,MMP9,4318,apoptotic process,GO:0006915,Myocardial Infarction,D009203,87552
+Doxorubicin,D004317,CASP3,836,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,87185
+Cisplatin,D002945,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,85050
+Resveratrol,D000077185,BCL2,596,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,83790
+Fluorouracil,D005472,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,83232
+Isoproterenol,D007545,REN,5972,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,82836
+Doxorubicin,D004317,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,81984
+Isoproterenol,D007545,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,79650
+Aspirin,D001241,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,79458
+Isoproterenol,D007545,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,74340
+Acetylcysteine,D000111,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,70148
+Cisplatin,D002945,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,69760
+Resveratrol,D000077185,MMP9,4318,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,69120
+Oxygen,D010100,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,68544
+Fluorouracil,D005472,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,66600
+Resveratrol,D000077185,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,64980
+Isoproterenol,D007545,AGT,183,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,64428
+Isoproterenol,D007545,NPPA,4878,positive regulation of heart rate,GO:0010460,Myocardial Infarction,D009203,64428
+Resveratrol,D000077185,IL6,3569,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,61992
+Particulate Matter,D052638,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,61740
+Resveratrol,D000077185,NOS3,4846,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,61560
+Isoproterenol,D007545,TNF,7124,positive regulation of inflammatory response,GO:0050729,Myocardial Infarction,D009203,58056
+Isoproterenol,D007545,TNF,7124,inflammatory response,GO:0006954,Myocardial Infarction,D009203,58056
+Doxorubicin,D004317,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,57876
+Dexamethasone,D003907,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,57750
+Isoproterenol,D007545,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,57348
+Particulate Matter,D052638,IL6,3569,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,57330
+Particulate Matter,D052638,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,55860
+Particulate Matter,D052638,IL1B,3553,positive regulation of inflammatory response,GO:0050729,Myocardial Infarction,D009203,55860
+Particulate Matter,D052638,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,53508
+Isoproterenol,D007545,IL1B,3553,positive regulation of lipid catabolic process,GO:0050996,Myocardial Infarction,D009203,53100
+Particulate Matter,D052638,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,51870
+Resveratrol,D000077185,BCL2,596,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,51300
+Cisplatin,D002945,BAX,581,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,51230
+Cisplatin,D002945,CASP3,836,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,49820
+Doxorubicin,D004317,BAX,581,regulation of mitochondrial membrane potential,GO:0051881,Myocardial Infarction,D009203,49784
+Isoproterenol,D007545,IL6,3569,inflammatory response,GO:0006954,Myocardial Infarction,D009203,49560
+Quercetin,D011794,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,49104
+Fluorouracil,D005472,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,48600
+Particulate Matter,D052638,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,48412
+Particulate Matter,D052638,TNF,7124,positive regulation of inflammatory response,GO:0050729,Myocardial Infarction,D009203,48412
+Oxygen,D010100,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,48384
+Isoproterenol,D007545,ACTA2,59,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,48321
+Cocaine,D003042,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,48222
+Doxorubicin,D004317,BCL2,596,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,46872
+Doxorubicin,D004317,BCL2,596,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,46004
+Oxygen,D010100,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,45696
+Cocaine,D003042,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,45543
+Fluorouracil,D005472,BCL2,596,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,45288
+Isoproterenol,D007545,BCL2,596,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,44604
+Doxorubicin,D004317,BAX,581,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,44450
+Oxygen,D010100,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,44352
+Isoproterenol,D007545,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,43542
+Isoproterenol,D007545,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,43542
+Isoproterenol,D007545,IL1B,3553,inflammatory response,GO:0006954,Myocardial Infarction,D009203,42480
+Isoproterenol,D007545,IL1B,3553,positive regulation of inflammatory response,GO:0050729,Myocardial Infarction,D009203,42480
+Resveratrol,D000077185,BAX,581,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,42336
+Cocaine,D003042,NOS3,4846,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,41736
+Cisplatin,D002945,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,39480
+Quercetin,D011794,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,39072
+Quercetin,D011794,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,38544
+Oxygen,D010100,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,38528
+Isoproterenol,D007545,MMP9,4318,apoptotic process,GO:0006915,Myocardial Infarction,D009203,38232
+Quercetin,D011794,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,37740
+Isoproterenol,D007545,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,37170
+Isoproterenol,D007545,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,37170
+Resveratrol,D000077185,IL1B,3553,positive regulation of p38MAPK cascade,GO:1900745,Myocardial Infarction,D009203,36828
+Isoproterenol,D007545,AGT,183,vasoconstriction,GO:0042310,Myocardial Infarction,D009203,36816
+Fluorouracil,D005472,BCL2L1,598,apoptotic process,GO:0006915,Myocardial Infarction,D009203,36000
+Resveratrol,D000077185,BCL2,596,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,35910
+Doxorubicin,D004317,MMP9,4318,apoptotic process,GO:0006915,Myocardial Infarction,D009203,35868
+Doxorubicin,D004317,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,35616
+Resveratrol,D000077185,TNF,7124,inflammatory response,GO:0006954,Myocardial Infarction,D009203,35460
+Resveratrol,D000077185,TNF,7124,positive regulation of NF-kappaB transcription factor activity,GO:0051092,Myocardial Infarction,D009203,35460
+Isoproterenol,D007545,GCLM,2730,glutathione metabolic process,GO:0006749,Myocardial Infarction,D009203,35046
+Acetylcysteine,D000111,CASP3,836,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,34788
+Resveratrol,D000077185,BAX,581,regulation of mitochondrial membrane potential,GO:0051881,Myocardial Infarction,D009203,34776
+Isoproterenol,D007545,SOD1,6647,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,34515
+Acetylcysteine,D000111,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,34164
+Doxorubicin,D004317,BCL2L1,598,apoptotic process,GO:0006915,Myocardial Infarction,D009203,34160
+Cisplatin,D002945,BCL2,596,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,33600
+Resveratrol,D000077185,AGT,183,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,33516
+Resveratrol,D000077185,IL1B,3553,inflammatory response,GO:0006954,Myocardial Infarction,D009203,33480
+Oxygen,D010100,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,33264
+Plant Extracts,D010936,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,33000
+Oxygen,D010100,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,32256
+Resveratrol,D000077185,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,31914
+Resveratrol,D000077185,TNF,7124,positive regulation of NIK/NF-kappaB signaling,GO:1901224,Myocardial Infarction,D009203,31914
+Isoproterenol,D007545,CKM,1158,creatine kinase activity,GO:0004111,Myocardial Infarction,D009203,31860
+Isoproterenol,D007545,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,31860
+Isoproterenol,D007545,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,31860
+Cisplatin,D002945,BAX,581,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,31610
+Oxygen,D010100,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,31416
+Acetylcysteine,D000111,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,31122
+Paclitaxel,D017239,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,30870
+Aspirin,D001241,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,30668
+Cisplatin,D002945,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,30315
+Resveratrol,D000077185,MMP2,4313,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,30240
+Resveratrol,D000077185,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,30132
+Resveratrol,D000077185,IL1B,3553,positive regulation of NIK/NF-kappaB signaling,GO:1901224,Myocardial Infarction,D009203,30132
+Resveratrol,D000077185,TGFB1,7040,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,29988
+Acetylcysteine,D000111,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,29952
+Oxygen,D010100,CASP3,836,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,29568
+Isoproterenol,D007545,TNF,7124,calcium-mediated signaling,GO:0019722,Myocardial Infarction,D009203,29028
+Isoproterenol,D007545,TNF,7124,negative regulation of systemic arterial blood pressure,GO:0003085,Myocardial Infarction,D009203,29028
+Resveratrol,D000077185,NOS3,4846,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,28728
+Resveratrol,D000077185,TNF,7124,negative regulation of interleukin-6 production,GO:0032715,Myocardial Infarction,D009203,28368
+Resveratrol,D000077185,TNF,7124,positive regulation of interleukin-1 beta production,GO:0032731,Myocardial Infarction,D009203,28368
+Isoproterenol,D007545,CAT,847,response to oxidative stress,GO:0006979,Myocardial Infarction,D009203,28320
+Phenylephrine,D010656,NPPA,4878,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,28208
+Doxorubicin,D004317,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,28196
+Paclitaxel,D017239,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,27720
+Particulate Matter,D052638,IL6,3569,positive regulation of cytokine production involved in inflammatory response,GO:1900017,Myocardial Infarction,D009203,27300
+Doxorubicin,D004317,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,27300
+Plant Extracts,D010936,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,27280
+Isoproterenol,D007545,TGFB1,7040,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,27258
+Cocaine,D003042,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,26790
+Acetylcysteine,D000111,DDIT3,1649,apoptotic process,GO:0006915,Myocardial Infarction,D009203,26676
+Doxorubicin,D004317,BAX,581,cellular response to DNA damage stimulus,GO:0006974,Myocardial Infarction,D009203,26670
+Resveratrol,D000077185,BCL2,596,reactive oxygen species metabolic process,GO:0072593,Myocardial Infarction,D009203,26505
+Oxygen,D010100,IL6,3569,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,26488
+Paclitaxel,D017239,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,26460
+Particulate Matter,D052638,TNF,7124,positive regulation of cytokine production involved in inflammatory response,GO:1900017,Myocardial Infarction,D009203,25480
+Blood Glucose,D001786,IL6,3569,glucose homeostasis,GO:0042593,Myocardial Infarction,D009203,24920
+bisphenol A,C006780,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,24831
+Resveratrol,D000077185,CAT,847,reactive oxygen species metabolic process,GO:0072593,Myocardial Infarction,D009203,24831
+Resveratrol,D000077185,TNF,7124,vasodilation,GO:0042311,Myocardial Infarction,D009203,24822
+Resveratrol,D000077185,TNF,7124,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Myocardial Infarction,D009203,24822
+Resveratrol,D000077185,TNF,7124,positive regulation of protein kinase B signaling,GO:0051897,Myocardial Infarction,D009203,24822
+Isoproterenol,D007545,IL6,3569,cell redox homeostasis,GO:0045454,Myocardial Infarction,D009203,24780
+Cisplatin,D002945,BCL2,596,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,24675
+Doxorubicin,D004317,CASP3,836,cellular response to DNA damage stimulus,GO:0006974,Myocardial Infarction,D009203,24675
+Particulate Matter,D052638,IL6,3569,gene expression,GO:0010467,Myocardial Infarction,D009203,24570
+Cisplatin,D002945,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,24360
+Resveratrol,D000077185,IL6,3569,glucose homeostasis,GO:0042593,Myocardial Infarction,D009203,24354
+Resveratrol,D000077185,IL6,3569,positive regulation of tumor necrosis factor production,GO:0032760,Myocardial Infarction,D009203,24354
+Doxorubicin,D004317,BCL2,596,regulation of mitochondrial membrane potential,GO:0051881,Myocardial Infarction,D009203,24304
+Cisplatin,D002945,TRP53,22059,apoptotic process,GO:0006915,Myocardial Infarction,D009203,24300
+Oxygen,D010100,MMP9,4318,apoptotic process,GO:0006915,Myocardial Infarction,D009203,24192
+Resveratrol,D000077185,BCL2,596,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,23940
+Acetylcysteine,D000111,BCL2,596,reactive oxygen species metabolic process,GO:0072593,Myocardial Infarction,D009203,23814
+Aspirin,D001241,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,23698
+Aspirin,D001241,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,23698
+Oxygen,D010100,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,23520
+Particulate Matter,D052638,IL1B,3553,memory,GO:0007613,Myocardial Infarction,D009203,23520
+Particulate Matter,D052638,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,23520
+Resveratrol,D000077185,IL1B,3553,positive regulation of cell migration,GO:0030335,Myocardial Infarction,D009203,23436
+Resveratrol,D000077185,IL1B,3553,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Myocardial Infarction,D009203,23436
+Resveratrol,D000077185,IL1B,3553,positive regulation of protein kinase B signaling,GO:0051897,Myocardial Infarction,D009203,23436
+Cisplatin,D002945,BCL2L1,598,apoptotic process,GO:0006915,Myocardial Infarction,D009203,22680
+Isoproterenol,D007545,CAT,847,cholesterol metabolic process,GO:0008203,Myocardial Infarction,D009203,22656
+Isoproterenol,D007545,BCL2L1,598,apoptotic process,GO:0006915,Myocardial Infarction,D009203,22302
+Resveratrol,D000077185,BCL2,596,negative regulation of mitotic cell cycle,GO:0045930,Myocardial Infarction,D009203,22230
+Acetylcysteine,D000111,BAX,581,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,22152
+Resveratrol,D000077185,IL6,3569,inflammatory response,GO:0006954,Myocardial Infarction,D009203,22140
+Plant Extracts,D010936,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,22000
+Acetylcysteine,D000111,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,21868
+Particulate Matter,D052638,IL6,3569,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,21840
+Doxorubicin,D004317,BCL2,596,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,21700
+Doxorubicin,D004317,BCL2,596,reactive oxygen species metabolic process,GO:0072593,Myocardial Infarction,D009203,21700
+Enalapril,D004656,AGT,183,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,21696
+Quercetin,D011794,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,21648
+Oxygen,D010100,BAX,581,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,21504
+Resveratrol,D000077185,TNF,7124,positive regulation of inflammatory response,GO:0050729,Myocardial Infarction,D009203,21276
+Resveratrol,D000077185,TNF,7124,positive regulation of interleukin-6 production,GO:0032755,Myocardial Infarction,D009203,21276
+Isoproterenol,D007545,IL1B,3553,positive regulation of cytosolic calcium ion concentration,GO:0007204,Myocardial Infarction,D009203,21240
+Isoproterenol,D007545,BAX,581,mitochondrion organization,GO:0007005,Myocardial Infarction,D009203,21240
+Aspirin,D001241,TNF,7124,vasodilation,GO:0042311,Myocardial Infarction,D009203,21080
+Quercetin,D011794,BCL2,596,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,20910
+Cocaine,D003042,NPPA,4878,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,20868
+Acetylcysteine,D000111,CAT,847,reactive oxygen species metabolic process,GO:0072593,Myocardial Infarction,D009203,20790
+Resveratrol,D000077185,MMP9,4318,response to oxidative stress,GO:0006979,Myocardial Infarction,D009203,20736
+Isoproterenol,D007545,SOD2,6648,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,20709
+Particulate Matter,D052638,NOS2,4843,inflammatory response,GO:0006954,Myocardial Infarction,D009203,20580
+Resveratrol,D000077185,BCL2L1,598,apoptotic process,GO:0006915,Myocardial Infarction,D009203,20520
+Particulate Matter,D052638,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,20384
+Resveratrol,D000077185,IL1B,3553,positive regulation of inflammatory response,GO:0050729,Myocardial Infarction,D009203,20088
+Resveratrol,D000077185,IL1B,3553,positive regulation of interleukin-6 production,GO:0032755,Myocardial Infarction,D009203,20088
+Losartan,D019808,AGT,183,vasoconstriction,GO:0042310,Myocardial Infarction,D009203,19950
+Resveratrol,D000077185,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,19926
+Isoproterenol,D007545,NOS2,4843,inflammatory response,GO:0006954,Myocardial Infarction,D009203,19824
+Isoproterenol,D007545,NOS3,4846,mitochondrion organization,GO:0007005,Myocardial Infarction,D009203,19824
+Quercetin,D011794,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,19716
+Resveratrol,D000077185,BCL2,596,regulation of mitochondrial membrane potential,GO:0051881,Myocardial Infarction,D009203,19665
+Doxorubicin,D004317,TRP53,22059,apoptotic process,GO:0006915,Myocardial Infarction,D009203,19642
+Cisplatin,D002945,BAX,581,regulation of mitochondrial membrane potential,GO:0051881,Myocardial Infarction,D009203,19620
+Plant Extracts,D010936,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,19580
+Aspirin,D001241,MMP9,4318,apoptotic process,GO:0006915,Myocardial Infarction,D009203,19516
+Oxygen,D010100,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,19488
+Isoproterenol,D007545,SOD1,6647,glutathione metabolic process,GO:0006749,Myocardial Infarction,D009203,19470
+Acetylcysteine,D000111,MMP9,4318,apoptotic process,GO:0006915,Myocardial Infarction,D009203,18772
+Cisplatin,D002945,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,18705
+Cocaine,D003042,TNF,7124,vasodilation,GO:0042311,Myocardial Infarction,D009203,18612
+Plant Extracts,D010936,CAT,847,response to oxidative stress,GO:0006979,Myocardial Infarction,D009203,18513
+Isoproterenol,D007545,AGT,183,positive regulation of inflammatory response,GO:0050729,Myocardial Infarction,D009203,18408
+Isoproterenol,D007545,NPPA,4878,negative regulation of blood pressure,GO:0045776,Myocardial Infarction,D009203,18408
+Isoproterenol,D007545,NPPA,4878,negative regulation of systemic arterial blood pressure,GO:0003085,Myocardial Infarction,D009203,18408
+Isoproterenol,D007545,NPPA,4878,positive regulation of cardiac muscle contraction,GO:0060452,Myocardial Infarction,D009203,18408
+Resveratrol,D000077185,TGFB1,7040,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,18360
+Nitric Oxide,D009569,NOS3,4846,nitric oxide metabolic process,GO:0046209,Myocardial Infarction,D009203,18054
+Doxorubicin,D004317,SOD1,6647,apoptotic process,GO:0006915,Myocardial Infarction,D009203,17934
+Particulate Matter,D052638,TNF,7124,microglial cell activation,GO:0001774,Myocardial Infarction,D009203,17836
+Cisplatin,D002945,MMP9,4318,apoptotic process,GO:0006915,Myocardial Infarction,D009203,17820
+Resveratrol,D000077185,SOD2,6648,superoxide dismutase activity,GO:0004784,Myocardial Infarction,D009203,17820
+Doxorubicin,D004317,BAX,581,mitochondrion organization,GO:0007005,Myocardial Infarction,D009203,17780
+Doxorubicin,D004317,BAX,581,positive regulation of apoptotic DNA fragmentation,GO:1902512,Myocardial Infarction,D009203,17780
+Resveratrol,D000077185,TNF,7124,response to xenobiotic stimulus,GO:0009410,Myocardial Infarction,D009203,17730
+Resveratrol,D000077185,TNF,7124,positive regulation of JNK cascade,GO:0046330,Myocardial Infarction,D009203,17730
+Resveratrol,D000077185,TNF,7124,negative regulation of apoptotic process,GO:0043066,Myocardial Infarction,D009203,17730
+Resveratrol,D000077185,IL6,3569,positive regulation of interleukin-1 beta production,GO:0032731,Myocardial Infarction,D009203,17712
+Isoproterenol,D007545,SOD1,6647,superoxide dismutase activity,GO:0004784,Myocardial Infarction,D009203,17700
+Particulate Matter,D052638,IL1B,3553,positive regulation of p38MAPK cascade,GO:1900745,Myocardial Infarction,D009203,17640
+Plant Extracts,D010936,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,17622
+Acetylcysteine,D000111,BAX,581,regulation of mitochondrial membrane potential,GO:0051881,Myocardial Infarction,D009203,17324
+Quercetin,D011794,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,17298
+Etoposide,D005047,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,17280
+Aspirin,D001241,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,17204
+Fluorouracil,D005472,BAX,581,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,17136
+Doxorubicin,D004317,NOS2,4843,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,17066
+bisphenol A,C006780,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,17024
+Isoproterenol,D007545,CAT,847,triglyceride metabolic process,GO:0006641,Myocardial Infarction,D009203,16992
+Cisplatin,D002945,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,16920
+Isoproterenol,D007545,TNNI3,7137,cardiac muscle contraction,GO:0060048,Myocardial Infarction,D009203,16815
+Doxorubicin,D004317,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,16800
+Resveratrol,D000077185,IL1B,3553,positive regulation of JNK cascade,GO:0046330,Myocardial Infarction,D009203,16740
+Resveratrol,D000077185,IL1B,3553,positive regulation of prostaglandin biosynthetic process,GO:0031394,Myocardial Infarction,D009203,16740
+Resveratrol,D000077185,IL1B,3553,response to xenobiotic stimulus,GO:0009410,Myocardial Infarction,D009203,16740
+Oxygen,D010100,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,16632
+Resveratrol,D000077185,SOD1,6647,apoptotic process,GO:0006915,Myocardial Infarction,D009203,16416
+Particulate Matter,D052638,IL6,3569,glucose homeostasis,GO:0042593,Myocardial Infarction,D009203,16380
+Resveratrol,D000077185,BCL2L1,598,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,16200
+Oxygen,D010100,MMP9,4318,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,16128
+Cocaine,D003042,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,16074
+Plant Extracts,D010936,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,15950
+Isoproterenol,D007545,CKB,1152,creatine kinase activity,GO:0004111,Myocardial Infarction,D009203,15930
+Isoproterenol,D007545,SOD1,6647,apoptotic process,GO:0006915,Myocardial Infarction,D009203,15930
+Isoproterenol,D007545,BAX,581,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,15930
+Isoproterenol,D007545,BCL2,596,response to oxidative stress,GO:0006979,Myocardial Infarction,D009203,15930
+Quercetin,D011794,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Myocardial Infarction,D009203,15900
+Resveratrol,D000077185,PLAU,5328,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,15876
+Quercetin,D011794,MMP9,4318,apoptotic process,GO:0006915,Myocardial Infarction,D009203,15840
+Acetylcysteine,D000111,SOD1,6647,apoptotic process,GO:0006915,Myocardial Infarction,D009203,15808
+Oxygen,D010100,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,15708
+Oxygen,D010100,BCL2,596,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,15680
+Plant Extracts,D010936,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,15664
+Doxorubicin,D004317,BCL2,596,cell growth,GO:0016049,Myocardial Infarction,D009203,15624
+Doxorubicin,D004317,MMP9,4318,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,15582
+Resveratrol,D000077185,IL6,3569,positive regulation of protein kinase B signaling,GO:0051897,Myocardial Infarction,D009203,15498
+Resveratrol,D000077185,IL6,3569,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Myocardial Infarction,D009203,15498
+Resveratrol,D000077185,BCL2,596,response to oxidative stress,GO:0006979,Myocardial Infarction,D009203,15390
+Resveratrol,D000077185,SOD2,6648,reactive oxygen species metabolic process,GO:0072593,Myocardial Infarction,D009203,15345
+Acetylcysteine,D000111,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,15330
+Resveratrol,D000077185,NOS2,4843,inflammatory response,GO:0006954,Myocardial Infarction,D009203,15300
+Acetylcysteine,D000111,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,15288
+Particulate Matter,D052638,TNF,7124,glucose metabolic process,GO:0006006,Myocardial Infarction,D009203,15288

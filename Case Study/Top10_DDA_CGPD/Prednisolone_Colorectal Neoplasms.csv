@@ -1,0 +1,401 @@
+Chemical,Chemical ID,Gene,Gene ID,Phenotype,Phenotype ID,Disease,Disease ID,Evidence Strength Score
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Hypertension,D006973,1000
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Inflammation,D007249,720
+Prednisolone,D011239,NR3C1,2908,apoptotic process,GO:0006915,Hypertension,D006973,700
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,"Arthritis, Rheumatoid",D001172,660
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Proteinuria,D011507,640
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,"Colitis, Ulcerative",D003093,480
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Inflammation,D007249,448
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Arthritis, Rheumatoid",D001172,385
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Hypertension,D006973,350
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Chemical and Drug Induced Liver Injury,D056486,343
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Fever,D005334,300
+Prednisolone,D011239,ALB,213,bilirubin transport,GO:0015723,Proteinuria,D011507,288
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,280
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,280
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Asthma,D001249,252
+Prednisolone,D011239,IL6,3569,cell redox homeostasis,GO:0045454,Hypertension,D006973,250
+Prednisolone,D011239,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Hypertension,D006973,250
+Prednisolone,D011239,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Hypertension,D006973,250
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Inflammation,D007249,240
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Myocardial Infarction,D009203,240
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,"Arthritis, Rheumatoid",D001172,220
+Prednisolone,D011239,IL6,3569,cell redox homeostasis,GO:0045454,Inflammation,D007249,220
+Prednisolone,D011239,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Inflammation,D007249,220
+Prednisolone,D011239,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Inflammation,D007249,220
+Prednisolone,D011239,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Hypertension,D006973,200
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Glomerulonephritis,D005921,160
+Prednisolone,D011239,KMT2A,4297,apoptotic process,GO:0006915,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198,150
+Prednisolone,D011239,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Inflammation,D007249,144
+Prednisolone,D011239,TGFB1,7040,cell population proliferation,GO:0008283,Nephrotic Syndrome,D009404,144
+Prednisolone,D011239,NR3C1,2908,bone mineralization,GO:0030282,Hypertension,D006973,140
+Prednisolone,D011239,NR3C1,2908,apoptotic process,GO:0006915,Ocular Hypertension,D009798,140
+Prednisolone,D011239,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Arthritis, Rheumatoid",D001172,132
+Prednisolone,D011239,IFNG,3458,positive regulation of nitric oxide biosynthetic process,GO:0045429,Proteinuria,D011507,128
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Colitis, Ulcerative",D003093,126
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Fever,D005334,120
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Asthma,D001249,120
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Hyperalgesia,D006930,120
+Prednisolone,D011239,IL6,3569,cell redox homeostasis,GO:0045454,Multiple Myeloma,D009101,120
+Prednisolone,D011239,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Multiple Myeloma,D009101,120
+Prednisolone,D011239,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Multiple Myeloma,D009101,120
+Prednisolone,D011239,IL6,3569,cell redox homeostasis,GO:0045454,"Arthritis, Rheumatoid",D001172,110
+Prednisolone,D011239,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,"Arthritis, Rheumatoid",D001172,110
+Prednisolone,D011239,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Arthritis, Rheumatoid",D001172,110
+Prednisolone,D011239,LCN2,3934,apoptotic process,GO:0006915,Acute Kidney Injury,D058186,100
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Graft vs Host Disease,D006086,100
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Muscular Diseases,D009135,100
+Prednisolone,D011239,ALB,213,bilirubin transport,GO:0015723,"Nephritis, Interstitial",D009395,96
+Prednisolone,D011239,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Colitis, Ulcerative",D003093,96
+Prednisolone,D011239,VEGFA,7422,apoptotic process,GO:0006915,Asthma,D001249,90
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Acute Kidney Injury,D058186,84
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Glomerulonephritis,D005921,80
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Renal Insufficiency,D051437,80
+Prednisolone,D011239,IL12B,3593,cell population proliferation,GO:0008283,"Lupus Erythematosus, Systemic",D008180,80
+Prednisolone,D011239,TGFB1,7040,cell population proliferation,GO:0008283,Hypertension,D006973,80
+Prednisolone,D011239,VEGFA,7422,apoptotic process,GO:0006915,Proteinuria,D011507,80
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Hyperalgesia,D006930,77
+Prednisolone,D011239,IL12B,3593,cell population proliferation,GO:0008283,"Colitis, Ulcerative",D003093,72
+Prednisolone,D011239,NR3C1,2908,apoptotic process,GO:0006915,Drug-Related Side Effects and Adverse Reactions,D064420,70
+Prednisolone,D011239,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Chemical and Drug Induced Liver Injury,D056486,70
+Prednisolone,D011239,NR3C1,2908,apoptotic process,GO:0006915,Depressive Disorder,D003866,70
+Prednisolone,D011239,LCN2,3934,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,70
+Prednisolone,D011239,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Chemical and Drug Induced Liver Injury,D056486,70
+Prednisolone,D011239,IL6,3569,cell redox homeostasis,GO:0045454,Chemical and Drug Induced Liver Injury,D056486,70
+Prednisolone,D011239,IL17A,3605,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,70
+Prednisolone,D011239,AHR,196,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,70
+Prednisolone,D011239,ALB,213,bilirubin transport,GO:0015723,Glomerulonephritis,D005921,64
+Prednisolone,D011239,TGFB1,7040,cell population proliferation,GO:0008283,Proteinuria,D011507,64
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Fever,D005334,63
+Prednisolone,D011239,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Fever,D005334,60
+Prednisolone,D011239,TF,7018,apoptotic process,GO:0006915,Nephrotic Syndrome,D009404,60
+Prednisolone,D011239,STAT4,6775,cell population proliferation,GO:0008283,"Lupus Erythematosus, Systemic",D008180,60
+Prednisolone,D011239,MMP9,4318,apoptotic process,GO:0006915,Asthma,D001249,60
+Prednisolone,D011239,THBS1,7057,apoptotic process,GO:0006915,"Nephritis, Interstitial",D009395,60
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Lethargy,D053609,60
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,"Hepatitis, Autoimmune",D019693,60
+Prednisolone,D011239,CCL2,6347,leukocyte migration involved in inflammatory response,GO:0002523,Hypertension,D006973,60
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Breast Neoplasms,D001943,60
+Prednisolone,D011239,IFNG,3458,positive regulation of nitric oxide biosynthetic process,GO:0045429,Chemical and Drug Induced Liver Injury,D056486,56
+Prednisolone,D011239,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Chemical and Drug Induced Liver Injury,D056486,56
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Glomerulonephritis,D005921,56
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,56
+Prednisolone,D011239,LCN2,3934,apoptotic process,GO:0006915,"Arthritis, Rheumatoid",D001172,55
+Prednisolone,D011239,VEGFA,7422,apoptotic process,GO:0006915,"Arthritis, Rheumatoid",D001172,55
+Prednisolone,D011239,TLR2,7097,apoptotic process,GO:0006915,"Arthritis, Rheumatoid",D001172,55
+Prednisolone,D011239,MARCKS,4082,apoptotic process,GO:0006915,"Arthritis, Rheumatoid",D001172,55
+Prednisolone,D011239,AHR,196,apoptotic process,GO:0006915,"Arthritis, Rheumatoid",D001172,55
+Prednisolone,D011239,CXCR4,7852,apoptotic process,GO:0006915,"Arthritis, Rheumatoid",D001172,55
+Prednisolone,D011239,CCN1,3491,apoptotic process,GO:0006915,"Arthritis, Rheumatoid",D001172,55
+Prednisolone,D011239,BCL2A1,597,apoptotic process,GO:0006915,"Arthritis, Rheumatoid",D001172,55
+Prednisolone,D011239,ADORA2A,135,apoptotic process,GO:0006915,"Arthritis, Rheumatoid",D001172,55
+Prednisolone,D011239,JUN,3725,apoptotic process,GO:0006915,Hypertension,D006973,50
+Prednisolone,D011239,MMP9,4318,apoptotic process,GO:0006915,Hypertension,D006973,50
+Prednisolone,D011239,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Lupus Erythematosus, Systemic",D008180,50
+Prednisolone,D011239,IL6,3569,cell redox homeostasis,GO:0045454,"Lupus Erythematosus, Systemic",D008180,50
+Prednisolone,D011239,AHR,196,apoptotic process,GO:0006915,Hypertension,D006973,50
+Prednisolone,D011239,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,"Lupus Erythematosus, Systemic",D008180,50
+Prednisolone,D011239,ALB,213,bilirubin transport,GO:0015723,Nephrotic Syndrome,D009404,48
+Prednisolone,D011239,IFNG,3458,positive regulation of nitric oxide biosynthetic process,GO:0045429,Inflammation,D007249,48
+Prednisolone,D011239,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,48
+Prednisolone,D011239,TGFB1,7040,cell population proliferation,GO:0008283,Asthma,D001249,48
+Prednisolone,D011239,ADORA2A,135,apoptotic process,GO:0006915,Substance Withdrawal Syndrome,D013375,45
+Prednisolone,D011239,IL6,3569,cell redox homeostasis,GO:0045454,Fever,D005334,45
+Prednisolone,D011239,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Fever,D005334,45
+Prednisolone,D011239,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Fever,D005334,45
+Prednisolone,D011239,IL10,3586,leukocyte chemotaxis,GO:0030595,"Arthritis, Rheumatoid",D001172,44
+Prednisolone,D011239,IFNG,3458,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Arthritis, Rheumatoid",D001172,44
+Prednisolone,D011239,STAT4,6775,cell population proliferation,GO:0008283,"Arthritis, Rheumatoid",D001172,44
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Pneumonia,D011014,42
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Sepsis,D018805,42
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Edema,D004487,42
+Prednisolone,D011239,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,40
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Pneumonia,D011014,40
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Psoriasis,D011565,40
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Pulmonary Fibrosis,D011658,40
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Sepsis,D018805,40
+Prednisolone,D011239,IL6,3569,cell redox homeostasis,GO:0045454,Myocardial Infarction,D009203,40
+Prednisolone,D011239,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Myocardial Infarction,D009203,40
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Multiple Sclerosis,D009103,40
+Prednisolone,D011239,LCN2,3934,apoptotic process,GO:0006915,Kidney Diseases,D007674,40
+Prednisolone,D011239,MMP9,4318,apoptotic process,GO:0006915,Inflammation,D007249,40
+Prednisolone,D011239,MMP9,4318,apoptotic process,GO:0006915,Myocardial Infarction,D009203,40
+Prednisolone,D011239,PTGS2,5743,bone mineralization,GO:0030282,Hypertension,D006973,40
+Prednisolone,D011239,PTGS2,5743,positive regulation of nitric oxide biosynthetic process,GO:0045429,Hypertension,D006973,40
+Prednisolone,D011239,VEGFA,7422,apoptotic process,GO:0006915,Acute Kidney Injury,D058186,40
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Neutropenia,D009503,40
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Vomiting,D014839,40
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Hemolytic-Uremic Syndrome,D006463,40
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Pneumonia,D011014,40
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Dermatomyositis,D003882,40
+Prednisolone,D011239,AHR,196,apoptotic process,GO:0006915,Inflammation,D007249,40
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Autoimmune Diseases,D001327,40
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Drug-Related Side Effects and Adverse Reactions,D064420,40
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Lupus Nephritis,D008181,40
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,"Dermatitis, Atopic",D003876,40
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Sepsis,D018805,40
+Prednisolone,D011239,IFNG,3458,apoptotic process,GO:0006915,Stevens-Johnson Syndrome,D013262,40
+Prednisolone,D011239,AHR,196,apoptotic process,GO:0006915,Hepatomegaly,D006529,40
+Prednisolone,D011239,IGF1,3479,cell population proliferation,GO:0008283,Hypertension,D006973,40
+Prednisolone,D011239,IL10,3586,leukocyte chemotaxis,GO:0030595,"Lupus Erythematosus, Systemic",D008180,40
+Prednisolone,D011239,IL1B,3553,apoptotic process,GO:0006915,Anorexia,D000855,40
+Prednisolone,D011239,CCL2,6347,leukocyte migration involved in inflammatory response,GO:0002523,Inflammation,D007249,36
+Prednisolone,D011239,CCL2,6347,leukocyte migration involved in inflammatory response,GO:0002523,"Nephritis, Interstitial",D009395,36
+Prednisolone,D011239,VEGFA,7422,cell population proliferation,GO:0008283,Asthma,D001249,36
+Prednisolone,D011239,TF,7018,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,35
+Prednisolone,D011239,VEGFA,7422,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,35
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Pulmonary Fibrosis,D011658,35
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Muscular Atrophy,D009133,35
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Carcinoma, Transitional Cell",D002295,35
+Prednisolone,D011239,THBS1,7057,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,35
+Prednisolone,D011239,NR3C1,2908,apoptotic process,GO:0006915,Psychotic Disorders,D011618,35
+Prednisolone,D011239,NR3C1,2908,apoptotic process,GO:0006915,Prostatic Neoplasms,D011471,35
+Prednisolone,D011239,NR3C1,2908,apoptotic process,GO:0006915,Hypokalemia,D007008,35
+Prednisolone,D011239,NR3C1,2908,apoptotic process,GO:0006915,Bipolar Disorder,D001714,35
+Prednisolone,D011239,NFE2L2,4780,cell redox homeostasis,GO:0045454,Chemical and Drug Induced Liver Injury,D056486,35
+Prednisolone,D011239,MMP9,4318,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,35
+Prednisolone,D011239,SOD2,6648,hydrogen peroxide biosynthetic process,GO:0050665,"Arthritis, Rheumatoid",D001172,33
+Prednisolone,D011239,SOD2,6648,locomotory behavior,GO:0007626,"Arthritis, Rheumatoid",D001172,33
+Prednisolone,D011239,SOD2,6648,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Arthritis, Rheumatoid",D001172,33
+Prednisolone,D011239,SOD2,6648,superoxide dismutase activity,GO:0004784,"Arthritis, Rheumatoid",D001172,33
+Prednisolone,D011239,PTGS2,5743,positive regulation of nitric oxide biosynthetic process,GO:0045429,Urinary Bladder Neoplasms,D001749,32
+Prednisolone,D011239,VEGFA,7422,cell population proliferation,GO:0008283,Proteinuria,D011507,32
+Prednisolone,D011239,TGFB1,7040,cell population proliferation,GO:0008283,Pulmonary Fibrosis,D011658,32
+Prednisolone,D011239,TGFB1,7040,cell population proliferation,GO:0008283,Inflammation,D007249,32
+Prednisolone,D011239,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Glomerulonephritis,D005921,32
+Prednisolone,D011239,PTGS2,5743,bone mineralization,GO:0030282,Urinary Bladder Neoplasms,D001749,32
+Prednisolone,D011239,ALB,213,bilirubin transport,GO:0015723,Kidney Diseases,D007674,32
+Prednisolone,D011239,ALB,213,bilirubin transport,GO:0015723,Acute Kidney Injury,D058186,32
+Prednisolone,D011239,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Edema,D004487,30
+Prednisolone,D011239,SOD2,6648,positive regulation of nitric oxide biosynthetic process,GO:0045429,Hypertension,D006973,30
+Prednisolone,D011239,SOD2,6648,locomotory behavior,GO:0007626,Hypertension,D006973,30
+Prednisolone,D011239,SOD2,6648,hydrogen peroxide biosynthetic process,GO:0050665,Hypertension,D006973,30
+Prednisolone,D011239,RIPK2,8767,apoptotic process,GO:0006915,"Colitis, Ulcerative",D003093,30
+Prednisolone,D011239,NOS2,4843,cell redox homeostasis,GO:0045454,Hypertension,D006973,30
+Prednisolone,D011239,MMP9,4318,apoptotic process,GO:0006915,"Colitis, Ulcerative",D003093,30
+Prednisolone,D011239,SOD2,6648,superoxide dismutase activity,GO:0004784,Hypertension,D006973,30
+Prednisolone,D011239,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Asthma,D001249,30
+Prednisolone,D011239,CASP3,836,apoptotic process,GO:0006915,Edema,D004487,30
+Prednisolone,D011239,AHR,196,apoptotic process,GO:0006915,Edema,D004487,30
+Prednisolone,D011239,CASP3,836,apoptotic process,GO:0006915,"Colitis, Ulcerative",D003093,30
+Prednisolone,D011239,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Edema,D004487,30
+Prednisolone,D011239,IL6,3569,cell redox homeostasis,GO:0045454,Asthma,D001249,30
+Prednisolone,D011239,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Asthma,D001249,30
+Prednisolone,D011239,IL6,3569,cell redox homeostasis,GO:0045454,Edema,D004487,30
+Prednisolone,D011239,NR3C1,2908,bone mineralization,GO:0030282,Ocular Hypertension,D009798,28
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Psoriasis,D011565,28
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Obesity,D009765,28
+Prednisolone,D011239,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Urinary Bladder Neoplasms,D001749,28
+Prednisolone,D011239,IL12B,3593,cell population proliferation,GO:0008283,Chemical and Drug Induced Liver Injury,D056486,28
+Prednisolone,D011239,ALB,213,bilirubin transport,GO:0015723,Chemical and Drug Induced Liver Injury,D056486,28
+Prednisolone,D011239,IGF1,3479,cell population proliferation,GO:0008283,Chemical and Drug Induced Liver Injury,D056486,28
+Prednisolone,D011239,KMT2A,4297,apoptotic process,GO:0006915,"Carcinoma, Transitional Cell",D002295,25
+Prednisolone,D011239,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Prostatic Neoplasms,D011471,25
+Prednisolone,D011239,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Prostatic Neoplasms,D011471,25
+Prednisolone,D011239,IL6,3569,cell redox homeostasis,GO:0045454,Prostatic Neoplasms,D011471,25
+Prednisolone,D011239,IL17A,3605,apoptotic process,GO:0006915,Graft vs Host Disease,D006086,25
+Prednisolone,D011239,IFNG,3458,positive regulation of nitric oxide biosynthetic process,GO:0045429,Fever,D005334,24
+Prednisolone,D011239,IL10,3586,leukocyte chemotaxis,GO:0030595,"Colitis, Ulcerative",D003093,24
+Prednisolone,D011239,IL12B,3593,cell population proliferation,GO:0008283,Psoriasis,D011565,24
+Prednisolone,D011239,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Asthma,D001249,24
+Prednisolone,D011239,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Hyperalgesia,D006930,24
+Resveratrol,D000077185,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,169632
+Quercetin,D011794,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,147312
+Resveratrol,D000077185,TNF,7124,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,141840
+Resveratrol,D000077185,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,133920
+Resveratrol,D000077185,PTGS2,5743,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,117720
+Fluorouracil,D005472,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,108000
+Cisplatin,D002945,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,104490
+Lipopolysaccharides,D008070,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,100572
+Resveratrol,D000077185,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,99288
+Lipopolysaccharides,D008070,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Colonic Neoplasms,D003110,98488
+Resveratrol,D000077185,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,93744
+Lipopolysaccharides,D008070,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Colonic Neoplasms,D003110,90168
+Resveratrol,D000077185,PTGS2,5743,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,82404
+Resveratrol,D000077185,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,66192
+Resveratrol,D000077185,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,62496
+Resveratrol,D000077185,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Colonic Neoplasms,D003110,61464
+Resveratrol,D000077185,NOS2,4843,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,61200
+Quercetin,D011794,TNF,7124,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,59148
+Resveratrol,D000077185,PTGS2,5743,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,54936
+Lipopolysaccharides,D008070,TNF,7124,positive regulation of NF-kappaB transcription factor activity,GO:0051092,Colonic Neoplasms,D003110,54926
+Acetylcysteine,D000111,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,54093
+Quercetin,D011794,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,51894
+Lipopolysaccharides,D008070,TNF,7124,positive regulation of inflammatory response,GO:0050729,Colonic Neoplasms,D003110,51138
+Quercetin,D011794,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Colonic Neoplasms,D003110,47700
+Lipopolysaccharides,D008070,TNF,7124,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,47350
+Lipopolysaccharides,D008070,IL1B,3553,positive regulation of inflammatory response,GO:0050729,Colonic Neoplasms,D003110,46818
+Lipopolysaccharides,D008070,PTGS2,5743,positive regulation of nitric oxide biosynthetic process,GO:0045429,Colonic Neoplasms,D003110,46644
+Fluorouracil,D005472,VEGFA,7422,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,44000
+Quercetin,D011794,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,43884
+Quercetin,D011794,PTGS2,5743,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,43524
+Lipopolysaccharides,D008070,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,43350
+Lipopolysaccharides,D008070,NOS2,4843,nitric oxide biosynthetic process,GO:0006809,Colonic Neoplasms,D003110,41448
+Cisplatin,D002945,TNF,7124,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,39480
+Quercetin,D011794,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,38502
+Quercetin,D011794,NOS2,4843,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,38502
+Lipopolysaccharides,D008070,IL1B,3553,positive regulation of p38MAPK cascade,GO:1900745,Colonic Neoplasms,D003110,38148
+Indomethacin,D007213,PTGS2,5743,regulation of blood pressure,GO:0008217,Colonic Neoplasms,D003110,36792
+Quercetin,D011794,JUN,3725,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,36432
+Lipopolysaccharides,D008070,TNF,7124,inflammatory response,GO:0006954,Colonic Neoplasms,D003110,35986
+Resveratrol,D000077185,PTGS2,5743,response to oxidative stress,GO:0006979,Colonic Neoplasms,D003110,35316
+Resveratrol,D000077185,JUN,3725,cell population proliferation,GO:0008283,Colonic Neoplasms,D003110,35280
+Quercetin,D011794,JUN,3725,cell population proliferation,GO:0008283,Colonic Neoplasms,D003110,35190
+Cisplatin,D002945,JUN,3725,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,34020
+Lipopolysaccharides,D008070,IL1B,3553,inflammatory response,GO:0006954,Colonic Neoplasms,D003110,32946
+Quercetin,D011794,PTGS2,5743,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,32292
+Resveratrol,D000077185,VEGFA,7422,cell population proliferation,GO:0008283,Colonic Neoplasms,D003110,30576
+Cisplatin,D002945,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,30315
+Lipopolysaccharides,D008070,TNF,7124,positive regulation of NIK/NF-kappaB signaling,GO:1901224,Colonic Neoplasms,D003110,30304
+Fluorouracil,D005472,VEGFA,7422,cell population proliferation,GO:0008283,Colonic Neoplasms,D003110,29920
+Dietary Fats,D004041,TNF,7124,inflammatory response,GO:0006954,Colonic Neoplasms,D003110,29800
+Resveratrol,D000077185,MMP9,4318,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,29184
+Dexamethasone,D003907,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,28875
+Lipopolysaccharides,D008070,IL1B,3553,positive regulation of NIK/NF-kappaB signaling,GO:1901224,Colonic Neoplasms,D003110,27744
+Resveratrol,D000077185,JUN,3725,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,27360
+Quercetin,D011794,NOS2,4843,nitric oxide biosynthetic process,GO:0006809,Colonic Neoplasms,D003110,27324
+Dietary Fats,D004041,IL1B,3553,inflammatory response,GO:0006954,Colonic Neoplasms,D003110,27300
+Resveratrol,D000077185,IL1B,3553,positive regulation of p38MAPK cascade,GO:1900745,Colonic Neoplasms,D003110,24552
+Dextran Sulfate,D016264,IL1B,3553,inflammatory response,GO:0006954,Colonic Neoplasms,D003110,24528
+Cisplatin,D002945,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,24360
+Fluorouracil,D005472,IFNG,3458,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,24000
+Fluorouracil,D005472,JUN,3725,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,24000
+Quercetin,D011794,MMP9,4318,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,23760
+Resveratrol,D000077185,VEGFA,7422,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,23712
+Resveratrol,D000077185,TNF,7124,inflammatory response,GO:0006954,Colonic Neoplasms,D003110,23640
+Resveratrol,D000077185,TNF,7124,positive regulation of NF-kappaB transcription factor activity,GO:0051092,Colonic Neoplasms,D003110,23640
+Lipopolysaccharides,D008070,NOS2,4843,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,23550
+Resveratrol,D000077185,MMP9,4318,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,23040
+Quercetin,D011794,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Colonic Neoplasms,D003110,22896
+Lipopolysaccharides,D008070,TNF,7124,positive regulation of cytokine production involved in inflammatory response,GO:1900017,Colonic Neoplasms,D003110,22728
+Lipopolysaccharides,D008070,PTGS2,5743,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,22425
+Dietary Fats,D004041,TNF,7124,glucose metabolic process,GO:0006006,Colonic Neoplasms,D003110,22350
+Resveratrol,D000077185,IL1B,3553,inflammatory response,GO:0006954,Colonic Neoplasms,D003110,22320
+Fluorouracil,D005472,PTGS2,5743,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,21840
+Quercetin,D011794,IL1B,3553,positive regulation of p38MAPK cascade,GO:1900745,Colonic Neoplasms,D003110,21762
+Resveratrol,D000077185,JUN,3725,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,21600
+Resveratrol,D000077185,TNF,7124,positive regulation of NIK/NF-kappaB signaling,GO:1901224,Colonic Neoplasms,D003110,21276
+Resveratrol,D000077185,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Colonic Neoplasms,D003110,21276
+Lipopolysaccharides,D008070,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,20834
+Lipopolysaccharides,D008070,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,20834
+Resveratrol,D000077185,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Colonic Neoplasms,D003110,20088
+Quercetin,D011794,IL1B,3553,positive regulation of nitric oxide biosynthetic process,GO:0045429,Colonic Neoplasms,D003110,20088
+Resveratrol,D000077185,IL1B,3553,positive regulation of NIK/NF-kappaB signaling,GO:1901224,Colonic Neoplasms,D003110,20088
+Lipopolysaccharides,D008070,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,19074
+Lipopolysaccharides,D008070,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,19074
+Cisplatin,D002945,PTGS2,5743,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,19035
+Lipopolysaccharides,D008070,TNF,7124,positive regulation of JNK cascade,GO:0046330,Colonic Neoplasms,D003110,18940
+Resveratrol,D000077185,TNF,7124,negative regulation of interleukin-6 production,GO:0032715,Colonic Neoplasms,D003110,18912
+Resveratrol,D000077185,TNF,7124,positive regulation of interleukin-1 beta production,GO:0032731,Colonic Neoplasms,D003110,18912
+Cisplatin,D002945,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,18705
+Dextran Sulfate,D016264,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,18396
+Resveratrol,D000077185,IFNG,3458,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,18240
+Quercetin,D011794,VEGFA,7422,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,18216
+Curcumin,D003474,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,18000
+Lipopolysaccharides,D008070,NOS2,4843,inflammatory response,GO:0006954,Colonic Neoplasms,D003110,17898
+Acetylcysteine,D000111,JUN,3725,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,17784
+Resveratrol,D000077185,PTGS2,5743,positive regulation of nitric oxide biosynthetic process,GO:0045429,Colonic Neoplasms,D003110,17658
+Quercetin,D011794,VEGFA,7422,cell population proliferation,GO:0008283,Colonic Neoplasms,D003110,17595
+Dextran Sulfate,D016264,TNF,7124,inflammatory response,GO:0006954,Colonic Neoplasms,D003110,17472
+Lipopolysaccharides,D008070,IL1B,3553,positive regulation of JNK cascade,GO:0046330,Colonic Neoplasms,D003110,17340
+Acetylcysteine,D000111,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,17082
+Quercetin,D011794,PTGS2,5743,positive regulation of nitric oxide biosynthetic process,GO:0045429,Colonic Neoplasms,D003110,16848
+Resveratrol,D000077185,TNF,7124,vasodilation,GO:0042311,Colonic Neoplasms,D003110,16548
+Resveratrol,D000077185,TNF,7124,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Colonic Neoplasms,D003110,16548
+Resveratrol,D000077185,TNF,7124,positive regulation of protein kinase B signaling,GO:0051897,Colonic Neoplasms,D003110,16548
+Fluorouracil,D005472,JUN,3725,cell population proliferation,GO:0008283,Colonic Neoplasms,D003110,16320
+Resveratrol,D000077185,IL1B,3553,positive regulation of cell migration,GO:0030335,Colonic Neoplasms,D003110,15624
+Resveratrol,D000077185,IL1B,3553,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Colonic Neoplasms,D003110,15624
+Resveratrol,D000077185,IL1B,3553,positive regulation of protein kinase B signaling,GO:0051897,Colonic Neoplasms,D003110,15624
+Quercetin,D011794,TNF,7124,positive regulation of NIK/NF-kappaB signaling,GO:1901224,Colonic Neoplasms,D003110,15264
+Lipopolysaccharides,D008070,TNF,7124,microglial cell activation,GO:0001774,Colonic Neoplasms,D003110,15152
+Lipopolysaccharides,D008070,TNF,7124,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Colonic Neoplasms,D003110,15152
+Lipopolysaccharides,D008070,TNF,7124,positive regulation of I-kappaB kinase/NF-kappaB signaling,GO:0043123,Colonic Neoplasms,D003110,15152
+Resveratrol,D000077185,JUN,3725,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,15120
+Fluorouracil,D005472,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,15120
+Dietary Fats,D004041,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,15015
+Acetylcysteine,D000111,TNF,7124,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,14976
+Resveratrol,D000077185,IFNG,3458,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,14400
+Cisplatin,D002945,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Colonic Neoplasms,D003110,14280
+Resveratrol,D000077185,TNF,7124,positive regulation of inflammatory response,GO:0050729,Colonic Neoplasms,D003110,14184
+Resveratrol,D000077185,TNF,7124,positive regulation of interleukin-6 production,GO:0032755,Colonic Neoplasms,D003110,14184
+Fluorouracil,D005472,PTGS2,5743,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,14040
+Aspirin,D001241,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,14022
+Lipopolysaccharides,D008070,IL1B,3553,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Colonic Neoplasms,D003110,13872
+Lipopolysaccharides,D008070,IL1B,3553,positive regulation of I-kappaB kinase/NF-kappaB signaling,GO:0043123,Colonic Neoplasms,D003110,13872
+Cisplatin,D002945,JUN,3725,cell population proliferation,GO:0008283,Colonic Neoplasms,D003110,13440
+Quercetin,D011794,IL1B,3553,positive regulation of NIK/NF-kappaB signaling,GO:1901224,Colonic Neoplasms,D003110,13392
+Resveratrol,D000077185,IL1B,3553,positive regulation of inflammatory response,GO:0050729,Colonic Neoplasms,D003110,13392
+Resveratrol,D000077185,IL1B,3553,positive regulation of interleukin-6 production,GO:0032755,Colonic Neoplasms,D003110,13392
+Quercetin,D011794,TNF,7124,positive regulation of NF-kappaB transcription factor activity,GO:0051092,Colonic Neoplasms,D003110,13356
+Lipopolysaccharides,D008070,TNF,7124,positive regulation of interleukin-1 beta production,GO:0032731,Colonic Neoplasms,D003110,13258
+Resveratrol,D000077185,VEGFA,7422,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,13104
+Quercetin,D011794,JUN,3725,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,12834
+Indomethacin,D007213,NOS2,4843,regulation of blood pressure,GO:0008217,Colonic Neoplasms,D003110,12096
+Fluorouracil,D005472,MMP9,4318,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,12000
+Dietary Fats,D004041,TNF,7124,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,11920
+Quercetin,D011794,IFNG,3458,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,11880
+Resveratrol,D000077185,SOD2,6648,superoxide dismutase activity,GO:0004784,Colonic Neoplasms,D003110,11880
+Resveratrol,D000077185,TNF,7124,negative regulation of apoptotic process,GO:0043066,Colonic Neoplasms,D003110,11820
+Resveratrol,D000077185,TNF,7124,positive regulation of JNK cascade,GO:0046330,Colonic Neoplasms,D003110,11820
+Resveratrol,D000077185,TNF,7124,response to xenobiotic stimulus,GO:0009410,Colonic Neoplasms,D003110,11820
+Cisplatin,D002945,PTGS2,5743,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,11745
+Doxorubicin,D004317,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,11712
+Lipopolysaccharides,D008070,TNF,7124,positive regulation of protein kinase B signaling,GO:0051897,Colonic Neoplasms,D003110,11364
+Indomethacin,D007213,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,11286
+Quercetin,D011794,PTGS2,5743,prostaglandin biosynthetic process,GO:0001516,Colonic Neoplasms,D003110,11232
+Fluorouracil,D005472,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,11200
+Indomethacin,D007213,TNF,7124,vasodilation,GO:0042311,Colonic Neoplasms,D003110,11172
+Resveratrol,D000077185,IL1B,3553,positive regulation of JNK cascade,GO:0046330,Colonic Neoplasms,D003110,11160
+Resveratrol,D000077185,IL1B,3553,positive regulation of prostaglandin biosynthetic process,GO:0031394,Colonic Neoplasms,D003110,11160
+Resveratrol,D000077185,IL1B,3553,response to xenobiotic stimulus,GO:0009410,Colonic Neoplasms,D003110,11160
+Dietary Fats,D004041,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,10920
+Fluorouracil,D005472,PTGS2,5743,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,10920
+Melatonin,D008550,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,10626
+Lipopolysaccharides,D008070,IL1B,3553,positive regulation of prostaglandin biosynthetic process,GO:0031394,Colonic Neoplasms,D003110,10404
+Lipopolysaccharides,D008070,IL1B,3553,positive regulation of prostaglandin secretion,GO:0032308,Colonic Neoplasms,D003110,10404
+Lipopolysaccharides,D008070,IL1B,3553,positive regulation of protein kinase B signaling,GO:0051897,Colonic Neoplasms,D003110,10404
+Acetylcysteine,D000111,PTGS2,5743,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,10296
+Resveratrol,D000077185,SOD2,6648,reactive oxygen species metabolic process,GO:0072593,Colonic Neoplasms,D003110,10230
+Resveratrol,D000077185,NOS2,4843,inflammatory response,GO:0006954,Colonic Neoplasms,D003110,10200
+Cisplatin,D002945,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,10080
+Resveratrol,D000077185,IFNG,3458,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,10080
+Resveratrol,D000077185,JUN,3725,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,10080
+Quercetin,D011794,IL1B,3553,positive regulation of cell migration,GO:0030335,Colonic Neoplasms,D003110,10044
+Lipopolysaccharides,D008070,IFNG,3458,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,10034
+Cisplatin,D002945,JUN,3725,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,9870
+Cisplatin,D002945,NOS2,4843,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,9870
+Lipopolysaccharides,D008070,PTGS2,5743,prostaglandin biosynthetic process,GO:0001516,Colonic Neoplasms,D003110,9867
+Lipopolysaccharides,D008070,PTGS2,5743,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,9867
+Lipopolysaccharides,D008070,PTGS2,5743,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,9867
+Resveratrol,D000077185,PTGS2,5743,negative regulation of apoptotic process,GO:0043066,Colonic Neoplasms,D003110,9810
+Resveratrol,D000077185,PTGS2,5743,positive regulation of prostaglandin biosynthetic process,GO:0031394,Colonic Neoplasms,D003110,9810
+Resveratrol,D000077185,PTGS2,5743,response to xenobiotic stimulus,GO:0009410,Colonic Neoplasms,D003110,9810
+Fluorouracil,D005472,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,9720
+Quercetin,D011794,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,9540
+Quercetin,D011794,TNF,7124,positive regulation of inflammatory response,GO:0050729,Colonic Neoplasms,D003110,9540
+Quercetin,D011794,JUN,3725,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,9522
+Resveratrol,D000077185,TNF,7124,astrocyte activation,GO:0048143,Colonic Neoplasms,D003110,9456
+Resveratrol,D000077185,TNF,7124,negative regulation of I-kappaB kinase/NF-kappaB signaling,GO:0043124,Colonic Neoplasms,D003110,9456
+Resveratrol,D000077185,SOD2,6648,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,9240
+Dextran Sulfate,D016264,IL1B,3553,positive regulation of inflammatory response,GO:0050729,Colonic Neoplasms,D003110,9198
+Lipopolysaccharides,D008070,IFNG,3458,positive regulation of nitric oxide biosynthetic process,GO:0045429,Colonic Neoplasms,D003110,8996
+Dietary Fats,D004041,TNF,7124,positive regulation of inflammatory response,GO:0050729,Colonic Neoplasms,D003110,8940
+Resveratrol,D000077185,IL1B,3553,astrocyte activation,GO:0048143,Colonic Neoplasms,D003110,8928
+Resveratrol,D000077185,IL1B,3553,memory,GO:0007613,Colonic Neoplasms,D003110,8928
+Resveratrol,D000077185,IL1B,3553,positive regulation of lipid catabolic process,GO:0050996,Colonic Neoplasms,D003110,8928
+Cisplatin,D002945,MMP9,4318,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,8910
+Curcumin,D003474,TNF,7124,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,8848
+Curcumin,D003474,PTGS2,5743,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,8736
+Resveratrol,D000077185,SOD2,6648,glutathione metabolic process,GO:0006749,Colonic Neoplasms,D003110,8580
+Curcumin,D003474,IL1B,3553,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,8400
+Quercetin,D011794,MMP9,4318,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,8370
+Quercetin,D011794,IL1B,3553,positive regulation of inflammatory response,GO:0050729,Colonic Neoplasms,D003110,8370
+Quercetin,D011794,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,8370
+Doxorubicin,D004317,TNF,7124,positive regulation of apoptotic process,GO:0043065,Colonic Neoplasms,D003110,8268
+Dietary Fats,D004041,IL1B,3553,positive regulation of inflammatory response,GO:0050729,Colonic Neoplasms,D003110,8190
+Cisplatin,D002945,VEGFA,7422,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,8100
+Resveratrol,D000077185,PTGS2,5743,memory,GO:0007613,Colonic Neoplasms,D003110,7848
+Cisplatin,D002945,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,7740
+Celecoxib,D000068579,IL1B,3553,apoptotic process,GO:0006915,Colonic Neoplasms,D003110,7680
+Acetylcysteine,D000111,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,7665

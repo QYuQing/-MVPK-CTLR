@@ -1,0 +1,1001 @@
+DrugBank_ID,Drug_Name,Side_Effect_Predicted,Score,Matched,Occurrence_Count,Total_Products,Percentage
+DB00213,Pantoprazole,dyspepsia,0.814675642,FALSE,0,4,0
+DB00949,Felbamate,anemia,0.755162878,FALSE,0,3,0
+DB00343,Diltiazem,abdominal pain,0.719515348,TRUE,1,7,0.1429
+DB01167,Itraconazole,anemia,0.701868216,FALSE,0,4,0
+DB00323,Tolcapone,back pain,0.692080156,FALSE,0,2,0
+DB00176,Fluvoxamine,anxiety,0.69116989,TRUE,3,3,1
+DB00555,Lamotrigine,lymphadenopathy,0.690839785,FALSE,0,29,0
+DB00555,Lamotrigine,rash,0.684285918,TRUE,29,29,1
+DB00808,Indapamide,hypersensitivity,0.68395539,TRUE,2,3,0.6667
+DB00465,Ketorolac,pruritus,0.679677678,TRUE,1,9,0.1111
+DB00697,Tizanidine,headache,0.677422351,TRUE,1,5,0.2
+DB01128,Bicalutamide,arthralgia,0.676135293,FALSE,0,2,0
+DB01115,Nifedipine,anorexia,0.675965304,FALSE,0,12,0
+DB00555,Lamotrigine,thinking abnormal,0.67355666,FALSE,0,29,0
+DB00555,Lamotrigine,somnolence,0.673234573,FALSE,0,29,0
+DB01340,Cilazapril,fever,0.665445499,FALSE,0,0,0
+DB00997,Doxorubicin,dyspnea,0.661542025,FALSE,0,5,0
+DB00715,Paroxetine,hypertonia,0.659999206,FALSE,0,7,0
+DB01136,Carvedilol,constipation,0.659008627,TRUE,4,4,1
+DB00273,Topiramate,migraine,0.656000757,FALSE,0,14,0
+DB00213,Pantoprazole,ulcer,0.651605612,FALSE,0,4,0
+DB01586,Ursodeoxycholic acid,anxiety,0.649938756,FALSE,0,0,0
+DB00555,Lamotrigine,eye pain,0.647305851,FALSE,0,29,0
+DB00555,Lamotrigine,dizziness,0.647138814,TRUE,28,29,0.9655
+DB01115,Nifedipine,hypotension,0.646254622,TRUE,11,12,0.9167
+DB01041,Thalidomide,gastritis,0.642325633,FALSE,0,4,0
+DB00476,Duloxetine,fatigue,0.640902114,TRUE,13,13,1
+DB00605,Sulindac,abdominal pain,0.640814189,FALSE,0,2,0
+DB01142,Doxepin,fatigue,0.640269725,TRUE,2,10,0.2
+DB00492,Fosinopril,dyspepsia,0.633884561,FALSE,0,5,0
+DB01041,Thalidomide,dyspnea,0.633599599,FALSE,0,4,0
+DB00564,Carbamazepine,headache,0.633288229,TRUE,2,10,0.2
+DB00999,Hydrochlorothiazide,insomnia,0.632749696,TRUE,28,87,0.3218
+DB01204,Mitoxantrone,pain,0.632564453,TRUE,1,1,1
+DB00555,Lamotrigine,hypersensitivity,0.632123331,TRUE,29,29,1
+DB00665,Nilutamide,fatigue,0.628893875,FALSE,0,1,0
+DB01009,Ketoprofen,leukopenia,0.628322554,FALSE,0,5,0
+DB01041,Thalidomide,hemorrhage,0.626927019,FALSE,0,4,0
+DB00285,Venlafaxine,ear pain,0.626598073,FALSE,0,7,0
+DB01198,Zopiclone,flatulence,0.625758933,FALSE,0,2,0
+DB01204,Mitoxantrone,dizziness,0.625471945,FALSE,0,1,0
+DB00906,Tiagabine,amnesia,0.625214827,FALSE,0,4,0
+DB01242,Clomipramine,face edema,0.625067046,FALSE,0,4,0
+DB01167,Itraconazole,infection,0.623587867,TRUE,4,4,1
+DB00555,Lamotrigine,fever,0.622636681,TRUE,28,29,0.9655
+DB00213,Pantoprazole,conjunctivitis,0.620343831,FALSE,0,4,0
+DB00176,Fluvoxamine,rash,0.62017487,FALSE,0,3,0
+DB00784,Mefenamic acid,anorexia,0.619720468,FALSE,0,0,0
+DB00704,Naltrexone,dyspepsia,0.61963605,TRUE,1,4,0.25
+DB01129,Rabeprazole,rhinitis,0.618054713,FALSE,0,4,0
+DB00341,Cetirizine,rhinitis,0.617724555,FALSE,0,4,0
+DB00681,Amphotericin B,fever,0.617612127,TRUE,1,2,0.5
+DB00185,Cevimeline,ataxia,0.617444629,FALSE,0,1,0
+DB00698,Nitrofurantoin,rash,0.616291155,TRUE,4,8,0.5
+DB01242,Clomipramine,amnesia,0.614245361,FALSE,0,4,0
+DB00461,Nabumetone,hepatitis,0.613806217,FALSE,0,3,0
+DB00533,Rofecoxib,headache,0.612855592,FALSE,0,0,0
+DB00370,Mirtazapine,melena,0.612565231,FALSE,0,8,0
+DB00997,Doxorubicin,back pain,0.610645723,FALSE,0,5,0
+DB00341,Cetirizine,urticaria,0.610464143,TRUE,2,4,0.5
+DB00176,Fluvoxamine,hemorrhage,0.606808315,FALSE,0,3,0
+DB00697,Tizanidine,anorexia,0.606079738,FALSE,0,5,0
+DB00261,Anagrelide,anxiety,0.60538305,FALSE,0,3,0
+DB00401,Nisoldipine,vomiting,0.604422445,FALSE,0,0,0
+DB01050,Ibuprofen,rash,0.603809727,TRUE,14,29,0.4828
+DB00313,Valproic acid,headache,0.603207239,FALSE,0,0,0
+DB01198,Zopiclone,sinusitis,0.60282431,FALSE,0,2,0
+DB00757,Dolasetron,nausea,0.602207178,TRUE,1,1,1
+DB01250,Olsalazine,constipation,0.602180222,FALSE,0,2,0
+DB00999,Hydrochlorothiazide,arthralgia,0.602134681,TRUE,34,87,0.3908
+DB00962,Zaleplon,rhinitis,0.601686307,FALSE,0,2,0
+DB00370,Mirtazapine,esophagitis,0.600755864,FALSE,0,8,0
+DB00482,Celecoxib,ulcer,0.598990704,TRUE,5,6,0.8333
+DB00315,Zolmitriptan,flatulence,0.598044324,FALSE,0,6,0
+DB00924,Cyclobenzaprine,fever,0.598006879,FALSE,0,4,0
+DB01097,Leflunomide,fatigue,0.597828434,FALSE,0,4,0
+DB00370,Mirtazapine,confusion,0.595608145,FALSE,0,8,0
+DB00586,Diclofenac,hypersensitivity,0.595350404,TRUE,6,25,0.24
+DB00323,Tolcapone,gastritis,0.595207769,FALSE,0,2,0
+DB01169,Arsenic trioxide,asthenia,0.595086967,FALSE,0,1,0
+DB00413,Pramipexole,hallucinations,0.594126095,TRUE,9,10,0.9
+DB00678,Losartan,cough,0.593975462,FALSE,0,6,0
+DB01037,Selegiline,tremor,0.593346234,FALSE,0,3,0
+DB00814,Meloxicam,anorexia,0.59332268,FALSE,0,6,0
+DB01050,Ibuprofen,nausea,0.592753447,TRUE,16,29,0.5517
+DB00590,Doxazosin,gastritis,0.592486053,FALSE,0,4,0
+DB00401,Nisoldipine,constipation,0.592449604,FALSE,0,0,0
+DB00808,Indapamide,edema,0.591145641,TRUE,2,3,0.6667
+DB00656,Trazodone,anxiety,0.590866336,TRUE,1,9,0.1111
+DB00216,Eletriptan,headache,0.590624876,TRUE,2,2,1
+DB00889,Granisetron,nausea,0.589004429,TRUE,2,3,0.6667
+DB00924,Cyclobenzaprine,pain,0.588892708,TRUE,1,4,0.25
+DB01104,Sertraline,depersonalization,0.588322425,FALSE,0,9,0
+DB00195,Betaxolol,rash,0.586783483,TRUE,2,5,0.4
+DB00482,Celecoxib,malaise,0.586761377,FALSE,0,6,0
+DB01242,Clomipramine,decreased libido,0.586417548,FALSE,0,4,0
+DB00503,Ritonavir,hypertonia,0.586393268,FALSE,0,13,0
+DB01215,Estazolam,anorexia,0.585939202,FALSE,0,2,0
+DB00492,Fosinopril,anxiety,0.585676183,FALSE,0,5,0
+DB00997,Doxorubicin,hypersensitivity,0.58528932,TRUE,4,5,0.8
+DB00659,Acamprosate,sinusitis,0.584717699,FALSE,0,1,0
+DB00904,Ondansetron,nausea,0.584426763,TRUE,8,9,0.8889
+DB00215,Citalopram,melena,0.584336834,FALSE,0,7,0
+DB00966,Telmisartan,cough,0.584236619,FALSE,0,20,0
+DB00843,Donepezil,sinusitis,0.583642899,FALSE,0,6,0
+DB00482,Celecoxib,pain,0.581871483,TRUE,4,6,0.6667
+DB00486,Nabilone,nausea,0.581579879,TRUE,1,1,1
+DB01128,Bicalutamide,malaise,0.58037958,TRUE,1,2,0.5
+DB01610,Valganciclovir,rash,0.580175607,TRUE,1,2,0.5
+DB00323,Tolcapone,conjunctivitis,0.580172593,FALSE,0,2,0
+DB00784,Mefenamic acid,anaphylaxis,0.580064207,FALSE,0,0,0
+DB01115,Nifedipine,pain,0.579806519,TRUE,1,12,0.0833
+DB00665,Nilutamide,arthralgia,0.579588713,FALSE,0,1,0
+DB00573,Fenoprofen,leukopenia,0.579394911,FALSE,0,4,0
+DB00382,Tacrine,flu,0.578548982,FALSE,0,0,0
+DB00343,Diltiazem,anxiety,0.578299801,FALSE,0,7,0
+DB00999,Hydrochlorothiazide,edema,0.577850723,TRUE,23,87,0.2644
+DB00757,Dolasetron,vomiting,0.577736596,FALSE,0,1,0
+DB00195,Betaxolol,somnolence,0.577101907,FALSE,0,5,0
+DB01156,Bupropion,fatigue,0.577092535,TRUE,4,5,0.8
+DB00526,Oxaliplatin,asthenia,0.575486637,TRUE,1,3,0.3333
+DB00195,Betaxolol,abdominal pain,0.573992189,FALSE,0,5,0
+DB01039,Fenofibrate,urinary tract infection,0.573818384,FALSE,0,23,0
+DB00996,Gabapentin,gastrointestinal hemorrhage,0.573658501,FALSE,0,17,0
+DB00351,Megestrol acetate,dizziness,0.572634268,FALSE,0,0,0
+DB00216,Eletriptan,chest pain,0.572039028,FALSE,0,2,0
+DB01041,Thalidomide,dizziness,0.571946876,TRUE,4,4,1
+DB00790,Perindopril,insomnia,0.571356684,TRUE,2,8,0.25
+DB00665,Nilutamide,myalgia,0.57116477,FALSE,0,1,0
+DB00605,Sulindac,confusion,0.571022322,FALSE,0,2,0
+DB00230,Pregabalin,neuralgia,0.569887754,FALSE,0,19,0
+DB00482,Celecoxib,hemorrhage,0.569615083,FALSE,0,6,0
+DB00285,Venlafaxine,Amblyopia,0.569221381,FALSE,0,7,0
+DB00216,Eletriptan,abdominal pain,0.569205863,FALSE,0,2,0
+DB00850,Perphenazine,tremor,0.569194993,FALSE,0,9,0
+DB00555,Lamotrigine,photosensitivity reaction,0.569160876,FALSE,0,29,0
+DB01120,Gliclazide,flu,0.568961425,FALSE,0,3,0
+DB01149,Nefazodone,nervousness,0.568557663,FALSE,0,5,0
+DB00195,Betaxolol,back pain,0.568291013,FALSE,0,5,0
+DB01224,Quetiapine,hematuria,0.567689777,FALSE,0,7,0
+DB00465,Ketorolac,pain,0.567679965,TRUE,2,9,0.2222
+DB00185,Cevimeline,nervousness,0.565895814,FALSE,0,1,0
+DB00673,Aprepitant,nausea,0.565601059,TRUE,6,7,0.8571
+DB00282,Pamidronic acid,pain,0.565408353,FALSE,0,0,0
+DB00261,Anagrelide,vertigo,0.565328208,FALSE,0,3,0
+DB00285,Venlafaxine,abdomen enlarged,0.565113172,FALSE,0,7,0
+DB01041,Thalidomide,pain,0.565081695,TRUE,4,4,1
+DB01085,Pilocarpine,vertigo,0.565023203,FALSE,0,10,0
+DB00554,Piroxicam,epidermal necrolysis,0.564946921,FALSE,0,2,0
+DB00472,Fluoxetine,chills,0.564466071,FALSE,0,16,0
+DB00381,Amlodipine,confusion,0.564352166,FALSE,0,59,0
+DB00788,Naproxen,fever,0.564208604,TRUE,11,12,0.9167
+DB00762,Irinotecan,diarrhea,0.562987616,FALSE,0,1,0
+DB00555,Lamotrigine,abnormal vision,0.562384892,FALSE,0,29,0
+DB01041,Thalidomide,chest pain,0.561959068,FALSE,0,4,0
+DB00476,Duloxetine,dyspnea,0.561915004,FALSE,0,13,0
+DB00889,Granisetron,vomiting,0.561120912,FALSE,0,3,0
+DB00363,Clozapine,abdominal pain,0.560713683,FALSE,0,10,0
+DB01085,Pilocarpine,dry mouth,0.56039118,FALSE,0,10,0
+DB00178,Ramipril,hypotension,0.560332035,TRUE,11,12,0.9167
+DB00334,Olanzapine,bronchitis,0.560282846,FALSE,0,29,0
+DB00401,Nisoldipine,abdominal pain,0.560084626,FALSE,0,0,0
+DB00580,Valdecoxib,cramps,0.559721997,FALSE,0,0,0
+DB00674,Galantamine,dyspnea,0.559634081,FALSE,0,5,0
+DB00295,Morphine,dyspnea,0.559600217,FALSE,0,31,0
+DB00203,Sildenafil,fatigue,0.558936915,TRUE,10,14,0.7143
+DB01416,Cefpodoxime,jaundice,0.5585143,FALSE,0,4,0
+DB00370,Mirtazapine,somnolence,0.558514099,FALSE,0,8,0
+DB00776,Oxcarbazepine,myalgia,0.558475721,FALSE,0,4,0
+DB00740,Riluzole,hyperglycemia,0.557770328,FALSE,0,4,0
+DB00853,Temozolomide,chest pain,0.557324056,FALSE,0,9,0
+DB01250,Olsalazine,urticaria,0.556465023,FALSE,0,2,0
+DB00355,Aztreonam,leukopenia,0.556322464,FALSE,0,3,0
+DB00669,Sumatriptan,headache,0.556310324,TRUE,8,8,1
+DB01215,Estazolam,vertigo,0.55620883,FALSE,0,2,0
+DB01043,Memantine,arrhythmia,0.556143224,TRUE,1,10,0.1
+DB00997,Doxorubicin,headache,0.555416507,TRUE,1,5,0.2
+DB00715,Paroxetine,apathy,0.554713064,FALSE,0,7,0
+DB00476,Duloxetine,pain,0.553467653,TRUE,9,13,0.6923
+DB01050,Ibuprofen,headache,0.553390541,TRUE,19,29,0.6552
+DB01222,Budesonide,constipation,0.55312342,TRUE,1,16,0.0625
+DB00476,Duloxetine,back pain,0.552638859,FALSE,0,13,0
+DB00796,Candesartan cilexetil,insomnia,0.551552418,FALSE,0,0,0
+DB01044,Gatifloxacin,diarrhea,0.550471366,FALSE,0,1,0
+DB00582,Voriconazole,esophagitis,0.550470592,FALSE,0,6,0
+DB00176,Fluvoxamine,hypersensitivity,0.55028718,FALSE,0,3,0
+DB00196,Fluconazole,diarrhea,0.549985524,TRUE,6,10,0.6
+DB01044,Gatifloxacin,dry mouth,0.549325022,FALSE,0,1,0
+DB01136,Carvedilol,anxiety,0.548460791,FALSE,0,4,0
+DB00313,Valproic acid,urticaria,0.547972817,FALSE,0,0,0
+DB01273,Varenicline,nervousness,0.547505462,TRUE,6,7,0.8571
+DB00978,Lomefloxacin,fever,0.547074791,FALSE,0,0,0
+DB00705,Delavirdine,sweating,0.546861644,FALSE,0,0,0
+DB00273,Topiramate,headache,0.546668059,TRUE,5,14,0.3571
+DB00216,Eletriptan,postural hypotension,0.546530789,FALSE,0,2,0
+DB00715,Paroxetine,photosensitivity reaction,0.546460236,FALSE,0,7,0
+DB00953,Rizatriptan,headache,0.545391385,TRUE,5,5,1
+DB00715,Paroxetine,hyperkinesia,0.545142664,FALSE,0,7,0
+DB01079,Tegaserod,Nervous System Disorders,0.545021509,FALSE,0,1,0
+DB00370,Mirtazapine,leg cramps,0.544888427,FALSE,0,8,0
+DB00367,Levonorgestrel,infection,0.544423478,TRUE,4,70,0.0571
+DB00929,Misoprostol,pain,0.544402636,FALSE,0,4,0
+DB00370,Mirtazapine,eczema,0.543980086,FALSE,0,8,0
+DB00575,Clonidine,dyspepsia,0.543931637,FALSE,0,5,0
+DB01120,Gliclazide,anorexia,0.5434703,FALSE,0,3,0
+DB00927,Famotidine,abdominal pain,0.543421779,TRUE,2,7,0.2857
+DB01193,Acebutolol,dry mouth,0.54283021,FALSE,0,3,0
+DB01050,Ibuprofen,urticaria,0.542698231,TRUE,15,29,0.5172
+DB00641,Simvastatin,fatigue,0.54263512,FALSE,0,12,0
+DB01273,Varenicline,respiratory tract infection,0.542148131,FALSE,0,7,0
+DB00611,Butorphanol,dyspepsia,0.540765959,FALSE,0,1,0
+DB01129,Rabeprazole,ulcer,0.540599303,TRUE,2,4,0.5
+DB00176,Fluvoxamine,urticaria,0.540271919,FALSE,0,3,0
+DB00598,Labetalol,insomnia,0.539681785,FALSE,0,5,0
+DB00196,Fluconazole,nausea,0.539084256,TRUE,7,10,0.7
+DB00673,Aprepitant,vomiting,0.538995639,FALSE,0,7,0
+DB00904,Ondansetron,vomiting,0.538937669,FALSE,0,9,0
+DB01041,Thalidomide,somnolence,0.538589001,FALSE,0,4,0
+DB01142,Doxepin,pruritus,0.537883736,TRUE,1,10,0.1
+DB01165,Ofloxacin,conjunctivitis,0.537231479,FALSE,0,4,0
+DB00343,Diltiazem,back pain,0.53719948,FALSE,0,7,0
+DB00585,Nizatidine,dyspepsia,0.537188302,TRUE,2,3,0.6667
+DB01201,Rifapentine,flatulence,0.537009681,FALSE,0,1,0
+DB00441,Gemcitabine,abdominal pain,0.536571925,FALSE,0,5,0
+DB00554,Piroxicam,toxic epidermal necrolysis,0.536412586,FALSE,0,2,0
+DB00582,Voriconazole,hypersensitivity,0.535894509,TRUE,1,6,0.1667
+DB00425,Zolpidem,insomnia,0.535845616,TRUE,1,9,0.1111
+DB01050,Ibuprofen,fever,0.535541142,TRUE,8,29,0.2759
+DB01215,Estazolam,insomnia,0.535467229,FALSE,0,2,0
+DB00833,Cefaclor,fever,0.535383378,FALSE,0,6,0
+DB00246,Ziprasidone,pruritus,0.535023783,FALSE,0,5,0
+DB00533,Rofecoxib,anorexia,0.534875752,FALSE,0,0,0
+DB00814,Meloxicam,myalgia,0.534813027,FALSE,0,6,0
+DB00480,Lenalidomide,anemia,0.534775422,TRUE,6,7,0.8571
+DB00673,Aprepitant,pruritus,0.534735433,TRUE,5,7,0.7143
+DB00972,Azelastine,dyspepsia,0.534518444,FALSE,0,4,0
+DB00373,Timolol,headache,0.534131873,TRUE,5,17,0.2941
+DB00370,Mirtazapine,hyperglycemia,0.533654804,FALSE,0,8,0
+DB01222,Budesonide,rhinitis,0.533485866,FALSE,0,16,0
+DB01224,Quetiapine,diplopia,0.53332535,FALSE,0,7,0
+DB01073,Fludarabine,dyspepsia,0.533270961,FALSE,0,2,0
+DB00401,Nisoldipine,asthenia,0.532390195,FALSE,0,0,0
+DB01009,Ketoprofen,fever,0.53222758,FALSE,0,5,0
+DB01198,Zopiclone,arthralgia,0.531586896,FALSE,0,2,0
+DB00906,Tiagabine,convulsions,0.53157247,FALSE,0,4,0
+DB00619,Imatinib,urticaria,0.531425344,FALSE,0,6,0
+DB00185,Cevimeline,dry mouth,0.531246224,FALSE,0,1,0
+DB01610,Valganciclovir,myalgia,0.530977963,TRUE,1,2,0.5
+DB00230,Pregabalin,emotional lability,0.530977025,FALSE,0,19,0
+DB00178,Ramipril,flatulence,0.530836612,FALSE,0,12,0
+DB01416,Cefpodoxime,fever,0.530811115,FALSE,0,4,0
+DB00861,Diflunisal,leukopenia,0.530347474,FALSE,0,3,0
+DB00989,Rivastigmine,taste perversion,0.530269022,FALSE,0,9,0
+DB01097,Leflunomide,arthritis,0.5301193,FALSE,0,4,0
+DB00813,Fentanyl,Psychiatric Disorders,0.530026185,FALSE,0,34,0
+DB01009,Ketoprofen,pain,0.529927616,FALSE,0,5,0
+DB01186,Pergolide,photosensitivity,0.529897164,FALSE,0,0,0
+DB01041,Thalidomide,erythema,0.529868933,TRUE,4,4,1
+DB00697,Tizanidine,insomnia,0.529771563,FALSE,0,5,0
+DB00213,Pantoprazole,Gastrointestinal Disorders,0.529696832,FALSE,0,4,0
+DB01204,Mitoxantrone,pruritus,0.529670759,FALSE,0,1,0
+DB00472,Fluoxetine,weight gain,0.52965487,FALSE,0,16,0
+DB01129,Rabeprazole,hallucinations,0.529426308,FALSE,0,4,0
+DB00261,Anagrelide,fatigue,0.529225314,TRUE,3,3,1
+DB00476,Duloxetine,chest pain,0.529203899,TRUE,3,13,0.2308
+DB01024,Mycophenolic acid,hypersensitivity,0.529099005,FALSE,0,2,0
+DB01004,Ganciclovir,vertigo,0.52909658,FALSE,0,4,0
+DB00285,Venlafaxine,chills,0.529092731,FALSE,0,7,0
+DB00526,Oxaliplatin,confusion,0.529040827,FALSE,0,3,0
+DB01254,Dasatinib,paresthesia,0.529004734,FALSE,0,7,0
+DB00282,Pamidronic acid,urticaria,0.528399226,FALSE,0,0,0
+DB00542,Benazepril,dry mouth,0.528308878,TRUE,6,14,0.4286
+DB01220,Rifaximin,dyspepsia,0.528277965,FALSE,0,2,0
+DB00962,Zaleplon,twitching,0.528167002,FALSE,0,2,0
+DB01204,Mitoxantrone,insomnia,0.528164266,FALSE,0,1,0
+DB01156,Bupropion,Psychiatric Disorders,0.528111133,FALSE,0,5,0
+DB00555,Lamotrigine,pneumonia,0.527849863,FALSE,0,29,0
+DB00906,Tiagabine,skin discoloration,0.52769565,FALSE,0,4,0
+DB00582,Voriconazole,gastritis,0.527659711,FALSE,0,6,0
+DB01050,Ibuprofen,ulcer,0.527649516,TRUE,16,29,0.5517
+DB00929,Misoprostol,anorexia,0.527456346,TRUE,2,4,0.5
+DB01142,Doxepin,insomnia,0.527239965,TRUE,4,10,0.4
+DB00715,Paroxetine,abdomen enlarged,0.526965179,FALSE,0,7,0
+DB01050,Ibuprofen,hypersensitivity,0.526854967,TRUE,21,29,0.7241
+DB00213,Pantoprazole,lymphadenopathy,0.526828553,FALSE,0,4,0
+DB00850,Perphenazine,nausea,0.525709677,TRUE,1,9,0.1111
+DB00323,Tolcapone,insomnia,0.525665153,FALSE,0,2,0
+DB00788,Naproxen,headache,0.525637143,TRUE,4,12,0.3333
+DB00178,Ramipril,agranulocytosis,0.525371558,TRUE,4,12,0.3333
+DB00334,Olanzapine,weight gain,0.525329703,FALSE,0,29,0
+DB00853,Temozolomide,rhinitis,0.5253206,FALSE,0,9,0
+DB00586,Diclofenac,pain,0.525245154,TRUE,6,25,0.24
+DB00642,Pemetrexed,headache,0.525184665,FALSE,0,8,0
+DB01149,Nefazodone,melena,0.52516295,FALSE,0,5,0
+DB01129,Rabeprazole,sinusitis,0.524533128,FALSE,0,4,0
+DB00178,Ramipril,dermatitis,0.524386814,FALSE,0,12,0
+DB01195,Flecainide,hypersensitivity,0.524271528,TRUE,1,3,0.3333
+DB00906,Tiagabine,diabetes,0.524270411,FALSE,0,4,0
+DB00448,Lansoprazole,weight loss,0.524162684,FALSE,0,8,0
+DB00343,Diltiazem,confusion,0.524023151,FALSE,0,7,0
+DB00537,Ciprofloxacin,fever,0.523864323,TRUE,6,12,0.5
+DB00881,Quinapril,fever,0.523717142,FALSE,0,7,0
+DB00529,Foscarnet,vertigo,0.523435419,FALSE,0,1,0
+DB00439,Cerivastatin,infection,0.523045931,FALSE,0,0,0
+DB00908,Quinidine,eosinophilia,0.523003255,FALSE,0,3,0
+DB01416,Cefpodoxime,hepatitis,0.522889032,FALSE,0,4,0
+DB01232,Saquinavir,infection,0.52288496,TRUE,1,2,0.5
+DB00674,Galantamine,sweating,0.522606325,FALSE,0,5,0
+DB00675,Tamoxifen,fever,0.521974299,FALSE,0,3,0
+DB00853,Temozolomide,flatulence,0.521904649,FALSE,0,9,0
+DB00999,Hydrochlorothiazide,palpitations,0.521831831,TRUE,18,87,0.2069
+DB00413,Pramipexole,polyuria,0.521752296,FALSE,0,10,0
+DB00975,Dipyridamole,sweating,0.521252663,FALSE,0,3,0
+DB00180,Flunisolide,infection,0.520960903,FALSE,0,1,0
+DB00813,Fentanyl,headache,0.520905318,TRUE,21,34,0.6176
+DB01009,Ketoprofen,asthenia,0.520568347,TRUE,1,5,0.2
+DB00697,Tizanidine,Gastrointestinal Disorders,0.520562215,FALSE,0,5,0
+DB00338,Omeprazole,bronchitis,0.520472424,FALSE,0,25,0
+DB01198,Zopiclone,hyperkinesia,0.52046673,FALSE,0,2,0
+DB00555,Lamotrigine,libido increased,0.520340571,FALSE,0,29,0
+DB00465,Ketorolac,arthralgia,0.519639661,FALSE,0,9,0
+DB00952,Naratriptan,headache,0.519589698,TRUE,2,2,1
+DB00706,Tamsulosin,dizziness,0.519568094,TRUE,2,3,0.6667
+DB01076,Atorvastatin,leukopenia,0.519541483,FALSE,0,20,0
+DB00996,Gabapentin,vaginitis,0.519329785,FALSE,0,17,0
+DB00425,Zolpidem,ear pain,0.51916214,FALSE,0,9,0
+DB00369,Cidofovir,infection,0.519117313,FALSE,0,2,0
+DB00181,Baclofen,nervousness,0.51904,FALSE,0,12,0
+DB00659,Acamprosate,jaundice,0.518527646,FALSE,0,1,0
+DB00740,Riluzole,sweating,0.518127237,FALSE,0,4,0
+DB00213,Pantoprazole,esophagitis,0.517904049,FALSE,0,4,0
+DB00808,Indapamide,confusion,0.517804262,FALSE,0,3,0
+DB01186,Pergolide,gastrointestinal hemorrhage,0.517691524,FALSE,0,0,0
+DB00377,Palonosetron,nausea,0.517667145,TRUE,2,5,0.4
+DB01129,Rabeprazole,cough,0.517628758,FALSE,0,4,0
+DB00472,Fluoxetine,laryngitis,0.517512508,FALSE,0,16,0
+DB01186,Pergolide,photosensitivity reaction,0.517494181,FALSE,0,0,0
+DB00398,Sorafenib,dizziness,0.517443256,TRUE,1,2,0.5
+DB00193,Tramadol,face edema,0.517351923,FALSE,0,11,0
+DB00656,Trazodone,dyspepsia,0.517252206,FALSE,0,9,0
+DB00909,Zonisamide,chills,0.516951581,FALSE,0,5,0
+DB01043,Memantine,dyspepsia,0.51691825,FALSE,0,10,0
+DB01165,Ofloxacin,infection,0.516263309,TRUE,2,4,0.5
+DB01085,Pilocarpine,hypertonia,0.515907986,FALSE,0,10,0
+DB00315,Zolmitriptan,abnormal vision,0.51580384,FALSE,0,6,0
+DB00585,Nizatidine,hypersensitivity,0.515569152,TRUE,3,3,1
+DB01167,Itraconazole,jaundice,0.515340419,FALSE,0,4,0
+DB01037,Selegiline,hypesthesia,0.515297199,FALSE,0,3,0
+DB01250,Olsalazine,hypersensitivity,0.515275837,TRUE,1,2,0.5
+DB00697,Tizanidine,myalgia,0.51516197,FALSE,0,5,0
+DB00758,Clopidogrel,anorexia,0.515030732,FALSE,0,8,0
+DB00482,Celecoxib,arthritis,0.514859667,FALSE,0,6,0
+DB01264,Darunavir,thrombocytopenia,0.514732526,FALSE,0,12,0
+DB00989,Rivastigmine,thinking abnormal,0.514563731,FALSE,0,9,0
+DB01224,Quetiapine,eructation,0.51416224,FALSE,0,7,0
+DB00996,Gabapentin,photosensitivity,0.513965823,FALSE,0,17,0
+DB00472,Fluoxetine,hypokinesia,0.51394917,FALSE,0,16,0
+DB01142,Doxepin,anxiety,0.513894091,FALSE,0,10,0
+DB00749,Etodolac,pain,0.513860437,FALSE,0,4,0
+DB00370,Mirtazapine,skin discoloration,0.513770385,FALSE,0,8,0
+DB00472,Fluoxetine,hypotonia,0.513762413,FALSE,0,16,0
+DB00218,Moxifloxacin,conjunctivitis,0.513572858,FALSE,0,2,0
+DB01186,Pergolide,nocturia,0.513497892,FALSE,0,0,0
+DB00857,Terbinafine,leukopenia,0.513121619,FALSE,0,2,0
+DB00555,Lamotrigine,abnormal dreams,0.513061363,FALSE,0,29,0
+DB01149,Nefazodone,leg cramps,0.51292207,FALSE,0,5,0
+DB00808,Indapamide,tremor,0.512834213,FALSE,0,3,0
+DB00482,Celecoxib,arrhythmia,0.512338037,TRUE,2,6,0.3333
+DB00575,Clonidine,pain,0.512274747,FALSE,0,5,0
+DB01043,Memantine,sweating,0.512065748,FALSE,0,10,0
+DB00230,Pregabalin,dyspepsia,0.512058208,FALSE,0,19,0
+DB00369,Cidofovir,pneumonia,0.511808739,FALSE,0,2,0
+DB00246,Ziprasidone,tachycardia,0.511796766,TRUE,5,5,1
+DB00697,Tizanidine,palpitations,0.511619512,TRUE,1,5,0.2
+DB00381,Amlodipine,fever,0.511429091,FALSE,0,59,0
+DB00216,Eletriptan,migraine,0.51142677,FALSE,0,2,0
+DB00196,Fluconazole,headache,0.511292206,TRUE,5,10,0.5
+DB00538,Gadoversetamide,abdominal pain,0.511087835,FALSE,0,0,0
+DB01198,Zopiclone,eye pain,0.510637537,FALSE,0,2,0
+DB00962,Zaleplon,leg cramps,0.510275843,FALSE,0,2,0
+DB01104,Sertraline,kidney calculus,0.510250903,FALSE,0,9,0
+DB00991,Oxaprozin,fatigue,0.510119825,FALSE,0,2,0
+DB01068,Clonazepam,dizziness,0.509900828,TRUE,8,10,0.8
+DB00448,Lansoprazole,angioedema,0.509841317,FALSE,0,8,0
+DB00559,Bosentan,confusion,0.509417391,FALSE,0,5,0
+DB00962,Zaleplon,leukopenia,0.509389999,FALSE,0,2,0
+DB01067,Glipizide,hypersensitivity,0.509197169,FALSE,0,6,0
+DB00997,Doxorubicin,SGPT increased,0.509169807,FALSE,0,5,0
+DB00476,Duloxetine,insomnia,0.50913534,TRUE,13,13,1
+DB00185,Cevimeline,decreased libido,0.508968839,FALSE,0,1,0
+DB00622,Nicardipine,fatigue,0.508833536,FALSE,0,2,0
+DB00605,Sulindac,dry mouth,0.508789912,FALSE,0,2,0
+DB01165,Ofloxacin,ulcer,0.508668592,FALSE,0,4,0
+DB00289,Atomoxetine,edema,0.508630547,FALSE,0,8,0
+DB00906,Tiagabine,kidney calculus,0.508594756,FALSE,0,4,0
+DB00176,Fluvoxamine,speech disorder,0.50833089,FALSE,0,3,0
+DB00323,Tolcapone,ataxia,0.508222855,FALSE,0,2,0
+DB00338,Omeprazole,syncope,0.508093152,FALSE,0,25,0
+DB00331,Metformin,arthralgia,0.508022145,TRUE,17,56,0.3036
+DB01623,Thiothixene,headache,0.507183948,FALSE,0,4,0
+DB00540,Nortriptyline,leukopenia,0.507137918,FALSE,0,7,0
+DB00273,Topiramate,arthritis,0.507016002,FALSE,0,14,0
+DB00413,Pramipexole,melena,0.506918182,FALSE,0,10,0
+DB01242,Clomipramine,melena,0.506762984,FALSE,0,4,0
+DB00762,Irinotecan,pruritus,0.506731081,FALSE,0,1,0
+DB00370,Mirtazapine,hypersensitivity,0.506645786,TRUE,7,8,0.875
+DB00949,Felbamate,vertigo,0.506645663,FALSE,0,3,0
+DB00341,Cetirizine,diplopia,0.506635271,FALSE,0,4,0
+DB00918,Almotriptan,cough,0.506621766,FALSE,0,3,0
+DB00605,Sulindac,pancytopenia,0.506427661,FALSE,0,2,0
+DB00295,Morphine,anxiety,0.506293113,TRUE,9,31,0.2903
+DB00745,Modafinil,malaise,0.506289117,TRUE,1,3,0.3333
+DB00909,Zonisamide,hallucinations,0.506254482,FALSE,0,5,0
+DB00315,Zolmitriptan,headache,0.506125135,TRUE,6,6,1
+DB00665,Nilutamide,hypersensitivity,0.506005692,FALSE,0,1,0
+DB00808,Indapamide,toxic epidermal necrolysis,0.505909918,FALSE,0,3,0
+DB00289,Atomoxetine,Connective Tissue Disorders,0.505896286,FALSE,0,8,0
+DB00997,Doxorubicin,myocardial infarction,0.505877101,FALSE,0,5,0
+DB00413,Pramipexole,thinking abnormal,0.505797756,FALSE,0,10,0
+DB00543,Amoxapine,anxiety,0.505739721,TRUE,1,4,0.25
+DB00563,Methotrexate,abdominal pain,0.50572865,TRUE,2,14,0.1429
+DB01182,Propafenone,arthralgia,0.505706744,FALSE,0,3,0
+DB00975,Dipyridamole,insomnia,0.505665965,FALSE,0,3,0
+DB00715,Paroxetine,leg cramps,0.505659624,FALSE,0,7,0
+DB01238,Aripiprazole,thinking abnormal,0.505450869,FALSE,0,22,0
+DB01023,Felodipine,fatigue,0.50505178,TRUE,1,1,1
+DB01041,Thalidomide,ear pain,0.505009043,FALSE,0,4,0
+DB00486,Nabilone,vomiting,0.504730712,FALSE,0,1,0
+DB01186,Pergolide,hypersensitivity,0.504454297,FALSE,0,0,0
+DB00564,Carbamazepine,malaise,0.504260296,FALSE,0,10,0
+DB01097,Leflunomide,somnolence,0.504125221,FALSE,0,4,0
+DB01242,Clomipramine,menorrhagia,0.504123681,FALSE,0,4,0
+DB00564,Carbamazepine,palpitations,0.50390713,TRUE,1,10,0.1
+DB00341,Cetirizine,impotence,0.503492485,FALSE,0,4,0
+DB00218,Moxifloxacin,sinusitis,0.503477853,FALSE,0,2,0
+DB00367,Levonorgestrel,arthralgia,0.503258986,FALSE,0,70,0
+DB00401,Nisoldipine,back pain,0.503237335,FALSE,0,0,0
+DB00813,Fentanyl,pain,0.50319283,TRUE,12,34,0.3529
+DB00323,Tolcapone,cystitis,0.503101847,FALSE,0,2,0
+DB00656,Trazodone,agitation,0.502857174,TRUE,1,9,0.1111
+DB00334,Olanzapine,agitation,0.502767749,TRUE,11,29,0.3793
+DB00238,Nevirapine,rash,0.502551037,TRUE,2,2,1
+DB00188,Bortezomib,alopecia,0.502486398,TRUE,3,6,0.5
+DB00908,Quinidine,paresthesia,0.502469505,FALSE,0,3,0
+DB00909,Zonisamide,epistaxis,0.502297505,FALSE,0,5,0
+DB00323,Tolcapone,leg cramps,0.502085964,FALSE,0,2,0
+DB00814,Meloxicam,chest pain,0.50206268,FALSE,0,6,0
+DB00472,Fluoxetine,neuralgia,0.502041222,FALSE,0,16,0
+DB01128,Bicalutamide,palpitations,0.502029122,FALSE,0,2,0
+DB00176,Fluvoxamine,enlargement,0.501957884,FALSE,0,3,0
+DB00542,Benazepril,anorexia,0.50195612,FALSE,0,14,0
+DB00795,Sulfasalazine,vomiting,0.50195395,FALSE,0,5,0
+DB00999,Hydrochlorothiazide,angioedema,0.501899627,TRUE,55,87,0.6322
+DB00370,Mirtazapine,abnormal gait,0.501691245,FALSE,0,8,0
+DB00749,Etodolac,abnormal liver function,0.501547592,FALSE,0,4,0
+DB00757,Dolasetron,insomnia,0.501414812,FALSE,0,1,0
+DB00382,Tacrine,hyperglycemia,0.501294955,FALSE,0,0,0
+DB00215,Citalopram,skin disorder,0.501072893,FALSE,0,7,0
+DB01041,Thalidomide,melena,0.500826445,FALSE,0,4,0
+DB01018,Guanfacine,anorexia,0.500628278,FALSE,0,3,0
+DB00216,Eletriptan,leg cramps,0.500615847,FALSE,0,2,0
+DB01224,Quetiapine,alopecia,0.500508316,TRUE,1,7,0.1429
+DB00814,Meloxicam,asthenia,0.500480208,FALSE,0,6,0
+DB01186,Pergolide,myasthenia,0.500233193,FALSE,0,0,0
+DB00533,Rofecoxib,pain,0.50019596,FALSE,0,0,0
+DB00193,Tramadol,hemorrhoids,0.499942933,FALSE,0,11,0
+DB00370,Mirtazapine,gingivitis,0.499916057,FALSE,0,8,0
+DB00697,Tizanidine,cough,0.499891803,FALSE,0,5,0
+DB00712,Flurbiprofen,pain,0.499704273,FALSE,0,5,0
+DB00881,Quinapril,leukopenia,0.499607907,FALSE,0,7,0
+DB01201,Rifapentine,ulcer,0.499378666,FALSE,0,1,0
+DB00335,Atenolol,weakness,0.499117746,TRUE,1,6,0.1667
+DB00559,Bosentan,asthenia,0.499063148,FALSE,0,5,0
+DB00370,Mirtazapine,dysphagia,0.498948736,FALSE,0,8,0
+DB00363,Clozapine,alopecia,0.498678472,FALSE,0,10,0
+DB00289,Atomoxetine,Psychiatric Disorders,0.498610825,FALSE,0,8,0
+DB00906,Tiagabine,colitis,0.498496141,FALSE,0,4,0
+DB01156,Bupropion,insomnia,0.498494696,TRUE,5,5,1
+DB01340,Cilazapril,jaundice,0.498334867,FALSE,0,0,0
+DB00494,Entacapone,headache,0.49832976,TRUE,2,10,0.2
+DB01186,Pergolide,Amblyopia,0.498328997,FALSE,0,0,0
+DB00996,Gabapentin,neuralgia,0.49795538,FALSE,0,17,0
+DB06287,Temsirolimus,fatigue,0.497831089,TRUE,1,1,1
+DB00975,Dipyridamole,hypotension,0.497620171,FALSE,0,3,0
+DB01263,Posaconazole,Gastrointestinal Disorders,0.497518229,FALSE,0,5,0
+DB00906,Tiagabine,abdomen enlarged,0.497513596,FALSE,0,4,0
+DB00773,Etoposide,edema,0.49749965,FALSE,0,4,0
+DB00323,Tolcapone,increased appetite,0.497173527,FALSE,0,2,0
+DB01037,Selegiline,agitation,0.496977676,FALSE,0,3,0
+DB01273,Varenicline,confusion,0.49695726,FALSE,0,7,0
+DB01037,Selegiline,increased salivation,0.496871,FALSE,0,3,0
+DB00927,Famotidine,dyspepsia,0.496522826,TRUE,1,7,0.1429
+DB01076,Atorvastatin,cough,0.496468005,FALSE,0,20,0
+DB01104,Sertraline,parosmia,0.496311161,FALSE,0,9,0
+DB00422,Methylphenidate,Psychiatric Disorders,0.496282022,FALSE,0,38,0
+DB00195,Betaxolol,fever,0.49616772,TRUE,2,5,0.4
+DB00863,Ranitidine,pruritus,0.495906732,FALSE,0,6,0
+DB00962,Zaleplon,abnormal dreams,0.495732405,FALSE,0,2,0
+DB00989,Rivastigmine,stupor,0.495634055,FALSE,0,9,0
+DB00784,Mefenamic acid,hypersensitivity,0.495421959,FALSE,0,0,0
+DB00808,Indapamide,epistaxis,0.495374223,FALSE,0,3,0
+DB01416,Cefpodoxime,renal failure,0.495227376,FALSE,0,4,0
+DB00820,Tadalafil,sinusitis,0.495059678,FALSE,0,12,0
+DB00582,Voriconazole,asthma,0.494828315,FALSE,0,6,0
+DB00681,Amphotericin B,dermatitis,0.494791435,FALSE,0,2,0
+DB00555,Lamotrigine,jaundice,0.494660978,FALSE,0,29,0
+DB00492,Fosinopril,nervousness,0.494499739,FALSE,0,5,0
+DB00910,Paricalcitol,anxiety,0.494258645,TRUE,3,4,0.75
+DB01128,Bicalutamide,leukopenia,0.494076735,FALSE,0,2,0
+DB00472,Fluoxetine,otitis,0.494029803,FALSE,0,16,0
+DB00218,Moxifloxacin,lymphadenopathy,0.493960055,FALSE,0,2,0
+DB01149,Nefazodone,insomnia,0.493937679,TRUE,5,5,1
+DB00843,Donepezil,impotence,0.493898527,FALSE,0,6,0
+DB01273,Varenicline,paresthesia,0.493852053,FALSE,0,7,0
+DB00997,Doxorubicin,SGOT increased,0.49372959,FALSE,0,5,0
+DB01128,Bicalutamide,hypotension,0.493649932,FALSE,0,2,0
+DB00564,Carbamazepine,sweating,0.493593699,FALSE,0,10,0
+DB00341,Cetirizine,leukopenia,0.493517774,FALSE,0,4,0
+DB01224,Quetiapine,urticaria,0.493395365,FALSE,0,7,0
+DB00864,Tacrolimus,death,0.493358069,FALSE,0,15,0
+DB00507,Nitazoxanide,diarrhea,0.493196291,FALSE,0,2,0
+DB00997,Doxorubicin,leg cramps,0.493145352,FALSE,0,5,0
+DB00962,Zaleplon,polyuria,0.493053975,FALSE,0,2,0
+DB00704,Naltrexone,Urinary System Disorders,0.493009768,FALSE,0,4,0
+DB00906,Tiagabine,hyperesthesia,0.492855001,FALSE,0,4,0
+DB01044,Gatifloxacin,rhinitis,0.492827109,FALSE,0,1,0
+DB00252,Phenytoin,anxiety,0.492756479,FALSE,0,12,0
+DB00328,Indomethacin,eosinophilia,0.492724457,TRUE,6,9,0.6667
+DB01182,Propafenone,tachycardia,0.492690187,TRUE,3,3,1
+DB01150,Cefprozil,leukopenia,0.492671257,FALSE,0,4,0
+DB00949,Felbamate,dermatitis,0.492536041,FALSE,0,3,0
+DB00580,Valdecoxib,arthritis,0.492296258,FALSE,0,0,0
+DB01586,Ursodeoxycholic acid,weight loss,0.492248608,FALSE,0,0,0
+DB00370,Mirtazapine,maculopapular rash,0.492004483,FALSE,0,8,0
+DB00230,Pregabalin,visual field defect,0.491823571,FALSE,0,19,0
+DB01041,Thalidomide,urinary tract infection,0.491442648,FALSE,0,4,0
+DB00216,Eletriptan,vasodilation,0.491364417,FALSE,0,2,0
+DB00476,Duloxetine,sinusitis,0.491029607,FALSE,0,13,0
+DB00203,Sildenafil,cramps,0.490998396,FALSE,0,14,0
+DB01009,Ketoprofen,angioedema,0.490837341,FALSE,0,5,0
+DB00176,Fluvoxamine,cataract,0.490711755,FALSE,0,3,0
+DB00659,Acamprosate,conjunctivitis,0.490651402,FALSE,0,1,0
+DB00285,Venlafaxine,skin ulcer,0.490620093,FALSE,0,7,0
+DB00603,Medroxyprogesterone acetate,dyspepsia,0.490556687,FALSE,0,0,0
+DB01101,Capecitabine,malaise,0.490526526,TRUE,6,6,1
+DB00195,Betaxolol,flatulence,0.490525728,FALSE,0,5,0
+DB00476,Duloxetine,bronchitis,0.490434866,FALSE,0,13,0
+DB01165,Ofloxacin,pneumonia,0.490375839,FALSE,0,4,0
+DB00529,Foscarnet,hypersensitivity,0.490179324,TRUE,1,1,1
+DB01104,Sertraline,myalgia,0.490093099,FALSE,0,9,0
+DB01186,Pergolide,urticaria,0.490021271,FALSE,0,0,0
+DB00996,Gabapentin,postural hypotension,0.489991848,FALSE,0,17,0
+DB00276,Amsacrine,edema,0.489921929,FALSE,0,0,0
+DB00619,Imatinib,stomatitis,0.489774264,TRUE,6,6,1
+DB01120,Gliclazide,syncope,0.489516121,FALSE,0,3,0
+DB00537,Ciprofloxacin,pain,0.48945744,TRUE,6,12,0.5
+DB00641,Simvastatin,chest pain,0.48944852,TRUE,1,12,0.0833
+DB01149,Nefazodone,Amblyopia,0.489421361,FALSE,0,5,0
+DB00381,Amlodipine,hypotension,0.489359355,TRUE,59,59,1
+DB01167,Itraconazole,dry mouth,0.489076552,FALSE,0,4,0
+DB00697,Tizanidine,gastritis,0.489028501,FALSE,0,5,0
+DB00776,Oxcarbazepine,face edema,0.488987734,FALSE,0,4,0
+DB01186,Pergolide,leg cramps,0.488869544,FALSE,0,0,0
+DB00997,Doxorubicin,asthma,0.488803003,TRUE,1,5,0.2
+DB00996,Gabapentin,metrorrhagia,0.488733284,FALSE,0,17,0
+DB00962,Zaleplon,hypersensitivity,0.488725567,FALSE,0,2,0
+DB00712,Flurbiprofen,arthralgia,0.488651987,FALSE,0,5,0
+DB00864,Tacrolimus,melena,0.488592562,FALSE,0,15,0
+DB01242,Clomipramine,libido increased,0.488507787,FALSE,0,4,0
+DB00495,Zidovudine,hypersensitivity,0.48847402,TRUE,2,7,0.2857
+DB00788,Naproxen,myalgia,0.488350088,TRUE,5,12,0.4167
+DB01238,Aripiprazole,Psychiatric Disorders,0.488172087,FALSE,0,22,0
+DB00813,Fentanyl,death,0.487878864,FALSE,0,34,0
+DB00492,Fosinopril,hypersensitivity,0.487762818,FALSE,0,5,0
+DB01215,Estazolam,tachycardia,0.487736812,FALSE,0,2,0
+DB00401,Nisoldipine,arrhythmia,0.487730183,FALSE,0,0,0
+DB00289,Atomoxetine,dyspnea,0.487723037,FALSE,0,8,0
+DB00625,Efavirenz,leukopenia,0.487688329,FALSE,0,11,0
+DB00422,Methylphenidate,Urinary System Disorders,0.487625568,FALSE,0,38,0
+DB00382,Tacrine,thirst,0.487583924,FALSE,0,0,0
+DB00962,Zaleplon,pharyngitis,0.487337978,FALSE,0,2,0
+DB00538,Gadoversetamide,fatigue,0.48725681,FALSE,0,0,0
+DB00335,Atenolol,anaphylaxis,0.487193009,FALSE,0,6,0
+DB01112,Cefuroxime,erythema,0.487162362,TRUE,5,9,0.5556
+DB00379,Mexiletine,pruritus,0.486758794,FALSE,0,5,0
+DB01220,Rifaximin,diarrhea,0.486725545,TRUE,2,2,1
+DB01128,Bicalutamide,tachycardia,0.48671151,FALSE,0,2,0
+DB00335,Atenolol,flatulence,0.48645314,FALSE,0,6,0
+DB00472,Fluoxetine,myalgia,0.486143991,TRUE,5,16,0.3125
+DB00582,Voriconazole,pneumonia,0.486063008,FALSE,0,6,0
+DB00188,Bortezomib,chest pain,0.486047004,TRUE,6,6,1
+DB00370,Mirtazapine,dizziness,0.486028406,TRUE,8,8,1
+DB00370,Mirtazapine,nocturia,0.485737974,FALSE,0,8,0
+DB00612,Bisoprolol,anorexia,0.485557047,TRUE,3,7,0.4286
+DB00997,Doxorubicin,vascular disease,0.485551101,FALSE,0,5,0
+DB00370,Mirtazapine,abnormal vision,0.485540175,FALSE,0,8,0
+DB00605,Sulindac,anxiety,0.485352002,FALSE,0,2,0
+DB00843,Donepezil,leukopenia,0.484925591,FALSE,0,6,0
+DB01198,Zopiclone,eructation,0.484742542,FALSE,0,2,0
+DB01073,Fludarabine,dizziness,0.484641804,FALSE,0,2,0
+DB00631,Clofarabine,rash,0.484597166,FALSE,0,1,0
+DB00559,Bosentan,myalgia,0.484584147,FALSE,0,5,0
+DB00370,Mirtazapine,hepatitis,0.484511144,FALSE,0,8,0
+DB01120,Gliclazide,alopecia,0.484427928,FALSE,0,3,0
+DB00317,Gefitinib,headache,0.484295585,FALSE,0,2,0
+DB01186,Pergolide,hypesthesia,0.484182819,FALSE,0,0,0
+DB00494,Entacapone,rhinitis,0.484001404,FALSE,0,10,0
+DB00215,Citalopram,Infestations,0.483980164,FALSE,0,7,0
+DB00216,Eletriptan,decreased libido,0.483800945,FALSE,0,2,0
+DB00273,Topiramate,twitching,0.483731745,FALSE,0,14,0
+DB00323,Tolcapone,postural hypotension,0.4836172,FALSE,0,2,0
+DB00612,Bisoprolol,nervousness,0.483560783,FALSE,0,7,0
+DB01104,Sertraline,sweating,0.483518204,FALSE,0,9,0
+DB01201,Rifapentine,nervousness,0.4834996,FALSE,0,1,0
+DB01291,Pirbuterol,dyspnea,0.483458167,FALSE,0,0,0
+DB01120,Gliclazide,somnolence,0.483393896,FALSE,0,3,0
+DB01215,Estazolam,diarrhea,0.483310827,FALSE,0,2,0
+DB00215,Citalopram,agitation,0.48297902,TRUE,7,7,1
+DB01097,Leflunomide,vascular disease,0.482927356,FALSE,0,4,0
+DB01149,Nefazodone,amnesia,0.482907875,FALSE,0,5,0
+DB00285,Venlafaxine,coma,0.482892654,FALSE,0,7,0
+DB00929,Misoprostol,cough,0.482653991,FALSE,0,4,0
+DB00582,Voriconazole,weight loss,0.482319691,FALSE,0,6,0
+DB01263,Posaconazole,infection,0.482221889,TRUE,3,5,0.6
+DB00207,Azithromycin,fever,0.482148253,TRUE,8,13,0.6154
+DB00328,Indomethacin,dry mouth,0.482133139,TRUE,1,9,0.1111
+DB01115,Nifedipine,angina,0.482002488,FALSE,0,12,0
+DB00715,Paroxetine,paresthesia,0.481989721,FALSE,0,7,0
+DB01198,Zopiclone,cough,0.481953375,FALSE,0,2,0
+DB00659,Acamprosate,dysuria,0.481821059,FALSE,0,1,0
+DB01129,Rabeprazole,bronchitis,0.481773397,FALSE,0,4,0
+DB01044,Gatifloxacin,malaise,0.481682534,FALSE,0,1,0
+DB01149,Nefazodone,dermatitis,0.481501442,FALSE,0,5,0
+DB00918,Almotriptan,nausea,0.481488506,TRUE,3,3,1
+DB00843,Donepezil,acne,0.480971846,FALSE,0,6,0
+DB00996,Gabapentin,coma,0.480899955,FALSE,0,17,0
+DB01273,Varenicline,upper respiratory tract infection,0.480735574,FALSE,0,7,0
+DB00962,Zaleplon,Amblyopia,0.480723007,FALSE,0,2,0
+DB00398,Sorafenib,edema,0.480630193,FALSE,0,2,0
+DB00813,Fentanyl,hyperkinesia,0.480595,FALSE,0,34,0
+DB01104,Sertraline,gingivitis,0.480469667,FALSE,0,9,0
+DB00537,Ciprofloxacin,diarrhea,0.480302316,TRUE,6,12,0.5
+DB01104,Sertraline,anxiety,0.480229453,TRUE,6,9,0.6667
+DB00185,Cevimeline,maculopapular rash,0.480000013,FALSE,0,1,0
+DB00338,Omeprazole,infection,0.479951992,TRUE,12,25,0.48
+DB00181,Baclofen,vertigo,0.479892122,FALSE,0,12,0
+DB00448,Lansoprazole,cystitis,0.47987205,FALSE,0,8,0
+DB00178,Ramipril,angioedema,0.479868063,TRUE,11,12,0.9167
+DB01416,Cefpodoxime,sweating,0.47967397,FALSE,0,4,0
+DB00203,Sildenafil,taste perversion,0.479463769,FALSE,0,14,0
+DB01085,Pilocarpine,asthma,0.479338242,FALSE,0,10,0
+DB01141,Micafungin,asthenia,0.479162139,FALSE,0,3,0
+DB00203,Sildenafil,confusion,0.479088258,FALSE,0,14,0
+DB01186,Pergolide,polyuria,0.478938614,FALSE,0,0,0
+DB00996,Gabapentin,parosmia,0.478757508,FALSE,0,17,0
+DB01039,Fenofibrate,pancreatitis,0.478496411,FALSE,0,23,0
+DB00697,Tizanidine,pancreatitis,0.478422899,FALSE,0,5,0
+DB00203,Sildenafil,pneumonia,0.47827755,FALSE,0,14,0
+DB00268,Ropinirole,breast pain,0.478262034,FALSE,0,7,0
+DB00813,Fentanyl,SGOT increased,0.478066312,FALSE,0,34,0
+DB00989,Rivastigmine,menorrhagia,0.477935922,FALSE,0,9,0
+DB01182,Propafenone,arrhythmia,0.477926142,TRUE,3,3,1
+DB00745,Modafinil,tinnitus,0.477869958,FALSE,0,3,0
+DB01041,Thalidomide,asthma,0.477614893,FALSE,0,4,0
+DB00975,Dipyridamole,constipation,0.477533282,TRUE,1,3,0.3333
+DB01098,Rosuvastatin,fever,0.477507549,FALSE,0,8,0
+DB00203,Sildenafil,leg cramps,0.477365229,FALSE,0,14,0
+DB00949,Felbamate,gastrointestinal hemorrhage,0.477196137,FALSE,0,3,0
+DB00575,Clonidine,myalgia,0.47705046,FALSE,0,5,0
+DB00659,Acamprosate,stomatitis,0.476751823,TRUE,1,1,1
+DB00369,Cidofovir,renal failure,0.476644368,FALSE,0,2,0
+DB00829,Diazepam,tremor,0.476567888,FALSE,0,21,0
+DB00222,Glimepiride,rash,0.476468217,TRUE,1,9,0.1111
+DB01120,Gliclazide,vertigo,0.47639754,FALSE,0,3,0
+DB00843,Donepezil,palpitations,0.476246177,TRUE,1,6,0.1667
+DB01201,Rifapentine,paresthesia,0.476171039,FALSE,0,1,0
+DB00673,Aprepitant,chest pain,0.476139386,FALSE,0,7,0
+DB01263,Posaconazole,gastrointestinal hemorrhage,0.476067636,FALSE,0,5,0
+DB00997,Doxorubicin,syncope,0.475954814,FALSE,0,5,0
+DB00962,Zaleplon,abdomen enlarged,0.475821139,FALSE,0,2,0
+DB00437,Allopurinol,pneumonia,0.475776185,FALSE,0,6,0
+DB00494,Entacapone,vertigo,0.47561138,TRUE,2,10,0.2
+DB00313,Valproic acid,dermatitis,0.4755814,FALSE,0,0,0
+DB00343,Diltiazem,gastritis,0.475556031,FALSE,0,7,0
+DB00307,Bexarotene,epistaxis,0.47549398,FALSE,0,3,0
+DB01340,Cilazapril,angioedema,0.47546405,FALSE,0,0,0
+DB00315,Zolmitriptan,dysuria,0.475462792,FALSE,0,6,0
+DB01068,Clonazepam,nausea,0.475372808,TRUE,1,10,0.1
+DB01076,Atorvastatin,vertigo,0.475311304,FALSE,0,20,0
+DB00808,Indapamide,alopecia,0.475289193,FALSE,0,3,0
+DB00996,Gabapentin,hypokalemia,0.475274902,FALSE,0,17,0
+DB00555,Lamotrigine,kidney calculus,0.47525719,FALSE,0,29,0
+DB00303,Ertapenem,myalgia,0.475235081,FALSE,0,1,0
+DB00559,Bosentan,nervousness,0.475194617,FALSE,0,5,0
+DB00989,Rivastigmine,asthma,0.475182596,FALSE,0,9,0
+DB00784,Mefenamic acid,toxic epidermal necrolysis,0.475172111,FALSE,0,0,0
+DB01105,Sibutramine,fatigue,0.47509294,FALSE,0,0,0
+DB00482,Celecoxib,weight loss,0.474811562,FALSE,0,6,0
+DB00374,Treprostinil,infection,0.474773819,TRUE,8,28,0.2857
+DB00524,Metolazone,fever,0.47476516,FALSE,0,4,0
+DB01238,Aripiprazole,metrorrhagia,0.47474827,FALSE,0,22,0
+DB00437,Allopurinol,arrhythmia,0.474666632,FALSE,0,6,0
+DB00203,Sildenafil,dysuria,0.474652712,FALSE,0,14,0
+DB00471,Montelukast,headache,0.474636329,TRUE,4,4,1
+DB00334,Olanzapine,blurred vision,0.474528437,FALSE,0,29,0
+DB01041,Thalidomide,hypersensitivity,0.474527858,TRUE,4,4,1
+DB00740,Riluzole,pharyngitis,0.474524101,FALSE,0,4,0
+DB01009,Ketoprofen,arthralgia,0.474485736,FALSE,0,5,0
+DB06287,Temsirolimus,dyspepsia,0.474394103,FALSE,0,1,0
+DB00542,Benazepril,urticaria,0.474233892,FALSE,0,14,0
+DB01067,Glipizide,fever,0.474232382,FALSE,0,6,0
+DB00910,Paricalcitol,rhinitis,0.474208253,FALSE,0,4,0
+DB00401,Nisoldipine,bronchitis,0.474193996,FALSE,0,0,0
+DB00997,Doxorubicin,photosensitivity reaction,0.474069221,FALSE,0,5,0
+DB01008,Busulfan,renal failure,0.474006619,FALSE,0,2,0
+DB06800,Methylnaltrexone,hypertension,0.474000027,FALSE,0,1,0
+DB00953,Rizatriptan,hypotension,0.47376037,FALSE,0,5,0
+DB00659,Acamprosate,fatigue,0.473754098,FALSE,0,1,0
+DB01104,Sertraline,weight gain,0.473447943,FALSE,0,9,0
+DB01039,Fenofibrate,epistaxis,0.472923268,FALSE,0,23,0
+DB01250,Olsalazine,asthenia,0.472723969,FALSE,0,2,0
+DB00193,Tramadol,increased appetite,0.472681122,FALSE,0,11,0
+DB01023,Felodipine,hypersensitivity,0.472671624,TRUE,1,1,1
+DB00573,Fenoprofen,erythema,0.4726042,FALSE,0,4,0
+DB00691,Moexipril,paresthesia,0.472500521,FALSE,0,2,0
+DB00962,Zaleplon,fibrillation,0.472488993,FALSE,0,2,0
+DB00590,Doxazosin,peripheral edema,0.472479083,FALSE,0,4,0
+DB00503,Ritonavir,alopecia,0.472478083,TRUE,3,13,0.2308
+DB00185,Cevimeline,heart failure,0.472417961,FALSE,0,1,0
+DB00533,Rofecoxib,malaise,0.472344282,FALSE,0,0,0
+DB01044,Gatifloxacin,cough,0.472325326,FALSE,0,1,0
+DB00238,Nevirapine,leukopenia,0.47232276,FALSE,0,2,0
+DB00195,Betaxolol,face edema,0.472287884,FALSE,0,5,0
+DB01129,Rabeprazole,thinking abnormal,0.472270535,FALSE,0,4,0
+DB00978,Lomefloxacin,palpitations,0.472237383,FALSE,0,0,0
+DB00998,Frovatriptan,rash,0.472132343,FALSE,0,1,0
+DB00526,Oxaliplatin,malaise,0.472087915,FALSE,0,3,0
+DB01140,Cefadroxil,leukopenia,0.472085032,FALSE,0,5,0
+DB00526,Oxaliplatin,ulcer,0.472043138,FALSE,0,3,0
+DB01014,Balsalazide,rash,0.471939421,FALSE,0,1,0
+DB01340,Cilazapril,back pain,0.47179568,FALSE,0,0,0
+DB01165,Ofloxacin,SGPT increased,0.471649008,FALSE,0,4,0
+DB01129,Rabeprazole,cough increased,0.471547552,FALSE,0,4,0
+DB00215,Citalopram,nocturia,0.471439027,FALSE,0,7,0
+DB06800,Methylnaltrexone,rash,0.471421892,FALSE,0,1,0
+DB00252,Phenytoin,hallucinations,0.471396163,FALSE,0,12,0
+DB01041,Thalidomide,ecchymosis,0.471252521,FALSE,0,4,0
+DB00358,Mefloquine,constipation,0.471188095,TRUE,1,1,1
+DB01623,Thiothixene,dizziness,0.471146954,FALSE,0,4,0
+DB01201,Rifapentine,angina,0.471117343,FALSE,0,1,0
+DB01062,Oxybutynin,myalgia,0.470953637,FALSE,0,4,0
+DB00401,Nisoldipine,infection,0.470930244,FALSE,0,0,0
+DB00918,Almotriptan,edema,0.470915125,FALSE,0,3,0
+DB00216,Eletriptan,urinary retention,0.470882253,FALSE,0,2,0
+DB00997,Doxorubicin,infarction,0.470741478,FALSE,0,5,0
+DB00829,Diazepam,agitation,0.470731412,TRUE,12,21,0.5714
+DB01067,Glipizide,palpitations,0.470634781,FALSE,0,6,0
+DB00285,Venlafaxine,depersonalization,0.470407629,FALSE,0,7,0
+DB00295,Morphine,tinnitus,0.470403203,FALSE,0,31,0
+DB00396,Progesterone,malaise,0.4702473,FALSE,0,7,0
+DB00804,Dicyclomine,diarrhea,0.469996881,TRUE,3,4,0.75
+DB00582,Voriconazole,nervousness,0.469902018,FALSE,0,6,0
+DB01167,Itraconazole,confusion,0.469876937,FALSE,0,4,0
+DB00374,Treprostinil,constipation,0.469834768,FALSE,0,28,0
+DB00193,Tramadol,pain,0.469833607,TRUE,5,11,0.4545
+DB00315,Zolmitriptan,dermatitis,0.469700928,FALSE,0,6,0
+DB00176,Fluvoxamine,skin ulcer,0.469644402,FALSE,0,3,0
+DB01098,Rosuvastatin,fatigue,0.46949197,FALSE,0,8,0
+DB00425,Zolpidem,hypertonia,0.469393893,FALSE,0,9,0
+DB00580,Valdecoxib,jaundice,0.469350712,FALSE,0,0,0
+DB00180,Flunisolide,arthralgia,0.469329446,FALSE,0,1,0
+DB00363,Clozapine,blurred vision,0.469299843,TRUE,2,10,0.2
+DB00370,Mirtazapine,cramps,0.469297545,FALSE,0,8,0
+DB00276,Amsacrine,constipation,0.469295085,FALSE,0,0,0
+DB00176,Fluvoxamine,glaucoma,0.469292292,TRUE,3,3,1
+DB00543,Amoxapine,agitation,0.469268526,FALSE,0,4,0
+DB00216,Eletriptan,dysuria,0.469233639,FALSE,0,2,0
+DB01320,Fosphenytoin,hypotension,0.469229233,FALSE,0,0,0
+DB00472,Fluoxetine,paresthesia,0.469200786,FALSE,0,16,0
+DB00671,Cefixime,anaphylaxis,0.46919466,FALSE,0,4,0
+DB01068,Clonazepam,palpitations,0.469139502,TRUE,8,10,0.8
+DB00908,Quinidine,insomnia,0.469060647,TRUE,1,3,0.3333
+DB00697,Tizanidine,dysuria,0.46905427,FALSE,0,5,0
+DB00715,Paroxetine,twitching,0.469002935,FALSE,0,7,0
+DB00909,Zonisamide,fever,0.46896989,FALSE,0,5,0
+DB00472,Fluoxetine,cellulitis,0.468789594,FALSE,0,16,0
+DB01416,Cefpodoxime,angioedema,0.46867026,FALSE,0,4,0
+DB00908,Quinidine,anaphylaxis,0.468668227,FALSE,0,3,0
+DB00196,Fluconazole,abdominal pain,0.46862887,TRUE,10,10,1
+DB00864,Tacrolimus,arthritis,0.468494292,FALSE,0,15,0
+DB00461,Nabumetone,tachycardia,0.468321227,FALSE,0,3,0
+DB00476,Duloxetine,epistaxis,0.468271441,FALSE,0,13,0
+DB00465,Ketorolac,fatigue,0.468243817,FALSE,0,9,0
+DB00351,Megestrol acetate,anorexia,0.468124231,FALSE,0,0,0
+DB00997,Doxorubicin,hypotension,0.468101599,TRUE,1,5,0.2
+DB00811,Ribavirin,respiratory tract infection,0.467966544,FALSE,0,7,0
+DB00734,Risperidone,abnormal dreams,0.467890097,FALSE,0,19,0
+DB00494,Entacapone,chest pain,0.467776219,TRUE,8,10,0.8
+DB00457,Prazosin,anorexia,0.467597151,FALSE,0,3,0
+DB00213,Pantoprazole,tooth disorder,0.467555261,FALSE,0,4,0
+DB00989,Rivastigmine,hepatitis,0.467493446,TRUE,9,9,1
+DB00242,Cladribine,anemia,0.467379913,FALSE,0,18,0
+DB01232,Saquinavir,hematuria,0.467272641,FALSE,0,2,0
+DB01250,Olsalazine,sweating,0.467244427,FALSE,0,2,0
+DB01249,Iodixanol,tachycardia,0.467176103,FALSE,0,0,0
+DB00680,Moricizine,insomnia,0.467063951,FALSE,0,0,0
+DB01037,Selegiline,insomnia,0.466938375,TRUE,3,3,1
+DB00776,Oxcarbazepine,hepatitis,0.466798997,TRUE,3,4,0.75
+DB00820,Tadalafil,rhinitis,0.466779024,FALSE,0,12,0
+DB00495,Zidovudine,erythema multiforme,0.466767469,FALSE,0,7,0
+DB01024,Mycophenolic acid,Connective Tissue Disorders,0.466731967,FALSE,0,2,0
+DB00533,Rofecoxib,nervousness,0.466716688,FALSE,0,0,0
+DB01291,Pirbuterol,paresthesia,0.466595586,FALSE,0,0,0
+DB01215,Estazolam,fatigue,0.46637912,FALSE,0,2,0
+DB00396,Progesterone,agitation,0.466370492,FALSE,0,7,0
+DB01254,Dasatinib,sweating,0.466317872,FALSE,0,7,0
+DB01043,Memantine,myalgia,0.466314502,TRUE,1,10,0.1
+DB01273,Varenicline,pharyngitis,0.466298088,FALSE,0,7,0
+DB01062,Oxybutynin,infection,0.466087394,TRUE,3,4,0.75
+DB01072,Atazanavir,paresthesia,0.465995137,FALSE,0,7,0
+DB00276,Amsacrine,pruritus,0.465954503,FALSE,0,0,0
+DB01097,Leflunomide,renal failure,0.465943106,FALSE,0,4,0
+DB00185,Cevimeline,libido increased,0.46565605,FALSE,0,1,0
+DB01182,Propafenone,asthenia,0.465649146,FALSE,0,3,0
+DB00476,Duloxetine,anxiety,0.46551113,TRUE,13,13,1
+DB00327,Hydromorphone,pain,0.465393279,TRUE,4,8,0.5
+DB00526,Oxaliplatin,tinnitus,0.46538259,FALSE,0,3,0
+DB00334,Olanzapine,psychosis,0.465300666,FALSE,0,29,0
+DB00379,Mexiletine,anorexia,0.465197861,FALSE,0,5,0
+DB00369,Cidofovir,thinking abnormal,0.465153229,FALSE,0,2,0
+DB00850,Perphenazine,rash,0.465054154,FALSE,0,9,0
+DB01076,Atorvastatin,anxiety,0.465025118,FALSE,0,20,0
+DB00493,Cefotaxime,pancytopenia,0.464963578,FALSE,0,4,0
+DB00829,Diazepam,tachycardia,0.464867603,TRUE,1,21,0.0476
+DB01062,Oxybutynin,dyspnea,0.464766572,FALSE,0,4,0
+DB00962,Zaleplon,cough increased,0.464721046,FALSE,0,2,0
+DB01050,Ibuprofen,hemorrhage,0.464436873,FALSE,0,29,0
+DB00323,Tolcapone,abnormal vision,0.464409019,FALSE,0,2,0
+DB00580,Valdecoxib,skin disorder,0.464348057,FALSE,0,0,0
+DB01413,Cefepime,neutropenia,0.464324617,FALSE,0,5,0
+DB01211,Clarithromycin,fever,0.46431607,FALSE,0,11,0
+DB00425,Zolpidem,peripheral edema,0.464283292,FALSE,0,9,0
+DB00715,Paroxetine,chills,0.464260696,FALSE,0,7,0
+DB00529,Foscarnet,urticaria,0.464227707,TRUE,1,1,1
+DB00991,Oxaprozin,myalgia,0.46409884,FALSE,0,2,0
+DB00996,Gabapentin,sleep disorder,0.464098827,FALSE,0,17,0
+DB01249,Iodixanol,asthenia,0.464088589,FALSE,0,0,0
+DB00674,Galantamine,alopecia,0.464077689,FALSE,0,5,0
+DB00341,Cetirizine,postural hypotension,0.464074396,FALSE,0,4,0
+DB01024,Mycophenolic acid,cystitis,0.464025703,FALSE,0,2,0
+DB00790,Perindopril,tachycardia,0.464005825,TRUE,5,8,0.625
+DB00605,Sulindac,sweating,0.46398991,FALSE,0,2,0
+DB00295,Morphine,edema,0.463987818,FALSE,0,31,0
+DB01129,Rabeprazole,back pain,0.463944887,FALSE,0,4,0
+DB00997,Doxorubicin,gastroenteritis,0.463815691,FALSE,0,5,0
+DB00323,Tolcapone,dermatitis,0.463728355,FALSE,0,2,0
+DB01085,Pilocarpine,malaise,0.46368367,FALSE,0,10,0
+DB00590,Doxazosin,nocturia,0.463546213,FALSE,0,4,0
+DB00975,Dipyridamole,anorexia,0.463541291,FALSE,0,3,0
+DB00704,Naltrexone,Breast Disorders,0.463451406,FALSE,0,4,0
+DB00619,Imatinib,malaise,0.46337944,FALSE,0,6,0
+DB00909,Zonisamide,photosensitivity,0.463350386,FALSE,0,5,0
+DB00335,Atenolol,agitation,0.463230437,FALSE,0,6,0
+DB01291,Pirbuterol,constipation,0.463201017,FALSE,0,0,0
+DB01039,Fenofibrate,syncope,0.463070229,FALSE,0,23,0
+DB00811,Ribavirin,infection,0.46285174,TRUE,2,7,0.2857
+DB00494,Entacapone,myalgia,0.462789832,TRUE,2,10,0.2
+DB00480,Lenalidomide,SGOT increased,0.462597072,FALSE,0,7,0
+DB00685,Trovafloxacin,hematuria,0.462508451,FALSE,0,0,0
+DB01024,Mycophenolic acid,myocardial infarction,0.462335347,FALSE,0,2,0
+DB01114,Chlorpheniramine,headache,0.462303509,TRUE,2,3,0.6667
+DB00582,Voriconazole,weight gain,0.462203657,FALSE,0,6,0
+DB00343,Diltiazem,hepatitis,0.462171304,FALSE,0,7,0
+DB01167,Itraconazole,bronchitis,0.462091094,FALSE,0,4,0
+DB00573,Fenoprofen,pain,0.462021785,FALSE,0,4,0
+DB01037,Selegiline,abdomen enlarged,0.461906029,FALSE,0,3,0
+DB00382,Tacrine,hypersensitivity,0.46188925,FALSE,0,0,0
+DB01238,Aripiprazole,bronchitis,0.461885389,FALSE,0,22,0
+DB00843,Donepezil,lymphadenopathy,0.461688145,FALSE,0,6,0
+DB00691,Moexipril,insomnia,0.461179627,FALSE,0,2,0
+DB00494,Entacapone,tachycardia,0.46114465,TRUE,2,10,0.2
+DB00776,Oxcarbazepine,hallucinations,0.461090734,FALSE,0,4,0
+DB06287,Temsirolimus,vascular disease,0.461071658,FALSE,0,1,0
+DB00790,Perindopril,flu,0.46103477,FALSE,0,8,0
+DB01037,Selegiline,mouth ulceration,0.461014311,FALSE,0,3,0
+DB00437,Allopurinol,anaphylaxis,0.460843313,TRUE,1,6,0.1667
+DB00285,Venlafaxine,extrapyramidal syndrome,0.460756235,FALSE,0,7,0
+DB00524,Metolazone,dyspnea,0.4606905,FALSE,0,4,0
+DB00535,Cefdinir,urticaria,0.460649036,TRUE,1,3,0.3333
+DB00315,Zolmitriptan,asthma,0.460605411,FALSE,0,6,0
+DB00784,Mefenamic acid,epidermal necrolysis,0.460532664,FALSE,0,0,0
+DB00555,Lamotrigine,arrhythmia,0.460504807,FALSE,0,29,0
+DB00555,Lamotrigine,metrorrhagia,0.460330941,FALSE,0,29,0
+DB00697,Tizanidine,hypertension,0.460314264,FALSE,0,5,0
+DB01039,Fenofibrate,hematuria,0.460213409,FALSE,0,23,0
+DB00740,Riluzole,hyperkinesia,0.460079477,FALSE,0,4,0
+DB00586,Diclofenac,arthritis,0.459960352,FALSE,0,25,0
+DB00213,Pantoprazole,renal failure,0.459940347,FALSE,0,4,0
+DB00207,Azithromycin,agranulocytosis,0.459894519,FALSE,0,13,0
+DB00320,Dihydroergotamine,chest pain,0.459820513,FALSE,0,2,0
+DB00790,Perindopril,hepatitis,0.459715077,TRUE,5,8,0.625
+DB00929,Misoprostol,paresthesia,0.459598017,FALSE,0,4,0
+DB00343,Diltiazem,hypotension,0.459549377,TRUE,3,7,0.4286
+DB06800,Methylnaltrexone,upper respiratory tract infection,0.459545912,FALSE,0,1,0
+DB00343,Diltiazem,tachycardia,0.459488785,TRUE,2,7,0.2857
+DB00461,Nabumetone,hypotension,0.459322146,FALSE,0,3,0
+DB01242,Clomipramine,arthritis,0.459206121,FALSE,0,4,0
+DB00958,Carboplatin,headache,0.458994729,TRUE,1,1,1
+DB01248,Docetaxel,malaise,0.458947652,TRUE,1,7,0.1429
+DB00697,Tizanidine,chest pain,0.458806714,FALSE,0,5,0
+DB00598,Labetalol,confusion,0.458777798,FALSE,0,5,0
+DB00555,Lamotrigine,anaphylaxis,0.458760678,FALSE,0,29,0
+DB00758,Clopidogrel,pharyngitis,0.458574799,FALSE,0,8,0
+DB00582,Voriconazole,angina,0.458561911,FALSE,0,6,0
+DB01050,Ibuprofen,chest pain,0.458557511,TRUE,1,29,0.0345
+DB00685,Trovafloxacin,erythema,0.458540403,FALSE,0,0,0
+DB00413,Pramipexole,photosensitivity reaction,0.458099675,FALSE,0,10,0
+DB00659,Acamprosate,hypertonia,0.458051171,FALSE,0,1,0
+DB00813,Fentanyl,ataxia,0.45804408,FALSE,0,34,0
+DB00401,Nisoldipine,hepatitis,0.45792699,FALSE,0,0,0
+DB00776,Oxcarbazepine,paresthesia,0.457887076,FALSE,0,4,0
+DB00334,Olanzapine,thrombophlebitis,0.457866843,FALSE,0,29,0
+DB01248,Docetaxel,urticaria,0.457834983,FALSE,0,7,0
+DB01238,Aripiprazole,coma,0.457770318,TRUE,1,22,0.0455
+DB00665,Nilutamide,flatulence,0.457719626,FALSE,0,1,0
+DB00685,Trovafloxacin,arrhythmia,0.457670844,FALSE,0,0,0
+DB00790,Perindopril,photosensitivity,0.457601396,FALSE,0,8,0
+DB01085,Pilocarpine,acne,0.457410853,FALSE,0,10,0
+DB00740,Riluzole,neck pain,0.457401891,FALSE,0,4,0
+DB00910,Paricalcitol,tachycardia,0.457248231,FALSE,0,4,0
+DB00889,Granisetron,pruritus,0.457146743,FALSE,0,3,0
+DB01186,Pergolide,salivation,0.457111125,FALSE,0,0,0
+DB01193,Acebutolol,nervousness,0.457098236,FALSE,0,3,0
+DB01165,Ofloxacin,death,0.457021934,FALSE,0,4,0
+DB00215,Citalopram,tongue edema,0.456975118,FALSE,0,7,0
+DB01115,Nifedipine,bronchitis,0.45697066,FALSE,0,12,0
+DB00374,Treprostinil,hypersensitivity,0.456893881,FALSE,0,28,0
+DB00370,Mirtazapine,photophobia,0.456877091,FALSE,0,8,0
+DB00382,Tacrine,dry mouth,0.456683288,FALSE,0,0,0
+DB00580,Valdecoxib,bone pain,0.456597297,FALSE,0,0,0
+DB01043,Memantine,jaundice,0.456577767,FALSE,0,10,0
+DB00705,Delavirdine,photosensitivity,0.456423198,FALSE,0,0,0
+DB00178,Ramipril,back pain,0.456416749,FALSE,0,12,0
+DB00962,Zaleplon,diarrhea,0.456226514,FALSE,0,2,0
+DB00500,Tolmetin,rash,0.45606146,FALSE,0,2,0
+DB00213,Pantoprazole,hypokalemia,0.456053478,FALSE,0,4,0
+DB01037,Selegiline,thrombocytopenia,0.456013485,FALSE,0,3,0
+DB00215,Citalopram,fatigue,0.45599546,TRUE,7,7,1
+DB01067,Glipizide,dry mouth,0.455994502,FALSE,0,6,0
+DB00382,Tacrine,postural hypotension,0.455876994,FALSE,0,0,0
+DB01128,Bicalutamide,renal failure,0.455722708,FALSE,0,2,0
+DB00853,Temozolomide,tachycardia,0.455536397,FALSE,0,9,0
+DB00413,Pramipexole,hostility,0.455513783,FALSE,0,10,0
+DB00323,Tolcapone,weight gain,0.455385603,FALSE,0,2,0
+DB00379,Mexiletine,urticaria,0.455318255,TRUE,1,5,0.2
+DB01098,Rosuvastatin,anorexia,0.455264734,FALSE,0,8,0
+DB00715,Paroxetine,weight gain,0.455223424,FALSE,0,7,0
+DB00704,Naltrexone,hypesthesia,0.455210049,FALSE,0,4,0
+DB00215,Citalopram,maculopapular rash,0.455163041,FALSE,0,7,0
+DB00507,Nitazoxanide,dyspnea,0.455110138,FALSE,0,2,0
+DB01129,Rabeprazole,nocturia,0.455070499,FALSE,0,4,0
+DB00853,Temozolomide,nervousness,0.454926953,FALSE,0,9,0
+DB00740,Riluzole,vasodilation,0.454772994,FALSE,0,4,0
+DB00996,Gabapentin,abdomen enlarged,0.454741863,FALSE,0,17,0
+DB00715,Paroxetine,hypotonia,0.454695116,FALSE,0,7,0
+DB00401,Nisoldipine,angina,0.454606035,FALSE,0,0,0
+DB00906,Tiagabine,seborrhea,0.454576753,FALSE,0,4,0
+DB01168,Procarbazine,agranulocytosis,0.454552074,FALSE,0,1,0
+DB00889,Granisetron,edema,0.45452404,FALSE,0,3,0
+DB00740,Riluzole,SGOT increased,0.454260339,FALSE,0,4,0
+DB01029,Irbesartan,arthralgia,0.45412827,TRUE,1,12,0.0833
+DB00437,Allopurinol,syncope,0.454115604,FALSE,0,6,0
+DB01129,Rabeprazole,urinary tract infection,0.454085546,FALSE,0,4,0
+DB00997,Doxorubicin,chest pain,0.453883918,TRUE,1,5,0.2
+DB00857,Terbinafine,pruritus,0.453867583,TRUE,1,2,0.5
+DB00413,Pramipexole,depersonalization,0.453810953,FALSE,0,10,0
+DB01367,Rasagiline,myalgia,0.453807635,FALSE,0,4,0
+DB01076,Atorvastatin,conjunctivitis,0.453630325,FALSE,0,20,0
+DB01068,Clonazepam,tachycardia,0.453618837,FALSE,0,10,0
+DB00997,Doxorubicin,cramps,0.453541443,FALSE,0,5,0
+DB00853,Temozolomide,cramps,0.453374605,FALSE,0,9,0
+DB00439,Cerivastatin,fatigue,0.453334269,FALSE,0,0,0
+DB01211,Clarithromycin,edema,0.453294376,FALSE,0,11,0
+DB00962,Zaleplon,amenorrhea,0.453270144,FALSE,0,2,0
+DB00422,Methylphenidate,sweating,0.4532626,FALSE,0,38,0
+DB01186,Pergolide,increased salivation,0.453081785,FALSE,0,0,0
+DB00910,Paricalcitol,urinary tract infection,0.453037911,FALSE,0,4,0
+DB00960,Pindolol,dyspepsia,0.452976069,FALSE,0,2,0
+DB00582,Voriconazole,leukocytosis,0.452905763,FALSE,0,6,0
+DB00355,Aztreonam,agranulocytosis,0.45288781,FALSE,0,3,0
+DB01224,Quetiapine,jaundice,0.452859299,FALSE,0,7,0
+DB00910,Paricalcitol,Urinary System Disorders,0.452854588,FALSE,0,4,0
+DB00857,Terbinafine,hepatitis,0.452672977,FALSE,0,2,0
+DB00642,Pemetrexed,dizziness,0.452622518,TRUE,2,8,0.25
+DB00978,Lomefloxacin,infection,0.452479624,FALSE,0,0,0
+DB00208,Ticlopidine,anemia,0.4524179,TRUE,1,1,1
+DB00285,Venlafaxine,fecal incontinence,0.452194752,FALSE,0,7,0
+DB00382,Tacrine,taste perversion,0.4521701,FALSE,0,0,0
+DB00537,Ciprofloxacin,vascular disease,0.452113808,FALSE,0,12,0
+DB01101,Capecitabine,anxiety,0.451972886,TRUE,6,6,1

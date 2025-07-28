@@ -1,0 +1,401 @@
+Chemical,Chemical ID,Gene,Gene ID,Phenotype,Phenotype ID,Disease,Disease ID,Evidence Strength Score
+Permethrin,D026023,AR,367,negative regulation of cell population proliferation,GO:0008285,Prostatic Neoplasms,D011471,252
+Permethrin,D026023,AR,367,positive regulation of cell population proliferation,GO:0008284,Prostatic Neoplasms,D011471,252
+Permethrin,D026023,SOD1,6647,reactive oxygen species metabolic process,GO:0072593,"Disease Models, Animal",D004195,198
+Permethrin,D026023,SOD1,6647,superoxide dismutase activity,GO:0004784,"Disease Models, Animal",D004195,198
+Permethrin,D026023,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Inflammation,D007249,192
+Permethrin,D026023,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Inflammation,D007249,192
+Permethrin,D026023,NFE2L2,4780,reactive oxygen species metabolic process,GO:0072593,"Disease Models, Animal",D004195,180
+Permethrin,D026023,MAPK1,5594,cellular response to DNA damage stimulus,GO:0006974,"Disease Models, Animal",D004195,135
+Permethrin,D026023,AR,367,positive regulation of intracellular estrogen receptor signaling pathway,GO:0033148,Prostatic Neoplasms,D011471,126
+Permethrin,D026023,AR,367,regulation of gene expression,GO:0010468,Prostatic Neoplasms,D011471,126
+Permethrin,D026023,AR,367,seminiferous tubule development,GO:0072520,Prostatic Neoplasms,D011471,126
+Permethrin,D026023,AR,367,spermatogenesis,GO:0007283,Prostatic Neoplasms,D011471,126
+Permethrin,D026023,IL6,3569,negative regulation of cell population proliferation,GO:0008285,Inflammation,D007249,110
+Permethrin,D026023,IL6,3569,positive regulation of cell population proliferation,GO:0008284,Inflammation,D007249,110
+Permethrin,D026023,MAPK3,5595,cellular response to DNA damage stimulus,GO:0006974,"Disease Models, Animal",D004195,108
+Permethrin,D026023,TNF,7124,negative regulation of cell population proliferation,GO:0008285,"Disease Models, Animal",D004195,108
+Permethrin,D026023,TNF,7124,positive regulation of cell population proliferation,GO:0008284,"Disease Models, Animal",D004195,108
+Permethrin,D026023,SOD1,6647,hydrogen peroxide biosynthetic process,GO:0050665,"Disease Models, Animal",D004195,99
+Permethrin,D026023,SOD1,6647,spermatogenesis,GO:0007283,"Disease Models, Animal",D004195,99
+Permethrin,D026023,SOD1,6647,response to oxidative stress,GO:0006979,"Disease Models, Animal",D004195,99
+Permethrin,D026023,SOD1,6647,transmission of nerve impulse,GO:0019226,"Disease Models, Animal",D004195,99
+Permethrin,D026023,SOD1,6647,glutathione metabolic process,GO:0006749,"Disease Models, Animal",D004195,99
+Permethrin,D026023,ESR1,2099,chromatin remodeling,GO:0006338,"Disease Models, Animal",D004195,99
+Permethrin,D026023,SOD1,6647,apoptotic process,GO:0006915,"Disease Models, Animal",D004195,99
+Permethrin,D026023,SOD1,6647,superoxide anion generation,GO:0042554,"Disease Models, Animal",D004195,99
+Permethrin,D026023,TNF,7124,astrocyte activation,GO:0048143,Inflammation,D007249,96
+Permethrin,D026023,TNF,7124,positive regulation of hepatocyte proliferation,GO:2000347,Inflammation,D007249,96
+Permethrin,D026023,TNF,7124,protein localization to plasma membrane,GO:0072659,Inflammation,D007249,96
+Permethrin,D026023,TNF,7124,microglial cell activation,GO:0001774,Inflammation,D007249,96
+Permethrin,D026023,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,"Disease Models, Animal",D004195,90
+Permethrin,D026023,MAPK1,5594,positive regulation of cell population proliferation,GO:0008284,"Disease Models, Animal",D004195,90
+Permethrin,D026023,NFE2L2,4780,response to oxidative stress,GO:0006979,"Disease Models, Animal",D004195,90
+Permethrin,D026023,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Inflammation,D007249,90
+Permethrin,D026023,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,"Disease Models, Animal",D004195,90
+Permethrin,D026023,APP,351,negative regulation of cell population proliferation,GO:0008285,"Disease Models, Animal",D004195,90
+Permethrin,D026023,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Inflammation,D007249,90
+Permethrin,D026023,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Chemical and Drug Induced Liver Injury,D056486,84
+Permethrin,D026023,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,84
+Permethrin,D026023,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Asthma,D001249,72
+Permethrin,D026023,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Asthma,D001249,72
+Permethrin,D026023,TP53,7157,cellular response to DNA damage stimulus,GO:0006974,Lung Neoplasms,D008175,72
+Permethrin,D026023,IL6,3569,negative regulation of cell population proliferation,GO:0008285,Multiple Myeloma,D009101,60
+Permethrin,D026023,IL6,3569,positive regulation of cell population proliferation,GO:0008284,Multiple Myeloma,D009101,60
+Permethrin,D026023,MAPK1,5594,cellular response to DNA damage stimulus,GO:0006974,Lung Neoplasms,D008175,60
+Permethrin,D026023,SNCA,6622,microglial cell activation,GO:0001774,Parkinson Disease,D010300,58
+Permethrin,D026023,SNCA,6622,glutathione metabolic process,GO:0006749,Parkinson Disease,D010300,58
+Permethrin,D026023,SNCA,6622,dopamine metabolic process,GO:0042417,Parkinson Disease,D010300,58
+Permethrin,D026023,IL6,3569,positive regulation of tumor necrosis factor production,GO:0032760,Inflammation,D007249,55
+Permethrin,D026023,IL6,3569,response to electrical stimulus,GO:0051602,Inflammation,D007249,55
+Permethrin,D026023,IL6,3569,positive regulation of protein import into nucleus,GO:0042307,Inflammation,D007249,55
+Permethrin,D026023,TNF,7124,microglial cell activation,GO:0001774,"Disease Models, Animal",D004195,54
+Permethrin,D026023,AKT1,207,cellular response to DNA damage stimulus,GO:0006974,"Disease Models, Animal",D004195,54
+Permethrin,D026023,ALPL,249,calcium ion homeostasis,GO:0055074,"Disease Models, Animal",D004195,54
+Permethrin,D026023,PSEN1,5663,calcium ion homeostasis,GO:0055074,"Disease Models, Animal",D004195,54
+Permethrin,D026023,PSEN1,5663,cellular response to DNA damage stimulus,GO:0006974,"Disease Models, Animal",D004195,54
+Permethrin,D026023,TNF,7124,astrocyte activation,GO:0048143,"Disease Models, Animal",D004195,54
+Permethrin,D026023,TNF,7124,positive regulation of hepatocyte proliferation,GO:2000347,"Disease Models, Animal",D004195,54
+Permethrin,D026023,TNF,7124,protein localization to plasma membrane,GO:0072659,"Disease Models, Animal",D004195,54
+Permethrin,D026023,IL6,3569,negative regulation of cell population proliferation,GO:0008285,Prostatic Neoplasms,D011471,50
+Permethrin,D026023,IL6,3569,positive regulation of cell population proliferation,GO:0008284,Prostatic Neoplasms,D011471,50
+Permethrin,D026023,NFE2L2,4780,reactive oxygen species metabolic process,GO:0072593,Chemical and Drug Induced Liver Injury,D056486,50
+Permethrin,D026023,TP53,7157,negative regulation of cell population proliferation,GO:0008285,Lung Neoplasms,D008175,48
+Permethrin,D026023,TP53,7157,cellular response to DNA damage stimulus,GO:0006974,Prostatic Neoplasms,D011471,48
+Permethrin,D026023,TP53,7157,reactive oxygen species metabolic process,GO:0072593,Lung Neoplasms,D008175,48
+Permethrin,D026023,TP53,7157,cell population proliferation,GO:0008283,Lung Neoplasms,D008175,48
+Permethrin,D026023,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Necrosis,D009336,48
+Permethrin,D026023,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Lung Neoplasms,D008175,48
+Permethrin,D026023,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Lung Neoplasms,D008175,48
+Permethrin,D026023,MAPK3,5595,cellular response to DNA damage stimulus,GO:0006974,Lung Neoplasms,D008175,48
+Permethrin,D026023,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Necrosis,D009336,48
+Permethrin,D026023,FOS,2353,regulation of gene expression,GO:0010468,"Disease Models, Animal",D004195,45
+Permethrin,D026023,MAPK1,5594,positive regulation of protein import into nucleus,GO:0042307,"Disease Models, Animal",D004195,45
+Permethrin,D026023,MAPK1,5594,apoptotic process,GO:0006915,"Disease Models, Animal",D004195,45
+Permethrin,D026023,IL1B,3553,astrocyte activation,GO:0048143,Inflammation,D007249,45
+Permethrin,D026023,IL1B,3553,astrocyte activation,GO:0048143,"Disease Models, Animal",D004195,45
+Permethrin,D026023,IL1B,3553,apoptotic process,GO:0006915,Inflammation,D007249,45
+Permethrin,D026023,IL1B,3553,apoptotic process,GO:0006915,"Disease Models, Animal",D004195,45
+Permethrin,D026023,APP,351,regulation of gene expression,GO:0010468,"Disease Models, Animal",D004195,45
+Permethrin,D026023,APP,351,response to oxidative stress,GO:0006979,"Disease Models, Animal",D004195,45
+Permethrin,D026023,APP,351,positive regulation of tumor necrosis factor production,GO:0032760,"Disease Models, Animal",D004195,45
+Permethrin,D026023,APP,351,microglial cell activation,GO:0001774,"Disease Models, Animal",D004195,45
+Permethrin,D026023,APP,351,cholesterol metabolic process,GO:0008203,"Disease Models, Animal",D004195,45
+Permethrin,D026023,APP,351,astrocyte activation,GO:0048143,"Disease Models, Animal",D004195,45
+Permethrin,D026023,APP,351,apoptotic process,GO:0006915,"Disease Models, Animal",D004195,45
+Permethrin,D026023,ESR1,2099,chromatin remodeling,GO:0006338,Lung Neoplasms,D008175,44
+Permethrin,D026023,TNF,7124,positive regulation of hepatocyte proliferation,GO:2000347,Chemical and Drug Induced Liver Injury,D056486,42
+Permethrin,D026023,TP53,7157,cellular response to DNA damage stimulus,GO:0006974,"Carcinoma, Hepatocellular",D006528,42
+Permethrin,D026023,TNF,7124,protein localization to plasma membrane,GO:0072659,Chemical and Drug Induced Liver Injury,D056486,42
+Permethrin,D026023,TNF,7124,astrocyte activation,GO:0048143,Chemical and Drug Induced Liver Injury,D056486,42
+Permethrin,D026023,TNF,7124,microglial cell activation,GO:0001774,Chemical and Drug Induced Liver Injury,D056486,42
+Permethrin,D026023,CAT,847,reactive oxygen species metabolic process,GO:0072593,Seizures,D012640,42
+Permethrin,D026023,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Lung Neoplasms,D008175,40
+Permethrin,D026023,IL6,3569,positive regulation of cell population proliferation,GO:0008284,"Carcinoma, Hepatocellular",D006528,40
+Permethrin,D026023,MAPK1,5594,positive regulation of cell population proliferation,GO:0008284,Lung Neoplasms,D008175,40
+Permethrin,D026023,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Lung Neoplasms,D008175,40
+Permethrin,D026023,IL6,3569,negative regulation of cell population proliferation,GO:0008285,"Carcinoma, Hepatocellular",D006528,40
+Permethrin,D026023,NR1H4,9971,triglyceride homeostasis,GO:0070328,"Disease Models, Animal",D004195,36
+Permethrin,D026023,TNF,7124,protein localization to plasma membrane,GO:0072659,Asthma,D001249,36
+Permethrin,D026023,TNF,7124,positive regulation of hepatocyte proliferation,GO:2000347,Asthma,D001249,36
+Permethrin,D026023,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Nerve Degeneration,D009410,36
+Permethrin,D026023,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Cardiomegaly,D006332,36
+Permethrin,D026023,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Nerve Degeneration,D009410,36
+Permethrin,D026023,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Cardiomegaly,D006332,36
+Permethrin,D026023,ABCB4,5244,xenobiotic transport across blood-brain barrier,GO:1990962,"Disease Models, Animal",D004195,36
+Permethrin,D026023,TNF,7124,astrocyte activation,GO:0048143,Asthma,D001249,36
+Permethrin,D026023,SNCA,6622,glutathione metabolic process,GO:0006749,"Disease Models, Animal",D004195,36
+Permethrin,D026023,SNCA,6622,dopamine metabolic process,GO:0042417,"Disease Models, Animal",D004195,36
+Permethrin,D026023,TNF,7124,microglial cell activation,GO:0001774,Asthma,D001249,36
+Permethrin,D026023,NR1H4,9971,cholesterol homeostasis,GO:0042632,"Disease Models, Animal",D004195,36
+Permethrin,D026023,IFNG,3458,positive regulation of cell population proliferation,GO:0008284,"Disease Models, Animal",D004195,36
+Permethrin,D026023,MECP2,4204,cell population proliferation,GO:0008283,"Disease Models, Animal",D004195,36
+Permethrin,D026023,APP,351,negative regulation of cell population proliferation,GO:0008285,Memory Disorders,D008569,36
+Permethrin,D026023,FAS,355,positive regulation of reactive oxygen species biosynthetic process,GO:1903428,"Disease Models, Animal",D004195,36
+Permethrin,D026023,IFNG,3458,negative regulation of cell population proliferation,GO:0008285,"Disease Models, Animal",D004195,36
+Permethrin,D026023,AKT1,207,cell population proliferation,GO:0008283,"Disease Models, Animal",D004195,36
+Permethrin,D026023,IL10,3586,negative regulation of cell population proliferation,GO:0008285,"Disease Models, Animal",D004195,36
+Permethrin,D026023,MAPK3,5595,apoptotic process,GO:0006915,"Disease Models, Animal",D004195,36
+Permethrin,D026023,MAPK3,5595,brain development,GO:0007420,"Disease Models, Animal",D004195,36
+Permethrin,D026023,MAPK3,5595,regulation of gene expression,GO:0010468,"Disease Models, Animal",D004195,36
+Permethrin,D026023,SNCA,6622,microglial cell activation,GO:0001774,"Disease Models, Animal",D004195,36
+Permethrin,D026023,SOD2,6648,negative regulation of cell population proliferation,GO:0008285,Prostatic Neoplasms,D011471,32
+Permethrin,D026023,SOD2,6648,reactive oxygen species metabolic process,GO:0072593,Prostatic Neoplasms,D011471,32
+Permethrin,D026023,SOD2,6648,superoxide dismutase activity,GO:0004784,Prostatic Neoplasms,D011471,32
+Permethrin,D026023,TP53,7157,cell population proliferation,GO:0008283,Prostatic Neoplasms,D011471,32
+Permethrin,D026023,TP53,7157,negative regulation of cell population proliferation,GO:0008285,Prostatic Neoplasms,D011471,32
+Permethrin,D026023,TP53,7157,reactive oxygen species metabolic process,GO:0072593,Prostatic Neoplasms,D011471,32
+Permethrin,D026023,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,30
+Permethrin,D026023,IL6,3569,response to electrical stimulus,GO:0051602,Multiple Myeloma,D009101,30
+Permethrin,D026023,IL6,3569,positive regulation of tumor necrosis factor production,GO:0032760,Multiple Myeloma,D009101,30
+Permethrin,D026023,IL6,3569,positive regulation of protein import into nucleus,GO:0042307,Multiple Myeloma,D009101,30
+Permethrin,D026023,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Necrosis,D009336,30
+Permethrin,D026023,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Necrosis,D009336,30
+Permethrin,D026023,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,30
+Permethrin,D026023,BDNF,627,response to electrical stimulus,GO:0051602,Nerve Degeneration,D009410,30
+Permethrin,D026023,BDNF,627,brain development,GO:0007420,Nerve Degeneration,D009410,30
+Permethrin,D026023,HMGB1,3146,cellular response to DNA damage stimulus,GO:0006974,Inflammation,D007249,30
+Permethrin,D026023,CAT,847,reactive oxygen species metabolic process,GO:0072593,Chemical and Drug Induced Liver Injury,D056486,28
+Permethrin,D026023,CAT,847,reactive oxygen species metabolic process,GO:0072593,"Kidney Failure, Chronic",D007676,28
+Permethrin,D026023,CAT,847,reactive oxygen species metabolic process,GO:0072593,Necrosis,D009336,28
+Permethrin,D026023,TP53,7157,cell population proliferation,GO:0008283,"Carcinoma, Hepatocellular",D006528,28
+Permethrin,D026023,TP53,7157,negative regulation of cell population proliferation,GO:0008285,"Carcinoma, Hepatocellular",D006528,28
+Permethrin,D026023,TP53,7157,reactive oxygen species metabolic process,GO:0072593,"Carcinoma, Hepatocellular",D006528,28
+Permethrin,D026023,APC,324,cellular response to DNA damage stimulus,GO:0006974,Colonic Neoplasms,D003110,27
+Permethrin,D026023,PARK7,11315,cellular response to DNA damage stimulus,GO:0006974,Parkinson Disease,D010300,27
+Permethrin,D026023,IL6,3569,response to electrical stimulus,GO:0051602,Prostatic Neoplasms,D011471,25
+Permethrin,D026023,NFE2L2,4780,response to oxidative stress,GO:0006979,Chemical and Drug Induced Liver Injury,D056486,25
+Permethrin,D026023,IL6,3569,positive regulation of tumor necrosis factor production,GO:0032760,Prostatic Neoplasms,D011471,25
+Permethrin,D026023,IL6,3569,positive regulation of protein import into nucleus,GO:0042307,Prostatic Neoplasms,D011471,25
+Permethrin,D026023,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Cardiotoxicity,D066126,24
+Permethrin,D026023,TP53,7157,spermatogenesis,GO:0007283,Lung Neoplasms,D008175,24
+Permethrin,D026023,TP53,7157,response to oxidative stress,GO:0006979,Lung Neoplasms,D008175,24
+Permethrin,D026023,TP53,7157,chromosome organization,GO:0051276,Lung Neoplasms,D008175,24
+Permethrin,D026023,TP53,7157,apoptotic process,GO:0006915,Lung Neoplasms,D008175,24
+Permethrin,D026023,TNF,7124,protein localization to plasma membrane,GO:0072659,Necrosis,D009336,24
+Permethrin,D026023,TNF,7124,protein localization to plasma membrane,GO:0072659,Lung Neoplasms,D008175,24
+Permethrin,D026023,TNF,7124,positive regulation of hepatocyte proliferation,GO:2000347,Necrosis,D009336,24
+Permethrin,D026023,TNF,7124,positive regulation of hepatocyte proliferation,GO:2000347,Lung Neoplasms,D008175,24
+Permethrin,D026023,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Colonic Neoplasms,D003110,24
+Permethrin,D026023,CES1,1066,lipid catabolic process,GO:0016042,Lung Neoplasms,D008175,24
+Permethrin,D026023,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Colonic Neoplasms,D003110,24
+Permethrin,D026023,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Cardiotoxicity,D066126,24
+Permethrin,D026023,TNF,7124,microglial cell activation,GO:0001774,Necrosis,D009336,24
+Permethrin,D026023,TNF,7124,microglial cell activation,GO:0001774,Lung Neoplasms,D008175,24
+Permethrin,D026023,TNF,7124,astrocyte activation,GO:0048143,Necrosis,D009336,24
+Permethrin,D026023,TNF,7124,astrocyte activation,GO:0048143,Lung Neoplasms,D008175,24
+Permethrin,D026023,IL2,3558,positive regulation of cell population proliferation,GO:0008284,Lung Neoplasms,D008175,24
+Permethrin,D026023,AR,367,positive regulation of cell population proliferation,GO:0008284,Lung Neoplasms,D008175,24
+Permethrin,D026023,AR,367,negative regulation of cell population proliferation,GO:0008285,Lung Neoplasms,D008175,24
+Permethrin,D026023,APP,351,negative regulation of cell population proliferation,GO:0008285,Nerve Degeneration,D009410,24
+Permethrin,D026023,ESR1,2099,chromatin remodeling,GO:0006338,Prostatic Neoplasms,D011471,22
+Permethrin,D026023,ESR1,2099,chromatin remodeling,GO:0006338,"Carcinoma, Hepatocellular",D006528,22
+Permethrin,D026023,CAT,847,cholesterol metabolic process,GO:0008203,Seizures,D012640,21
+Permethrin,D026023,CAT,847,triglyceride metabolic process,GO:0006641,Seizures,D012640,21
+Permethrin,D026023,CAT,847,response to oxidative stress,GO:0006979,Seizures,D012640,21
+Permethrin,D026023,IL6,3569,response to electrical stimulus,GO:0051602,"Carcinoma, Hepatocellular",D006528,20
+Permethrin,D026023,SOD2,6648,superoxide dismutase activity,GO:0004784,"Carcinoma, Hepatocellular",D006528,20
+Permethrin,D026023,SOD2,6648,negative regulation of cell population proliferation,GO:0008285,"Carcinoma, Hepatocellular",D006528,20
+Permethrin,D026023,SNCA,6622,microglial cell activation,GO:0001774,Parkinsonian Disorders,D020734,20
+Permethrin,D026023,SNCA,6622,glutathione metabolic process,GO:0006749,Parkinsonian Disorders,D020734,20
+Permethrin,D026023,SNCA,6622,dopamine metabolic process,GO:0042417,Parkinsonian Disorders,D020734,20
+Permethrin,D026023,NFE2L2,4780,reactive oxygen species metabolic process,GO:0072593,Prostatic Neoplasms,D011471,20
+Permethrin,D026023,NFE2L2,4780,reactive oxygen species metabolic process,GO:0072593,Lung Neoplasms,D008175,20
+Permethrin,D026023,NFE2L2,4780,reactive oxygen species metabolic process,GO:0072593,Liver Neoplasms,D008113,20
+Permethrin,D026023,NFE2L2,4780,reactive oxygen species metabolic process,GO:0072593,Kidney Diseases,D007674,20
+Permethrin,D026023,MAPK1,5594,positive regulation of protein import into nucleus,GO:0042307,Lung Neoplasms,D008175,20
+Permethrin,D026023,MAPK1,5594,apoptotic process,GO:0006915,Lung Neoplasms,D008175,20
+Permethrin,D026023,SOD2,6648,reactive oxygen species metabolic process,GO:0072593,"Carcinoma, Hepatocellular",D006528,20
+Permethrin,D026023,IL6,3569,positive regulation of tumor necrosis factor production,GO:0032760,"Carcinoma, Hepatocellular",D006528,20
+Permethrin,D026023,IL1B,3553,negative regulation of cell population proliferation,GO:0008285,Chemical and Drug Induced Liver Injury,D056486,20
+Permethrin,D026023,IL6,3569,positive regulation of protein import into nucleus,GO:0042307,"Carcinoma, Hepatocellular",D006528,20
+Permethrin,D026023,BCHE,590,negative regulation of cell population proliferation,GO:0008285,Poisoning,D011041,20
+Permethrin,D026023,HMGB1,3146,positive regulation of cell population proliferation,GO:0008284,Inflammation,D007249,20
+Permethrin,D026023,IL1B,3553,apoptotic process,GO:0006915,Lung Neoplasms,D008175,20
+Permethrin,D026023,IL1B,3553,astrocyte activation,GO:0048143,Lung Neoplasms,D008175,20
+Permethrin,D026023,FOS,2353,regulation of gene expression,GO:0010468,Seizures,D012640,20
+Permethrin,D026023,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,20
+Permethrin,D026023,IL6,3569,negative regulation of cell population proliferation,GO:0008285,Lung Neoplasms,D008175,20
+Permethrin,D026023,IL6,3569,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,20
+Permethrin,D026023,IL6,3569,negative regulation of cell population proliferation,GO:0008285,Chemical and Drug Induced Liver Injury,D056486,20
+Permethrin,D026023,IL6,3569,positive regulation of cell population proliferation,GO:0008284,Lung Neoplasms,D008175,20
+Doxorubicin,D004317,AKT1,207,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,461648
+Doxorubicin,D004317,FAS,355,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,343552
+Doxorubicin,D004317,AKT1,207,cell population proliferation,GO:0008283,"Ventricular Dysfunction, Left",D018487,204336
+Doxorubicin,D004317,AKT1,207,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,200552
+Doxorubicin,D004317,IL6,3569,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,177232
+Doxorubicin,D004317,SIRT1,23411,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,161040
+Resveratrol,D000077185,SIRT1,23411,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,153216
+Doxorubicin,D004317,FAS,355,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,149248
+Doxorubicin,D004317,SOD2,6648,superoxide dismutase activity,GO:0004784,"Ventricular Dysfunction, Left",D018487,138600
+Resveratrol,D000077185,SIRT1,23411,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,120960
+Doxorubicin,D004317,SOD2,6648,glutathione metabolic process,GO:0006749,"Ventricular Dysfunction, Left",D018487,118800
+Doxorubicin,D004317,SOD2,6648,regulation of mitochondrial membrane potential,GO:0051881,"Ventricular Dysfunction, Left",D018487,110880
+Doxorubicin,D004317,SOD2,6648,negative regulation of cell population proliferation,GO:0008285,"Ventricular Dysfunction, Left",D018487,99000
+Doxorubicin,D004317,SOD2,6648,reactive oxygen species metabolic process,GO:0072593,"Ventricular Dysfunction, Left",D018487,99000
+Lipopolysaccharides,D008070,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Ventricular Dysfunction, Left",D018487,98748
+Resveratrol,D000077185,SIRT1,23411,positive regulation of cell population proliferation,GO:0008284,"Ventricular Dysfunction, Left",D018487,84672
+Losartan,D019808,AGT,183,regulation of blood pressure,GO:0008217,"Ventricular Dysfunction, Left",D018487,84600
+Doxorubicin,D004317,IL6,3569,negative regulation of cell population proliferation,GO:0008285,"Ventricular Dysfunction, Left",D018487,83600
+Doxorubicin,D004317,NFE2L2,4780,reactive oxygen species metabolic process,GO:0072593,"Ventricular Dysfunction, Left",D018487,81400
+Doxorubicin,D004317,SIRT1,23411,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,69960
+Resveratrol,D000077185,IL6,3569,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,66420
+Enalapril,D004656,AGT,183,regulation of blood pressure,GO:0008217,"Ventricular Dysfunction, Left",D018487,59664
+Doxorubicin,D004317,AGT,183,cell population proliferation,GO:0008283,"Ventricular Dysfunction, Left",D018487,57024
+Doxorubicin,D004317,AKT1,207,cellular response to DNA damage stimulus,GO:0006974,"Ventricular Dysfunction, Left",D018487,56760
+Doxorubicin,D004317,FAS,355,positive regulation of reactive oxygen species biosynthetic process,GO:1903428,"Ventricular Dysfunction, Left",D018487,53504
+Doxorubicin,D004317,ATM,472,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,51304
+Resveratrol,D000077185,AKT1,207,cell population proliferation,GO:0008283,"Ventricular Dysfunction, Left",D018487,51156
+Resveratrol,D000077185,AGT,183,cell population proliferation,GO:0008283,"Ventricular Dysfunction, Left",D018487,50274
+Isoproterenol,D007545,AGT,183,regulation of heart rate,GO:0002027,"Ventricular Dysfunction, Left",D018487,48048
+Lipopolysaccharides,D008070,IL6,3569,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,47475
+Resveratrol,D000077185,IL6,3569,positive regulation of cell population proliferation,GO:0008284,"Ventricular Dysfunction, Left",D018487,46494
+Doxorubicin,D004317,VDAC1,7416,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,42944
+Resveratrol,D000077185,AKT1,207,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,39672
+Doxorubicin,D004317,SOD2,6648,mitochondrion organization,GO:0007005,"Ventricular Dysfunction, Left",D018487,39600
+Doxorubicin,D004317,SOD2,6648,response to oxidative stress,GO:0006979,"Ventricular Dysfunction, Left",D018487,39600
+Doxorubicin,D004317,AKT1,207,response to oxidative stress,GO:0006979,"Ventricular Dysfunction, Left",D018487,37840
+Resveratrol,D000077185,SIRT1,23411,response to oxidative stress,GO:0006979,"Ventricular Dysfunction, Left",D018487,36288
+Lipopolysaccharides,D008070,IL6,3569,inflammatory response,GO:0006954,"Ventricular Dysfunction, Left",D018487,36081
+Doxorubicin,D004317,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,"Ventricular Dysfunction, Left",D018487,33440
+Doxorubicin,D004317,TLR4,7099,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,32648
+Doxorubicin,D004317,NFE2L2,4780,response to oxidative stress,GO:0006979,"Ventricular Dysfunction, Left",D018487,32560
+bisphenol A,C006780,AKT1,207,cell population proliferation,GO:0008283,"Ventricular Dysfunction, Left",D018487,31360
+Resveratrol,D000077185,AKT1,207,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,31320
+Resveratrol,D000077185,IL6,3569,negative regulation of cell population proliferation,GO:0008285,"Ventricular Dysfunction, Left",D018487,30996
+Doxorubicin,D004317,IL6,3569,positive regulation of cell population proliferation,GO:0008284,"Ventricular Dysfunction, Left",D018487,30096
+Streptozocin,D013311,INS1,16333,glucose homeostasis,GO:0042593,"Ventricular Dysfunction, Left",D018487,28665
+Doxorubicin,D004317,CTNNB1,1499,cell population proliferation,GO:0008283,"Ventricular Dysfunction, Left",D018487,28512
+Doxorubicin,D004317,CTNNB1,1499,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,27984
+Doxorubicin,D004317,SOD2,6648,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Ventricular Dysfunction, Left",D018487,27720
+Doxorubicin,D004317,AKT1,207,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Ventricular Dysfunction, Left",D018487,26488
+Doxorubicin,D004317,AGT,183,negative regulation of cell population proliferation,GO:0008285,"Ventricular Dysfunction, Left",D018487,26400
+bisphenol A,C006780,AKT1,207,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,26040
+Lipopolysaccharides,D008070,TLR4,7099,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Ventricular Dysfunction, Left",D018487,24336
+Doxorubicin,D004317,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Ventricular Dysfunction, Left",D018487,23408
+Carvedilol,D000077261,AGT,183,regulation of blood pressure,GO:0008217,"Ventricular Dysfunction, Left",D018487,23328
+Lipopolysaccharides,D008070,IL6,3569,positive regulation of cytokine production involved in inflammatory response,GO:1900017,"Ventricular Dysfunction, Left",D018487,22788
+Resveratrol,D000077185,AGT,183,positive regulation of cell population proliferation,GO:0008284,"Ventricular Dysfunction, Left",D018487,21546
+Fluorouracil,D005472,FAS,355,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,21000
+Lipopolysaccharides,D008070,IL6,3569,negative regulation of cell population proliferation,GO:0008285,"Ventricular Dysfunction, Left",D018487,20889
+Lipopolysaccharides,D008070,IL6,3569,positive regulation of cell population proliferation,GO:0008284,"Ventricular Dysfunction, Left",D018487,20889
+Lipopolysaccharides,D008070,TLR4,7099,nitric oxide biosynthetic process,GO:0006809,"Ventricular Dysfunction, Left",D018487,20592
+Resveratrol,D000077185,SIRT1,23411,positive regulation of cAMP-dependent protein kinase activity,GO:2000481,"Ventricular Dysfunction, Left",D018487,20160
+bisphenol A,C006780,AGT,183,cell population proliferation,GO:0008283,"Ventricular Dysfunction, Left",D018487,20160
+Doxorubicin,D004317,SIRT1,23411,cellular response to DNA damage stimulus,GO:0006974,"Ventricular Dysfunction, Left",D018487,19800
+Lipopolysaccharides,D008070,IL6,3569,positive regulation of tumor necrosis factor production,GO:0032760,"Ventricular Dysfunction, Left",D018487,18990
+Doxorubicin,D004317,VDAC1,7416,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,18656
+Quercetin,D011794,AKT1,207,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,18480
+Resveratrol,D000077185,SIRT1,23411,cellular response to DNA damage stimulus,GO:0006974,"Ventricular Dysfunction, Left",D018487,18144
+Resveratrol,D000077185,SIRT1,23411,negative regulation of NF-kappaB transcription factor activity,GO:0032088,"Ventricular Dysfunction, Left",D018487,18144
+Quercetin,D011794,AKT1,207,cell population proliferation,GO:0008283,"Ventricular Dysfunction, Left",D018487,17850
+Resveratrol,D000077185,SOD2,6648,superoxide dismutase activity,GO:0004784,"Ventricular Dysfunction, Left",D018487,17820
+Losartan,D019808,AGT,183,vasoconstriction,GO:0042310,"Ventricular Dysfunction, Left",D018487,17100
+Isoproterenol,D007545,AGT,183,regulation of blood pressure,GO:0008217,"Ventricular Dysfunction, Left",D018487,16731
+Resveratrol,D000077185,NFE2L2,4780,reactive oxygen species metabolic process,GO:0072593,"Ventricular Dysfunction, Left",D018487,16461
+bisphenol A,C006780,IL6,3569,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,16368
+Streptozocin,D013311,SOD2,6648,superoxide dismutase activity,GO:0004784,"Ventricular Dysfunction, Left",D018487,16302
+Resveratrol,D000077185,SIRT1,23411,negative regulation of protein kinase B signaling,GO:0051898,"Ventricular Dysfunction, Left",D018487,16128
+Resveratrol,D000077185,SIRT1,23411,triglyceride biosynthetic process,GO:0019432,"Ventricular Dysfunction, Left",D018487,16128
+Resveratrol,D000077185,CTNNB1,1499,cell population proliferation,GO:0008283,"Ventricular Dysfunction, Left",D018487,15876
+Doxorubicin,D004317,SOD2,6648,release of cytochrome c from mitochondria,GO:0001836,"Ventricular Dysfunction, Left",D018487,15840
+Carvedilol,D000077261,AGT,183,regulation of heart rate,GO:0002027,"Ventricular Dysfunction, Left",D018487,15552
+Resveratrol,D000077185,SOD2,6648,reactive oxygen species metabolic process,GO:0072593,"Ventricular Dysfunction, Left",D018487,15345
+Lipopolysaccharides,D008070,IL6,3569,positive regulation of protein import into nucleus,GO:0042307,"Ventricular Dysfunction, Left",D018487,15192
+Lipopolysaccharides,D008070,IL6,3569,positive regulation of ERK1 and ERK2 cascade,GO:0070374,"Ventricular Dysfunction, Left",D018487,15192
+Doxorubicin,D004317,AKT1,207,cell migration,GO:0016477,"Ventricular Dysfunction, Left",D018487,15136
+Dietary Fats,D004041,IL6,3569,glucose homeostasis,GO:0042593,"Ventricular Dysfunction, Left",D018487,14840
+Doxorubicin,D004317,ATM,472,cellular response to DNA damage stimulus,GO:0006974,"Ventricular Dysfunction, Left",D018487,14520
+Resveratrol,D000077185,AGT,183,negative regulation of cell population proliferation,GO:0008285,"Ventricular Dysfunction, Left",D018487,14364
+bisphenol A,C006780,CTNNB1,1499,cell population proliferation,GO:0008283,"Ventricular Dysfunction, Left",D018487,14336
+bisphenol A,C006780,IL6,3569,positive regulation of cell population proliferation,GO:0008284,"Ventricular Dysfunction, Left",D018487,14136
+Resveratrol,D000077185,SIRT1,23411,mitochondrion organization,GO:0007005,"Ventricular Dysfunction, Left",D018487,14112
+Resveratrol,D000077185,SIRT1,23411,positive regulation of protein kinase B signaling,GO:0051897,"Ventricular Dysfunction, Left",D018487,14112
+Resveratrol,D000077185,SIRT1,23411,regulation of glucose metabolic process,GO:0010906,"Ventricular Dysfunction, Left",D018487,14112
+Resveratrol,D000077185,SIRT1,23411,vasodilation,GO:0042311,"Ventricular Dysfunction, Left",D018487,14112
+Resveratrol,D000077185,SOD2,6648,negative regulation of cell population proliferation,GO:0008285,"Ventricular Dysfunction, Left",D018487,13860
+Acetylcysteine,D000111,NFE2L2,4780,reactive oxygen species metabolic process,GO:0072593,"Ventricular Dysfunction, Left",D018487,13797
+Particulate Matter,D052638,IL6,3569,inflammatory response,GO:0006954,"Ventricular Dysfunction, Left",D018487,13650
+Lipopolysaccharides,D008070,TLR4,7099,positive regulation of NF-kappaB transcription factor activity,GO:0051092,"Ventricular Dysfunction, Left",D018487,13572
+Lipopolysaccharides,D008070,TLR4,7099,positive regulation of reactive oxygen species biosynthetic process,GO:1903428,"Ventricular Dysfunction, Left",D018487,13572
+Angiotensin-Converting Enzyme Inhibitors,D000806,AGT,183,regulation of blood pressure,GO:0008217,"Ventricular Dysfunction, Left",D018487,13545
+Streptozocin,D013311,IL6,3569,glucose homeostasis,GO:0042593,"Ventricular Dysfunction, Left",D018487,13377
+Streptozocin,D013311,AKT1,207,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,13325
+Dietary Fats,D004041,INS1,16333,glucose homeostasis,GO:0042593,"Ventricular Dysfunction, Left",D018487,13300
+Lipopolysaccharides,D008070,IL6,3569,positive regulation of interleukin-1 beta production,GO:0032731,"Ventricular Dysfunction, Left",D018487,13293
+Doxorubicin,D004317,SIRT1,23411,response to oxidative stress,GO:0006979,"Ventricular Dysfunction, Left",D018487,13200
+Doxorubicin,D004317,CTNNB1,1499,negative regulation of cell population proliferation,GO:0008285,"Ventricular Dysfunction, Left",D018487,13200
+Doxorubicin,D004317,SIRT1,23411,mitochondrion organization,GO:0007005,"Ventricular Dysfunction, Left",D018487,13200
+Resveratrol,D000077185,SOD2,6648,glutathione metabolic process,GO:0006749,"Ventricular Dysfunction, Left",D018487,12870
+Lipopolysaccharides,D008070,TLR4,7099,positive regulation of inflammatory response,GO:0050729,"Ventricular Dysfunction, Left",D018487,12636
+Paclitaxel,D017239,AKT1,207,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,12600
+Acetylcysteine,D000111,AKT1,207,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,12597
+Glucose,D005947,INS1,16333,glucose metabolic process,GO:0006006,"Ventricular Dysfunction, Left",D018487,12371
+bisphenol A,C006780,AKT1,207,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,12320
+bisphenol A,C006780,IL6,3569,negative regulation of cell population proliferation,GO:0008285,"Ventricular Dysfunction, Left",D018487,12276
+Resveratrol,D000077185,IL6,3569,positive regulation of tumor necrosis factor production,GO:0032760,"Ventricular Dysfunction, Left",D018487,12177
+Resveratrol,D000077185,IL6,3569,glucose homeostasis,GO:0042593,"Ventricular Dysfunction, Left",D018487,12177
+Resveratrol,D000077185,SIRT1,23411,positive regulation of mitochondrial membrane potential,GO:0010918,"Ventricular Dysfunction, Left",D018487,12096
+Resveratrol,D000077185,SIRT1,23411,response to insulin,GO:0032868,"Ventricular Dysfunction, Left",D018487,12096
+Doxorubicin,D004317,SIRT1,23411,positive regulation of cell population proliferation,GO:0008284,"Ventricular Dysfunction, Left",D018487,11880
+Doxorubicin,D004317,SOD2,6648,response to xenobiotic stimulus,GO:0009410,"Ventricular Dysfunction, Left",D018487,11880
+Doxorubicin,D004317,SOD2,6648,superoxide anion generation,GO:0042554,"Ventricular Dysfunction, Left",D018487,11880
+Doxorubicin,D004317,TLR4,7099,positive regulation of reactive oxygen species biosynthetic process,GO:1903428,"Ventricular Dysfunction, Left",D018487,11704
+Lipopolysaccharides,D008070,TLR4,7099,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,11700
+Lipopolysaccharides,D008070,IL6,3569,positive regulation of protein kinase B signaling,GO:0051897,"Ventricular Dysfunction, Left",D018487,11394
+Resveratrol,D000077185,SOD2,6648,regulation of mitochondrial membrane potential,GO:0051881,"Ventricular Dysfunction, Left",D018487,11385
+Doxorubicin,D004317,AKT1,207,nitric oxide metabolic process,GO:0046209,"Ventricular Dysfunction, Left",D018487,11352
+Doxorubicin,D004317,AKT1,207,positive regulation of mitochondrial membrane potential,GO:0010918,"Ventricular Dysfunction, Left",D018487,11352
+Doxorubicin,D004317,FAS,355,positive regulation of release of cytochrome c from mitochondria,GO:0090200,"Ventricular Dysfunction, Left",D018487,11264
+Propranolol,D011433,AGT,183,regulation of heart rate,GO:0002027,"Ventricular Dysfunction, Left",D018487,11250
+Dietary Fats,D004041,SIRT1,23411,triglyceride biosynthetic process,GO:0019432,"Ventricular Dysfunction, Left",D018487,11200
+Resveratrol,D000077185,IL6,3569,inflammatory response,GO:0006954,"Ventricular Dysfunction, Left",D018487,11070
+Oxygen,D010100,IL6,3569,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,11008
+Streptozocin,D013311,INS1,16333,glucose metabolic process,GO:0006006,"Ventricular Dysfunction, Left",D018487,10920
+Streptozocin,D013311,NFE2L2,4780,response to oxidative stress,GO:0006979,"Ventricular Dysfunction, Left",D018487,10816
+Isoproterenol,D007545,AGT,183,vasodilation,GO:0042311,"Ventricular Dysfunction, Left",D018487,10725
+Dietary Fats,D004041,IL6,3569,inflammatory response,GO:0006954,"Ventricular Dysfunction, Left",D018487,10600
+Resveratrol,D000077185,SIRT1,23411,negative regulation of apoptotic process,GO:0043066,"Ventricular Dysfunction, Left",D018487,10080
+Resveratrol,D000077185,SIRT1,23411,negative regulation of tumor necrosis factor production,GO:0032720,"Ventricular Dysfunction, Left",D018487,10080
+Doxorubicin,D004317,IL6,3569,positive regulation of ERK1 and ERK2 cascade,GO:0070374,"Ventricular Dysfunction, Left",D018487,10032
+Doxorubicin,D004317,IL6,3569,response to xenobiotic stimulus,GO:0009410,"Ventricular Dysfunction, Left",D018487,10032
+Resveratrol,D000077185,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Ventricular Dysfunction, Left",D018487,9963
+Losartan,D019808,AGT,183,vasodilation,GO:0042311,"Ventricular Dysfunction, Left",D018487,9900
+Doxorubicin,D004317,NFE2L2,4780,response to xenobiotic stimulus,GO:0009410,"Ventricular Dysfunction, Left",D018487,9768
+Resveratrol,D000077185,CTNNB1,1499,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,9720
+Doxorubicin,D004317,ATM,472,response to oxidative stress,GO:0006979,"Ventricular Dysfunction, Left",D018487,9680
+bisphenol A,C006780,FAS,355,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,9672
+Resveratrol,D000077185,NFE2L2,4780,response to oxidative stress,GO:0006979,"Ventricular Dysfunction, Left",D018487,9558
+Doxorubicin,D004317,AGT,183,positive regulation of cell population proliferation,GO:0008284,"Ventricular Dysfunction, Left",D018487,9504
+Carvedilol,D000077261,AGT,183,vasodilation,GO:0042311,"Ventricular Dysfunction, Left",D018487,9504
+Resveratrol,D000077185,AKT1,207,response to oxidative stress,GO:0006979,"Ventricular Dysfunction, Left",D018487,9396
+Doxorubicin,D004317,IGF2R,3482,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,9328
+Resveratrol,D000077185,SOD2,6648,response to oxidative stress,GO:0006979,"Ventricular Dysfunction, Left",D018487,8910
+Lipopolysaccharides,D008070,TLR4,7099,inflammatory response,GO:0006954,"Ventricular Dysfunction, Left",D018487,8892
+Resveratrol,D000077185,IL6,3569,positive regulation of interleukin-1 beta production,GO:0032731,"Ventricular Dysfunction, Left",D018487,8856
+Streptozocin,D013311,AKT1,207,response to oxidative stress,GO:0006979,"Ventricular Dysfunction, Left",D018487,8450
+Doxorubicin,D004317,FAS,355,response to xenobiotic stimulus,GO:0009410,"Ventricular Dysfunction, Left",D018487,8448
+Doxorubicin,D004317,AGT,183,regulation of heart rate,GO:0002027,"Ventricular Dysfunction, Left",D018487,8448
+Carvedilol,D000077261,ADRB2,154,vasodilation,GO:0042311,"Ventricular Dysfunction, Left",D018487,8316
+Streptozocin,D013311,SOD2,6648,glutathione metabolic process,GO:0006749,"Ventricular Dysfunction, Left",D018487,8294
+Resveratrol,D000077185,FAS,355,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,8208
+Particulate Matter,D052638,IL6,3569,negative regulation of cell population proliferation,GO:0008285,"Ventricular Dysfunction, Left",D018487,8190
+Oxygen,D010100,AKT1,207,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,8064
+Resveratrol,D000077185,SIRT1,23411,negative regulation of I-kappaB kinase/NF-kappaB signaling,GO:0043124,"Ventricular Dysfunction, Left",D018487,8064
+Fluorouracil,D005472,AKT1,207,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,8000
+Streptozocin,D013311,SIRT1,23411,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,7995
+Lipopolysaccharides,D008070,TLR4,7099,macrophage activation,GO:0042116,"Ventricular Dysfunction, Left",D018487,7956
+Glucose,D005947,INS,3630,glucose metabolic process,GO:0006006,"Ventricular Dysfunction, Left",D018487,7921
+Carvedilol,D000077261,NPPB,4879,regulation of blood pressure,GO:0008217,"Ventricular Dysfunction, Left",D018487,7776
+Cisplatin,D002945,AKT1,207,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,7776
+Resveratrol,D000077185,IL6,3569,positive regulation of ERK1 and ERK2 cascade,GO:0070374,"Ventricular Dysfunction, Left",D018487,7749
+Resveratrol,D000077185,IL6,3569,positive regulation of protein kinase B signaling,GO:0051897,"Ventricular Dysfunction, Left",D018487,7749
+Propranolol,D011433,AGT,183,regulation of blood pressure,GO:0008217,"Ventricular Dysfunction, Left",D018487,7650
+Oxygen,D010100,IL6,3569,negative regulation of cell population proliferation,GO:0008285,"Ventricular Dysfunction, Left",D018487,7568
+Doxorubicin,D004317,AKT1,207,protein ubiquitination,GO:0016567,"Ventricular Dysfunction, Left",D018487,7568
+Doxorubicin,D004317,AKT1,207,protein import into nucleus,GO:0006606,"Ventricular Dysfunction, Left",D018487,7568
+Doxorubicin,D004317,AKT1,207,nitric oxide biosynthetic process,GO:0006809,"Ventricular Dysfunction, Left",D018487,7568
+Doxorubicin,D004317,AKT1,207,negative regulation of cell migration,GO:0030336,"Ventricular Dysfunction, Left",D018487,7568
+Doxorubicin,D004317,AKT1,207,inflammatory response,GO:0006954,"Ventricular Dysfunction, Left",D018487,7568
+Doxorubicin,D004317,AKT1,207,glucose metabolic process,GO:0006006,"Ventricular Dysfunction, Left",D018487,7568
+bisphenol A,C006780,SOD2,6648,superoxide dismutase activity,GO:0004784,"Ventricular Dysfunction, Left",D018487,7548
+Blood Glucose,D001786,IL6,3569,glucose homeostasis,GO:0042593,"Ventricular Dysfunction, Left",D018487,7476
+Streptozocin,D013311,SOD2,6648,response to oxidative stress,GO:0006979,"Ventricular Dysfunction, Left",D018487,7436
+Particulate Matter,D052638,IL6,3569,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,7410
+Doxorubicin,D004317,AGT,183,positive regulation of nitric oxide biosynthetic process,GO:0045429,"Ventricular Dysfunction, Left",D018487,7392
+bisphenol A,C006780,SOD2,6648,reactive oxygen species metabolic process,GO:0072593,"Ventricular Dysfunction, Left",D018487,7252
+Resveratrol,D000077185,INS,3630,positive regulation of cell population proliferation,GO:0008284,"Ventricular Dysfunction, Left",D018487,7182
+Acetylcysteine,D000111,SOD2,6648,reactive oxygen species metabolic process,GO:0072593,"Ventricular Dysfunction, Left",D018487,7182
+Dietary Fats,D004041,INS1,16333,glucose metabolic process,GO:0006006,"Ventricular Dysfunction, Left",D018487,7125
+Streptozocin,D013311,IL6,3569,positive regulation of apoptotic process,GO:0043065,"Ventricular Dysfunction, Left",D018487,7007
+Quercetin,D011794,AGT,183,cell population proliferation,GO:0008283,"Ventricular Dysfunction, Left",D018487,6885
+bisphenol A,C006780,AGT,183,positive regulation of cell population proliferation,GO:0008284,"Ventricular Dysfunction, Left",D018487,6840
+Streptozocin,D013311,AKT1,207,glucose homeostasis,GO:0042593,"Ventricular Dysfunction, Left",D018487,6825
+Resveratrol,D000077185,CTNNB1,1499,positive regulation of cell population proliferation,GO:0008284,"Ventricular Dysfunction, Left",D018487,6804
+Doxorubicin,D004317,IL6,3569,inflammatory response,GO:0006954,"Ventricular Dysfunction, Left",D018487,6688
+Doxorubicin,D004317,IL6,3569,positive regulation of protein import into nucleus,GO:0042307,"Ventricular Dysfunction, Left",D018487,6688
+bisphenol A,C006780,NFE2L2,4780,reactive oxygen species metabolic process,GO:0072593,"Ventricular Dysfunction, Left",D018487,6664
+Resveratrol,D000077185,IL6,3569,response to insulin,GO:0032868,"Ventricular Dysfunction, Left",D018487,6642
+Resveratrol,D000077185,IL6,3569,positive regulation of interleukin-6 production,GO:0032755,"Ventricular Dysfunction, Left",D018487,6642
+Lipopolysaccharides,D008070,AKT1,207,apoptotic process,GO:0006915,"Ventricular Dysfunction, Left",D018487,6612
+Doxorubicin,D004317,NPPB,4879,response to xenobiotic stimulus,GO:0009410,"Ventricular Dysfunction, Left",D018487,6600

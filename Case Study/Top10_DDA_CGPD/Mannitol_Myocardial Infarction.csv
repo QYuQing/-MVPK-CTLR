@@ -1,0 +1,400 @@
+Chemical,Chemical ID,Gene,Gene ID,Phenotype,Phenotype ID,Disease,Disease ID,Evidence Strength Score
+Mannitol,D008353,BAX,581,apoptotic process,GO:0006915,Acute Kidney Injury,D058186,204
+Mannitol,D008353,NPPA,4878,regulation of blood pressure,GO:0008217,Acute Kidney Injury,D058186,204
+Mannitol,D008353,SOD1,6647,apoptotic process,GO:0006915,Acute Kidney Injury,D058186,204
+Mannitol,D008353,TP53,7157,apoptotic process,GO:0006915,Acute Kidney Injury,D058186,204
+Mannitol,D008353,HMOX1,3162,apoptotic process,GO:0006915,Acute Kidney Injury,D058186,204
+Mannitol,D008353,HMOX1,3162,response to oxidative stress,GO:0006979,Acute Kidney Injury,D058186,170
+Mannitol,D008353,SOD1,6647,response to oxidative stress,GO:0006979,Acute Kidney Injury,D058186,170
+Mannitol,D008353,TP53,7157,response to oxidative stress,GO:0006979,Acute Kidney Injury,D058186,170
+Mannitol,D008353,TP53,7157,cell population proliferation,GO:0008283,Acute Kidney Injury,D058186,102
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Acute Kidney Injury,D058186,102
+Mannitol,D008353,IGF1,3479,cell population proliferation,GO:0008283,Acute Kidney Injury,D058186,102
+Mannitol,D008353,BAX,581,cell population proliferation,GO:0008283,Acute Kidney Injury,D058186,102
+Mannitol,D008353,BAX,581,regulation of mitochondrial membrane potential,GO:0051881,Acute Kidney Injury,D058186,68
+Mannitol,D008353,HMOX1,3162,regulation of blood pressure,GO:0008217,Acute Kidney Injury,D058186,68
+Mannitol,D008353,SOD1,6647,regulation of blood pressure,GO:0008217,Acute Kidney Injury,D058186,68
+Mannitol,D008353,SOD1,6647,regulation of mitochondrial membrane potential,GO:0051881,Acute Kidney Injury,D058186,68
+Mannitol,D008353,CASP3,836,apoptotic process,GO:0006915,Cerebral Hemorrhage,D002543,54
+Mannitol,D008353,BCL2,596,apoptotic process,GO:0006915,Necrosis,D009336,36
+Mannitol,D008353,CASP3,836,apoptotic process,GO:0006915,Brain Ischemia,D002545,36
+Mannitol,D008353,TP53,7157,cellular response to DNA damage stimulus,GO:0006974,Acute Kidney Injury,D058186,34
+Mannitol,D008353,TP53,7157,negative regulation of mitotic cell cycle,GO:0045930,Acute Kidney Injury,D058186,34
+Mannitol,D008353,IL6,3569,cell differentiation,GO:0030154,Acute Kidney Injury,D058186,34
+Mannitol,D008353,BAX,581,cellular response to DNA damage stimulus,GO:0006974,Acute Kidney Injury,D058186,34
+Mannitol,D008353,CAT,847,response to oxidative stress,GO:0006979,Necrosis,D009336,30
+Mannitol,D008353,HMOX1,3162,apoptotic process,GO:0006915,Reperfusion Injury,D015427,30
+Mannitol,D008353,BCL2,596,response to oxidative stress,GO:0006979,Necrosis,D009336,30
+Mannitol,D008353,HMOX1,3162,response to oxidative stress,GO:0006979,Reperfusion Injury,D015427,25
+Mannitol,D008353,SOD1,6647,apoptotic process,GO:0006915,Hypotension,D007022,24
+Mannitol,D008353,SOD1,6647,apoptotic process,GO:0006915,"Ischemic Attack, Transient",D002546,24
+Mannitol,D008353,SOD1,6647,apoptotic process,GO:0006915,Reperfusion Injury,D015427,24
+Mannitol,D008353,TP53,7157,apoptotic process,GO:0006915,Glioma,D005910,24
+Mannitol,D008353,CAT,847,response to oxidative stress,GO:0006979,Hypotension,D007022,20
+Mannitol,D008353,CAT,847,response to oxidative stress,GO:0006979,Reperfusion Injury,D015427,20
+Mannitol,D008353,SOD1,6647,response to oxidative stress,GO:0006979,Hypotension,D007022,20
+Mannitol,D008353,SOD1,6647,response to oxidative stress,GO:0006979,"Ischemic Attack, Transient",D002546,20
+Mannitol,D008353,SOD1,6647,response to oxidative stress,GO:0006979,Reperfusion Injury,D015427,20
+Mannitol,D008353,TP53,7157,response to oxidative stress,GO:0006979,Glioma,D005910,20
+Mannitol,D008353,CASP3,836,apoptotic process,GO:0006915,Reperfusion Injury,D015427,18
+Mannitol,D008353,CASP3,836,apoptotic process,GO:0006915,Edema,D004487,18
+Mannitol,D008353,HMOX1,3162,apoptotic process,GO:0006915,Cerebral Hemorrhage,D002543,18
+Mannitol,D008353,CASP3,836,apoptotic process,GO:0006915,Nervous System Diseases,D009422,18
+Mannitol,D008353,SOD1,6647,apoptotic process,GO:0006915,Necrosis,D009336,18
+Mannitol,D008353,CASP3,836,apoptotic process,GO:0006915,Acute Lung Injury,D055371,18
+Mannitol,D008353,BCL2,596,apoptotic process,GO:0006915,Cerebral Hemorrhage,D002543,18
+Mannitol,D008353,BAX,581,apoptotic process,GO:0006915,Cerebral Hemorrhage,D002543,18
+Mannitol,D008353,BCL2,596,cell population proliferation,GO:0008283,Necrosis,D009336,18
+Mannitol,D008353,NPPA,4878,regulation of blood pressure,GO:0008217,Hypotension,D007022,16
+Mannitol,D008353,BCL2,596,response to oxidative stress,GO:0006979,Cerebral Hemorrhage,D002543,15
+Mannitol,D008353,CAT,847,response to oxidative stress,GO:0006979,Pulmonary Edema,D011654,15
+Mannitol,D008353,HMOX1,3162,response to oxidative stress,GO:0006979,Cerebral Hemorrhage,D002543,15
+Mannitol,D008353,IGF1,3479,cell population proliferation,GO:0008283,Kidney Diseases,D007674,15
+Mannitol,D008353,SOD1,6647,response to oxidative stress,GO:0006979,Necrosis,D009336,15
+Mannitol,D008353,SOD1,6647,apoptotic process,GO:0006915,Nephrosis,D009401,12
+Mannitol,D008353,TP53,7157,cell population proliferation,GO:0008283,Glioma,D005910,12
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Necrosis,D009336,12
+Mannitol,D008353,MAPK1,5594,apoptotic process,GO:0006915,Brain Ischemia,D002545,12
+Mannitol,D008353,SOD1,6647,apoptotic process,GO:0006915,Drug-Related Side Effects and Adverse Reactions,D064420,12
+Mannitol,D008353,HMOX1,3162,apoptotic process,GO:0006915,Drug-Related Side Effects and Adverse Reactions,D064420,12
+Mannitol,D008353,BCL2,596,regulation of mitochondrial membrane potential,GO:0051881,Necrosis,D009336,12
+Mannitol,D008353,CAT,847,response to oxidative stress,GO:0006979,Pulmonary Embolism,D011655,10
+Mannitol,D008353,HMOX1,3162,regulation of blood pressure,GO:0008217,Reperfusion Injury,D015427,10
+Mannitol,D008353,HMOX1,3162,response to oxidative stress,GO:0006979,Drug-Related Side Effects and Adverse Reactions,D064420,10
+Mannitol,D008353,SOD1,6647,response to oxidative stress,GO:0006979,Drug-Related Side Effects and Adverse Reactions,D064420,10
+Mannitol,D008353,SOD1,6647,response to oxidative stress,GO:0006979,Nephrosis,D009401,10
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Reperfusion Injury,D015427,10
+Mannitol,D008353,CASP3,836,cellular response to DNA damage stimulus,GO:0006974,Cerebral Hemorrhage,D002543,9
+Mannitol,D008353,BCL2,596,cell population proliferation,GO:0008283,Cerebral Hemorrhage,D002543,9
+Mannitol,D008353,BAX,581,cell population proliferation,GO:0008283,Cerebral Hemorrhage,D002543,9
+Mannitol,D008353,IL6,3569,cell differentiation,GO:0030154,Hypotension,D007022,8
+Mannitol,D008353,SOD1,6647,regulation of blood pressure,GO:0008217,Hypotension,D007022,8
+Mannitol,D008353,SOD1,6647,regulation of blood pressure,GO:0008217,"Ischemic Attack, Transient",D002546,8
+Mannitol,D008353,SOD1,6647,regulation of blood pressure,GO:0008217,Reperfusion Injury,D015427,8
+Mannitol,D008353,SOD1,6647,regulation of mitochondrial membrane potential,GO:0051881,Hypotension,D007022,8
+Mannitol,D008353,SOD1,6647,regulation of mitochondrial membrane potential,GO:0051881,"Ischemic Attack, Transient",D002546,8
+Mannitol,D008353,SOD1,6647,regulation of mitochondrial membrane potential,GO:0051881,Reperfusion Injury,D015427,8
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Hypotension,D007022,8
+Mannitol,D008353,ABCB1,5243,transepithelial transport,GO:0070633,Drug-Related Side Effects and Adverse Reactions,D064420,8
+Mannitol,D008353,SOD1,6647,apoptotic process,GO:0006915,Hearing Loss,D034381,6
+Mannitol,D008353,JUN,3725,apoptotic process,GO:0006915,Brain Ischemia,D002545,6
+Mannitol,D008353,JUN,3725,apoptotic process,GO:0006915,Reperfusion Injury,D015427,6
+Mannitol,D008353,MAPK3,5595,apoptotic process,GO:0006915,Brain Ischemia,D002545,6
+Mannitol,D008353,SOD1,6647,apoptotic process,GO:0006915,Brain Ischemia,D002545,6
+Mannitol,D008353,SOD1,6647,apoptotic process,GO:0006915,Glioma,D005910,6
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Pulmonary Edema,D011654,6
+Mannitol,D008353,HMOX1,3162,regulation of blood pressure,GO:0008217,Cerebral Hemorrhage,D002543,6
+Mannitol,D008353,SOD1,6647,apoptotic process,GO:0006915,Stroke,D020521,6
+Mannitol,D008353,SOD1,6647,regulation of blood pressure,GO:0008217,Necrosis,D009336,6
+Mannitol,D008353,SOD1,6647,regulation of mitochondrial membrane potential,GO:0051881,Necrosis,D009336,6
+Mannitol,D008353,TP53,7157,apoptotic process,GO:0006915,Brain Ischemia,D002545,6
+Mannitol,D008353,IGF1,3479,cell population proliferation,GO:0008283,Drug-Related Side Effects and Adverse Reactions,D064420,6
+Mannitol,D008353,SOD1,6647,apoptotic process,GO:0006915,Nervous System Diseases,D009422,6
+Mannitol,D008353,HMOX1,3162,apoptotic process,GO:0006915,Myocardial Ischemia,D017202,6
+Mannitol,D008353,BCL2,596,negative regulation of mitotic cell cycle,GO:0045930,Necrosis,D009336,6
+Mannitol,D008353,HMOX1,3162,apoptotic process,GO:0006915,Hepatitis,D006505,6
+Mannitol,D008353,ABCB1A,18671,transepithelial transport,GO:0070633,Drug-Related Side Effects and Adverse Reactions,D064420,6
+Mannitol,D008353,BAD,572,apoptotic process,GO:0006915,"Ischemic Attack, Transient",D002546,6
+Mannitol,D008353,BCL2,596,apoptotic process,GO:0006915,Reperfusion Injury,D015427,6
+Mannitol,D008353,BCL2,596,cellular response to DNA damage stimulus,GO:0006974,Necrosis,D009336,6
+Mannitol,D008353,BAX,581,regulation of mitochondrial membrane potential,GO:0051881,Cerebral Hemorrhage,D002543,6
+Mannitol,D008353,BCL2,596,regulation of mitochondrial membrane potential,GO:0051881,Cerebral Hemorrhage,D002543,6
+Mannitol,D008353,CASP3,836,cellular response to DNA damage stimulus,GO:0006974,Brain Ischemia,D002545,6
+Mannitol,D008353,CASP9,842,apoptotic process,GO:0006915,Brain Ischemia,D002545,6
+Mannitol,D008353,CASP9,842,apoptotic process,GO:0006915,Edema,D004487,6
+Mannitol,D008353,CASP9,842,apoptotic process,GO:0006915,"Ischemic Attack, Transient",D002546,6
+Mannitol,D008353,CASP9,842,apoptotic process,GO:0006915,Nervous System Diseases,D009422,6
+Mannitol,D008353,MAP2K1,5604,response to oxidative stress,GO:0006979,Brain Ischemia,D002545,5
+Mannitol,D008353,TP53,7157,response to oxidative stress,GO:0006979,Brain Ischemia,D002545,5
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Brain Edema,D001929,5
+Mannitol,D008353,SOD1,6647,response to oxidative stress,GO:0006979,Stroke,D020521,5
+Mannitol,D008353,SOD1,6647,response to oxidative stress,GO:0006979,Nervous System Diseases,D009422,5
+Mannitol,D008353,SOD1,6647,response to oxidative stress,GO:0006979,Hearing Loss,D034381,5
+Mannitol,D008353,SOD1,6647,response to oxidative stress,GO:0006979,Glioma,D005910,5
+Mannitol,D008353,SOD1,6647,response to oxidative stress,GO:0006979,Brain Ischemia,D002545,5
+Mannitol,D008353,MAPK8,5599,response to oxidative stress,GO:0006979,Reperfusion Injury,D015427,5
+Mannitol,D008353,CAT,847,response to oxidative stress,GO:0006979,Edema,D004487,5
+Mannitol,D008353,IL6,3569,cell differentiation,GO:0030154,Reperfusion Injury,D015427,5
+Mannitol,D008353,HMOX1,3162,response to oxidative stress,GO:0006979,Myocardial Ischemia,D017202,5
+Mannitol,D008353,HMOX1,3162,response to oxidative stress,GO:0006979,Hepatitis,D006505,5
+Mannitol,D008353,CAT,847,response to oxidative stress,GO:0006979,Hepatitis,D006505,5
+Mannitol,D008353,CAT,847,response to oxidative stress,GO:0006979,Glioma,D005910,5
+Mannitol,D008353,CAT,847,response to oxidative stress,GO:0006979,Brain Ischemia,D002545,5
+Mannitol,D008353,CAT,847,response to oxidative stress,GO:0006979,Acute Lung Injury,D055371,5
+Mannitol,D008353,BCL2,596,response to oxidative stress,GO:0006979,Reperfusion Injury,D015427,5
+Mannitol,D008353,ABCB1A,18671,transepithelial transport,GO:0070633,Kidney Diseases,D007674,5
+Mannitol,D008353,SOD1,6647,regulation of mitochondrial membrane potential,GO:0051881,Nephrosis,D009401,4
+Mannitol,D008353,TP53,7157,negative regulation of mitotic cell cycle,GO:0045930,Glioma,D005910,4
+Mannitol,D008353,TP53,7157,cellular response to DNA damage stimulus,GO:0006974,Glioma,D005910,4
+Mannitol,D008353,HMOX1,3162,regulation of blood pressure,GO:0008217,Drug-Related Side Effects and Adverse Reactions,D064420,4
+Mannitol,D008353,SOD1,6647,regulation of mitochondrial membrane potential,GO:0051881,Drug-Related Side Effects and Adverse Reactions,D064420,4
+Mannitol,D008353,SOD1,6647,regulation of blood pressure,GO:0008217,Drug-Related Side Effects and Adverse Reactions,D064420,4
+Mannitol,D008353,SOD1,6647,regulation of blood pressure,GO:0008217,Nephrosis,D009401,4
+Mannitol,D008353,CASP3,836,cellular response to DNA damage stimulus,GO:0006974,Reperfusion Injury,D015427,3
+Mannitol,D008353,TP53,7157,cell population proliferation,GO:0008283,Brain Ischemia,D002545,3
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Urticaria,D014581,3
+Mannitol,D008353,JUN,3725,cell population proliferation,GO:0008283,Brain Ischemia,D002545,3
+Mannitol,D008353,IL6,3569,cell differentiation,GO:0030154,Necrosis,D009336,3
+Mannitol,D008353,IGF1,3479,cell population proliferation,GO:0008283,Myocardial Ischemia,D017202,3
+Mannitol,D008353,JUN,3725,cell population proliferation,GO:0008283,Reperfusion Injury,D015427,3
+Mannitol,D008353,CASP3,836,cellular response to DNA damage stimulus,GO:0006974,Nervous System Diseases,D009422,3
+Mannitol,D008353,CASP3,836,cellular response to DNA damage stimulus,GO:0006974,Acute Lung Injury,D055371,3
+Mannitol,D008353,BCL2,596,negative regulation of mitotic cell cycle,GO:0045930,Cerebral Hemorrhage,D002543,3
+Mannitol,D008353,BCL2,596,cellular response to DNA damage stimulus,GO:0006974,Cerebral Hemorrhage,D002543,3
+Mannitol,D008353,BCL2,596,cell population proliferation,GO:0008283,Reperfusion Injury,D015427,3
+Mannitol,D008353,BAX,581,cellular response to DNA damage stimulus,GO:0006974,Cerebral Hemorrhage,D002543,3
+Mannitol,D008353,CASP3,836,cellular response to DNA damage stimulus,GO:0006974,Edema,D004487,3
+Mannitol,D008353,SOD1,6647,regulation of mitochondrial membrane potential,GO:0051881,Glioma,D005910,2
+Mannitol,D008353,SOD1,6647,regulation of blood pressure,GO:0008217,Hearing Loss,D034381,2
+Mannitol,D008353,SOD1,6647,regulation of blood pressure,GO:0008217,Nervous System Diseases,D009422,2
+Mannitol,D008353,SOD1,6647,regulation of blood pressure,GO:0008217,Stroke,D020521,2
+Mannitol,D008353,SOD1,6647,regulation of mitochondrial membrane potential,GO:0051881,Brain Ischemia,D002545,2
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Drug-Related Side Effects and Adverse Reactions,D064420,2
+Mannitol,D008353,SOD1,6647,regulation of mitochondrial membrane potential,GO:0051881,Hearing Loss,D034381,2
+Mannitol,D008353,SOD1,6647,regulation of mitochondrial membrane potential,GO:0051881,Nervous System Diseases,D009422,2
+Mannitol,D008353,SOD1,6647,regulation of mitochondrial membrane potential,GO:0051881,Stroke,D020521,2
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Myocardial Ischemia,D017202,2
+Mannitol,D008353,SOD1,6647,regulation of blood pressure,GO:0008217,Brain Ischemia,D002545,2
+Mannitol,D008353,SOD1,6647,regulation of blood pressure,GO:0008217,Glioma,D005910,2
+Mannitol,D008353,ABCB1,5243,transepithelial transport,GO:0070633,Nervous System Diseases,D009422,2
+Mannitol,D008353,NPPA,4878,regulation of blood pressure,GO:0008217,Myocardial Ischemia,D017202,2
+Mannitol,D008353,ICAM1,3383,establishment of endothelial barrier,GO:0061028,Acute Lung Injury,D055371,2
+Mannitol,D008353,MAPK1,5594,cellular response to DNA damage stimulus,GO:0006974,Brain Ischemia,D002545,2
+Mannitol,D008353,BCL2,596,regulation of mitochondrial membrane potential,GO:0051881,Reperfusion Injury,D015427,2
+Mannitol,D008353,CLCN3,1182,chloride transmembrane transport,GO:1902476,Glioma,D005910,2
+Mannitol,D008353,HMOX1,3162,regulation of blood pressure,GO:0008217,Myocardial Ischemia,D017202,2
+Mannitol,D008353,HMOX1,3162,regulation of blood pressure,GO:0008217,Hepatitis,D006505,2
+Mannitol,D008353,ICAM1,3383,establishment of endothelial barrier,GO:0061028,Brain Ischemia,D002545,2
+Mannitol,D008353,ICAM1,3383,establishment of endothelial barrier,GO:0061028,Nephrosis,D009401,2
+Mannitol,D008353,ICAM1,3383,establishment of endothelial barrier,GO:0061028,Reperfusion Injury,D015427,2
+Mannitol,D008353,IL6,3569,cell differentiation,GO:0030154,Brain Ischemia,D002545,2
+Mannitol,D008353,IL6,3569,cell differentiation,GO:0030154,Drug-Related Side Effects and Adverse Reactions,D064420,2
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Drug Eruptions,D003875,1
+Mannitol,D008353,IL6,3569,cell differentiation,GO:0030154,Myocardial Ischemia,D017202,1
+Mannitol,D008353,IL6,3569,cell differentiation,GO:0030154,Stroke,D020521,1
+Mannitol,D008353,MAPK3,5595,cellular response to DNA damage stimulus,GO:0006974,Brain Ischemia,D002545,1
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Acute Lung Injury,D055371,1
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Brain Ischemia,D002545,1
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Stroke,D020521,1
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Edema,D004487,1
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Glioma,D005910,1
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Hepatitis,D006505,1
+Mannitol,D008353,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Nervous System Diseases,D009422,1
+Mannitol,D008353,IL6,3569,cell differentiation,GO:0030154,Acute Lung Injury,D055371,1
+Mannitol,D008353,TP53,7157,cellular response to DNA damage stimulus,GO:0006974,Brain Ischemia,D002545,1
+Mannitol,D008353,IL6,3569,cell differentiation,GO:0030154,Edema,D004487,1
+Mannitol,D008353,CASP9,842,cellular response to DNA damage stimulus,GO:0006974,Nervous System Diseases,D009422,1
+Mannitol,D008353,ICAM1,3383,establishment of endothelial barrier,GO:0061028,Urticaria,D014581,1
+Mannitol,D008353,ICAM1,3383,establishment of endothelial barrier,GO:0061028,Stroke,D020521,1
+Mannitol,D008353,ICAM1,3383,establishment of endothelial barrier,GO:0061028,Myocardial Ischemia,D017202,1
+Mannitol,D008353,CLCN3,1182,negative regulation of cell volume,GO:0045794,Glioma,D005910,1
+Mannitol,D008353,CLCN3,1182,monoatomic ion transport,GO:0006811,Glioma,D005910,1
+Mannitol,D008353,CASP9,842,cellular response to DNA damage stimulus,GO:0006974,"Ischemic Attack, Transient",D002546,1
+Mannitol,D008353,CASP9,842,cellular response to DNA damage stimulus,GO:0006974,Edema,D004487,1
+Mannitol,D008353,CASP9,842,cellular response to DNA damage stimulus,GO:0006974,Brain Ischemia,D002545,1
+Mannitol,D008353,BCL2,596,negative regulation of mitotic cell cycle,GO:0045930,Reperfusion Injury,D015427,1
+Mannitol,D008353,BCL2,596,cellular response to DNA damage stimulus,GO:0006974,Reperfusion Injury,D015427,1
+Mannitol,D008353,ABCB1A,18671,transepithelial transport,GO:0070633,Reperfusion Injury,D015427,1
+Mannitol,D008353,ABCB1A,18671,transepithelial transport,GO:0070633,Heart Diseases,D006331,1
+Mannitol,D008353,ABCB1,5243,transepithelial transport,GO:0070633,"Heart Defects, Congenital",D006330,1
+Mannitol,D008353,TP53,7157,negative regulation of mitotic cell cycle,GO:0045930,Brain Ischemia,D002545,1
+Isoproterenol,D007545,TNF,7124,vasodilation,GO:0042311,Myocardial Infarction,D009203,362850
+Isoproterenol,D007545,NPPA,4878,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,358956
+Isoproterenol,D007545,NPPA,4878,vasodilation,GO:0042311,Myocardial Infarction,D009203,230100
+Doxorubicin,D004317,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,216916
+Resveratrol,D000077185,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,212760
+Doxorubicin,D004317,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,200690
+Cisplatin,D002945,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,176580
+Cisplatin,D002945,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,171720
+Resveratrol,D000077185,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,148932
+Resveratrol,D000077185,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,148176
+Resveratrol,D000077185,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,132840
+Resveratrol,D000077185,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,123120
+Fluorouracil,D005472,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,122400
+Resveratrol,D000077185,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,114912
+Acetylcysteine,D000111,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,110162
+Doxorubicin,D004317,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,105896
+Fluorouracil,D005472,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,102600
+Resveratrol,D000077185,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,99288
+Resveratrol,D000077185,CASP3,836,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,97200
+Doxorubicin,D004317,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,96012
+Isoproterenol,D007545,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,95580
+Particulate Matter,D052638,IL6,3569,inflammatory response,GO:0006954,Myocardial Infarction,D009203,95550
+Doxorubicin,D004317,BAX,581,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,94234
+Resveratrol,D000077185,IL6,3569,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,92988
+Resveratrol,D000077185,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Myocardial Infarction,D009203,92196
+Resveratrol,D000077185,BAX,581,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,90720
+Particulate Matter,D052638,TNF,7124,inflammatory response,GO:0006954,Myocardial Infarction,D009203,89180
+Doxorubicin,D004317,CASP3,836,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,87185
+Cisplatin,D002945,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,85050
+Resveratrol,D000077185,BCL2,596,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,83790
+Fluorouracil,D005472,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,83232
+Isoproterenol,D007545,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,79650
+Isoproterenol,D007545,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,74340
+Acetylcysteine,D000111,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,70148
+Cisplatin,D002945,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,69760
+Fluorouracil,D005472,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,66600
+Resveratrol,D000077185,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,64980
+Isoproterenol,D007545,NPPA,4878,positive regulation of heart rate,GO:0010460,Myocardial Infarction,D009203,64428
+Resveratrol,D000077185,IL6,3569,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,61992
+Isoproterenol,D007545,TNF,7124,inflammatory response,GO:0006954,Myocardial Infarction,D009203,58056
+Isoproterenol,D007545,TNF,7124,positive regulation of inflammatory response,GO:0050729,Myocardial Infarction,D009203,58056
+Doxorubicin,D004317,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,57876
+Isoproterenol,D007545,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,57348
+Particulate Matter,D052638,IL6,3569,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,57330
+Particulate Matter,D052638,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,53508
+Particulate Matter,D052638,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,51870
+Resveratrol,D000077185,BCL2,596,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,51300
+Cisplatin,D002945,BAX,581,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,51230
+Cisplatin,D002945,CASP3,836,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,49820
+Doxorubicin,D004317,BAX,581,regulation of mitochondrial membrane potential,GO:0051881,Myocardial Infarction,D009203,49784
+Isoproterenol,D007545,IL6,3569,inflammatory response,GO:0006954,Myocardial Infarction,D009203,49560
+Particulate Matter,D052638,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,48412
+Particulate Matter,D052638,TNF,7124,positive regulation of inflammatory response,GO:0050729,Myocardial Infarction,D009203,48412
+Oxygen,D010100,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,48384
+Cocaine,D003042,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,48222
+Doxorubicin,D004317,BCL2,596,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,46872
+Doxorubicin,D004317,BCL2,596,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,46004
+Cocaine,D003042,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,45543
+Fluorouracil,D005472,BCL2,596,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,45288
+Isoproterenol,D007545,BCL2,596,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,44604
+Doxorubicin,D004317,BAX,581,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,44450
+Oxygen,D010100,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,44352
+Isoproterenol,D007545,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,43542
+Isoproterenol,D007545,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,43542
+Resveratrol,D000077185,BAX,581,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,42336
+Cisplatin,D002945,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,39480
+Quercetin,D011794,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,39072
+Quercetin,D011794,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,38544
+Oxygen,D010100,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,38528
+Quercetin,D011794,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,37740
+Isoproterenol,D007545,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,37170
+Isoproterenol,D007545,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,37170
+Resveratrol,D000077185,BCL2,596,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,35910
+Resveratrol,D000077185,TNF,7124,inflammatory response,GO:0006954,Myocardial Infarction,D009203,35460
+Resveratrol,D000077185,TNF,7124,positive regulation of NF-kappaB transcription factor activity,GO:0051092,Myocardial Infarction,D009203,35460
+Acetylcysteine,D000111,CASP3,836,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,34788
+Resveratrol,D000077185,BAX,581,regulation of mitochondrial membrane potential,GO:0051881,Myocardial Infarction,D009203,34776
+Isoproterenol,D007545,SOD1,6647,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,34515
+Cisplatin,D002945,BCL2,596,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,33600
+Oxygen,D010100,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,33264
+Oxygen,D010100,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,32256
+Resveratrol,D000077185,TNF,7124,positive regulation of NIK/NF-kappaB signaling,GO:1901224,Myocardial Infarction,D009203,31914
+Resveratrol,D000077185,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,31914
+Cisplatin,D002945,BAX,581,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,31610
+Acetylcysteine,D000111,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,31122
+Paclitaxel,D017239,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,30870
+Aspirin,D001241,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,30668
+Acetylcysteine,D000111,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,29952
+Oxygen,D010100,CASP3,836,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,29568
+Isoproterenol,D007545,TNF,7124,calcium-mediated signaling,GO:0019722,Myocardial Infarction,D009203,29028
+Isoproterenol,D007545,TNF,7124,negative regulation of systemic arterial blood pressure,GO:0003085,Myocardial Infarction,D009203,29028
+Resveratrol,D000077185,TNF,7124,negative regulation of interleukin-6 production,GO:0032715,Myocardial Infarction,D009203,28368
+Resveratrol,D000077185,TNF,7124,positive regulation of interleukin-1 beta production,GO:0032731,Myocardial Infarction,D009203,28368
+Isoproterenol,D007545,CAT,847,response to oxidative stress,GO:0006979,Myocardial Infarction,D009203,28320
+Phenylephrine,D010656,NPPA,4878,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,28208
+Doxorubicin,D004317,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,28196
+Paclitaxel,D017239,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,27720
+Doxorubicin,D004317,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,27300
+Particulate Matter,D052638,IL6,3569,positive regulation of cytokine production involved in inflammatory response,GO:1900017,Myocardial Infarction,D009203,27300
+Plant Extracts,D010936,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,27280
+Cocaine,D003042,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,26790
+Doxorubicin,D004317,BAX,581,cellular response to DNA damage stimulus,GO:0006974,Myocardial Infarction,D009203,26670
+Resveratrol,D000077185,BCL2,596,reactive oxygen species metabolic process,GO:0072593,Myocardial Infarction,D009203,26505
+Oxygen,D010100,IL6,3569,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,26488
+Paclitaxel,D017239,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,26460
+Particulate Matter,D052638,TNF,7124,positive regulation of cytokine production involved in inflammatory response,GO:1900017,Myocardial Infarction,D009203,25480
+Blood Glucose,D001786,IL6,3569,glucose homeostasis,GO:0042593,Myocardial Infarction,D009203,24920
+Resveratrol,D000077185,CAT,847,reactive oxygen species metabolic process,GO:0072593,Myocardial Infarction,D009203,24831
+Resveratrol,D000077185,TNF,7124,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Myocardial Infarction,D009203,24822
+Resveratrol,D000077185,TNF,7124,positive regulation of protein kinase B signaling,GO:0051897,Myocardial Infarction,D009203,24822
+Resveratrol,D000077185,TNF,7124,vasodilation,GO:0042311,Myocardial Infarction,D009203,24822
+Isoproterenol,D007545,IL6,3569,cell redox homeostasis,GO:0045454,Myocardial Infarction,D009203,24780
+Cisplatin,D002945,BCL2,596,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,24675
+Doxorubicin,D004317,CASP3,836,cellular response to DNA damage stimulus,GO:0006974,Myocardial Infarction,D009203,24675
+Particulate Matter,D052638,IL6,3569,gene expression,GO:0010467,Myocardial Infarction,D009203,24570
+Cisplatin,D002945,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,24360
+Resveratrol,D000077185,IL6,3569,glucose homeostasis,GO:0042593,Myocardial Infarction,D009203,24354
+Resveratrol,D000077185,IL6,3569,positive regulation of tumor necrosis factor production,GO:0032760,Myocardial Infarction,D009203,24354
+Doxorubicin,D004317,BCL2,596,regulation of mitochondrial membrane potential,GO:0051881,Myocardial Infarction,D009203,24304
+Resveratrol,D000077185,BCL2,596,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,23940
+Acetylcysteine,D000111,BCL2,596,reactive oxygen species metabolic process,GO:0072593,Myocardial Infarction,D009203,23814
+Aspirin,D001241,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,23698
+Aspirin,D001241,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,23698
+Oxygen,D010100,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,23520
+Isoproterenol,D007545,CAT,847,cholesterol metabolic process,GO:0008203,Myocardial Infarction,D009203,22656
+Resveratrol,D000077185,BCL2,596,negative regulation of mitotic cell cycle,GO:0045930,Myocardial Infarction,D009203,22230
+Acetylcysteine,D000111,BAX,581,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,22152
+Resveratrol,D000077185,IL6,3569,inflammatory response,GO:0006954,Myocardial Infarction,D009203,22140
+Plant Extracts,D010936,BAX,581,apoptotic process,GO:0006915,Myocardial Infarction,D009203,22000
+Acetylcysteine,D000111,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,21868
+Particulate Matter,D052638,IL6,3569,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,21840
+Doxorubicin,D004317,BCL2,596,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,21700
+Doxorubicin,D004317,BCL2,596,reactive oxygen species metabolic process,GO:0072593,Myocardial Infarction,D009203,21700
+Quercetin,D011794,BCL2,596,apoptotic process,GO:0006915,Myocardial Infarction,D009203,21648
+Oxygen,D010100,BAX,581,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,21504
+Resveratrol,D000077185,TNF,7124,positive regulation of interleukin-6 production,GO:0032755,Myocardial Infarction,D009203,21276
+Resveratrol,D000077185,TNF,7124,positive regulation of inflammatory response,GO:0050729,Myocardial Infarction,D009203,21276
+Isoproterenol,D007545,BAX,581,mitochondrion organization,GO:0007005,Myocardial Infarction,D009203,21240
+Aspirin,D001241,TNF,7124,vasodilation,GO:0042311,Myocardial Infarction,D009203,21080
+Quercetin,D011794,BCL2,596,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,20910
+Cocaine,D003042,NPPA,4878,regulation of blood pressure,GO:0008217,Myocardial Infarction,D009203,20868
+Acetylcysteine,D000111,CAT,847,reactive oxygen species metabolic process,GO:0072593,Myocardial Infarction,D009203,20790
+Particulate Matter,D052638,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,20384
+Resveratrol,D000077185,IL6,3569,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,19926
+Quercetin,D011794,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,19716
+Resveratrol,D000077185,BCL2,596,regulation of mitochondrial membrane potential,GO:0051881,Myocardial Infarction,D009203,19665
+Cisplatin,D002945,BAX,581,regulation of mitochondrial membrane potential,GO:0051881,Myocardial Infarction,D009203,19620
+Plant Extracts,D010936,TNF,7124,positive regulation of nitric oxide biosynthetic process,GO:0045429,Myocardial Infarction,D009203,19580
+Oxygen,D010100,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,19488
+Isoproterenol,D007545,SOD1,6647,glutathione metabolic process,GO:0006749,Myocardial Infarction,D009203,19470
+Cocaine,D003042,TNF,7124,vasodilation,GO:0042311,Myocardial Infarction,D009203,18612
+Plant Extracts,D010936,CAT,847,response to oxidative stress,GO:0006979,Myocardial Infarction,D009203,18513
+Isoproterenol,D007545,NPPA,4878,negative regulation of systemic arterial blood pressure,GO:0003085,Myocardial Infarction,D009203,18408
+Isoproterenol,D007545,NPPA,4878,positive regulation of cardiac muscle contraction,GO:0060452,Myocardial Infarction,D009203,18408
+Isoproterenol,D007545,NPPA,4878,negative regulation of blood pressure,GO:0045776,Myocardial Infarction,D009203,18408
+Doxorubicin,D004317,SOD1,6647,apoptotic process,GO:0006915,Myocardial Infarction,D009203,17934
+Particulate Matter,D052638,TNF,7124,microglial cell activation,GO:0001774,Myocardial Infarction,D009203,17836
+Doxorubicin,D004317,BAX,581,mitochondrion organization,GO:0007005,Myocardial Infarction,D009203,17780
+Doxorubicin,D004317,BAX,581,positive regulation of apoptotic DNA fragmentation,GO:1902512,Myocardial Infarction,D009203,17780
+Resveratrol,D000077185,TNF,7124,negative regulation of apoptotic process,GO:0043066,Myocardial Infarction,D009203,17730
+Resveratrol,D000077185,TNF,7124,positive regulation of JNK cascade,GO:0046330,Myocardial Infarction,D009203,17730
+Resveratrol,D000077185,TNF,7124,response to xenobiotic stimulus,GO:0009410,Myocardial Infarction,D009203,17730
+Resveratrol,D000077185,IL6,3569,positive regulation of interleukin-1 beta production,GO:0032731,Myocardial Infarction,D009203,17712
+Isoproterenol,D007545,SOD1,6647,superoxide dismutase activity,GO:0004784,Myocardial Infarction,D009203,17700
+Plant Extracts,D010936,TNF,7124,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,17622
+Acetylcysteine,D000111,BAX,581,regulation of mitochondrial membrane potential,GO:0051881,Myocardial Infarction,D009203,17324
+Etoposide,D005047,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,17280
+Aspirin,D001241,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,17204
+Fluorouracil,D005472,BAX,581,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,17136
+bisphenol A,C006780,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,17024
+Isoproterenol,D007545,CAT,847,triglyceride metabolic process,GO:0006641,Myocardial Infarction,D009203,16992
+Cisplatin,D002945,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,16920
+Oxygen,D010100,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,16632
+Resveratrol,D000077185,SOD1,6647,apoptotic process,GO:0006915,Myocardial Infarction,D009203,16416
+Particulate Matter,D052638,IL6,3569,glucose homeostasis,GO:0042593,Myocardial Infarction,D009203,16380
+Plant Extracts,D010936,CASP3,836,apoptotic process,GO:0006915,Myocardial Infarction,D009203,15950
+Isoproterenol,D007545,BAX,581,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,15930
+Isoproterenol,D007545,BCL2,596,response to oxidative stress,GO:0006979,Myocardial Infarction,D009203,15930
+Isoproterenol,D007545,SOD1,6647,apoptotic process,GO:0006915,Myocardial Infarction,D009203,15930
+Quercetin,D011794,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Myocardial Infarction,D009203,15900
+Acetylcysteine,D000111,SOD1,6647,apoptotic process,GO:0006915,Myocardial Infarction,D009203,15808
+Oxygen,D010100,BCL2,596,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,15680
+Plant Extracts,D010936,TNF,7124,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,15664
+Doxorubicin,D004317,BCL2,596,cell growth,GO:0016049,Myocardial Infarction,D009203,15624
+Resveratrol,D000077185,IL6,3569,positive regulation of protein kinase B signaling,GO:0051897,Myocardial Infarction,D009203,15498
+Resveratrol,D000077185,IL6,3569,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Myocardial Infarction,D009203,15498
+Resveratrol,D000077185,BCL2,596,response to oxidative stress,GO:0006979,Myocardial Infarction,D009203,15390
+Acetylcysteine,D000111,IL6,3569,positive regulation of apoptotic process,GO:0043065,Myocardial Infarction,D009203,15288
+Particulate Matter,D052638,TNF,7124,glucose metabolic process,GO:0006006,Myocardial Infarction,D009203,15288
+Cisplatin,D002945,BAX,581,cellular response to DNA damage stimulus,GO:0006974,Myocardial Infarction,D009203,15260
+Cocaine,D003042,BAX,581,cell population proliferation,GO:0008283,Myocardial Infarction,D009203,15228
+Cisplatin,D002945,BCL2,596,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,15225
+Glucose,D005947,TNF,7124,glucose metabolic process,GO:0006006,Myocardial Infarction,D009203,14952
+Cisplatin,D002945,CASP3,836,cellular response to DNA damage stimulus,GO:0006974,Myocardial Infarction,D009203,14840
+Oxygen,D010100,BAX,581,negative regulation of cell population proliferation,GO:0008285,Myocardial Infarction,D009203,14784
+Quercetin,D011794,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Myocardial Infarction,D009203,14628
+Resveratrol,D000077185,CASP3,836,cellular response to DNA damage stimulus,GO:0006974,Myocardial Infarction,D009203,14580
+Isoproterenol,D007545,TNF,7124,positive regulation of NIK/NF-kappaB signaling,GO:1901224,Myocardial Infarction,D009203,14514
+Isoproterenol,D007545,TNF,7124,positive regulation of NF-kappaB transcription factor activity,GO:0051092,Myocardial Infarction,D009203,14514
+Isoproterenol,D007545,TNF,7124,positive regulation of JNK cascade,GO:0046330,Myocardial Infarction,D009203,14514

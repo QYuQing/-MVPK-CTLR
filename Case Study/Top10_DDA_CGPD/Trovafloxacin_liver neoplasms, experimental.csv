@@ -1,0 +1,329 @@
+Chemical,Chemical ID,Gene,Gene ID,Phenotype,Phenotype ID,Disease,Disease ID,Evidence Strength Score
+trovafloxacin,C080163,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Chemical and Drug Induced Liver Injury,D056486,1183
+trovafloxacin,C080163,TNF,7124,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Chemical and Drug Induced Liver Injury,D056486,1183
+trovafloxacin,C080163,TNF,7124,positive regulation of inflammatory response,GO:0050729,Chemical and Drug Induced Liver Injury,D056486,1183
+trovafloxacin,C080163,TNF,7124,positive regulation of JNK cascade,GO:0046330,Chemical and Drug Induced Liver Injury,D056486,1183
+trovafloxacin,C080163,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,1183
+trovafloxacin,C080163,IL1B,3553,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Chemical and Drug Induced Liver Injury,D056486,78
+trovafloxacin,C080163,IL6,3569,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Chemical and Drug Induced Liver Injury,D056486,78
+trovafloxacin,C080163,IL6,3569,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,78
+trovafloxacin,C080163,IL1B,3553,positive regulation of JNK cascade,GO:0046330,Chemical and Drug Induced Liver Injury,D056486,78
+trovafloxacin,C080163,IL1B,3553,positive regulation of inflammatory response,GO:0050729,Chemical and Drug Induced Liver Injury,D056486,78
+trovafloxacin,C080163,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Chemical and Drug Induced Liver Injury,D056486,78
+trovafloxacin,C080163,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,78
+trovafloxacin,C080163,IL1B,3553,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,78
+trovafloxacin,C080163,IFNG,3458,positive regulation of inflammatory response,GO:0050729,Chemical and Drug Induced Liver Injury,D056486,78
+trovafloxacin,C080163,IFNG,3458,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,78
+trovafloxacin,C080163,IFNG,3458,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,78
+trovafloxacin,C080163,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Necrosis,D009336,52
+trovafloxacin,C080163,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Necrosis,D009336,52
+trovafloxacin,C080163,TNF,7124,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Necrosis,D009336,52
+trovafloxacin,C080163,TNF,7124,positive regulation of inflammatory response,GO:0050729,Necrosis,D009336,52
+trovafloxacin,C080163,TNF,7124,positive regulation of JNK cascade,GO:0046330,Necrosis,D009336,52
+trovafloxacin,C080163,IL1A,3552,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Chemical and Drug Induced Liver Injury,D056486,26
+trovafloxacin,C080163,TNF,7124,positive regulation of JNK cascade,GO:0046330,Liver Diseases,D008107,26
+trovafloxacin,C080163,TNF,7124,positive regulation of inflammatory response,GO:0050729,Liver Diseases,D008107,26
+trovafloxacin,C080163,TNF,7124,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Liver Diseases,D008107,26
+trovafloxacin,C080163,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Liver Diseases,D008107,26
+trovafloxacin,C080163,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Liver Diseases,D008107,26
+trovafloxacin,C080163,IL1A,3552,positive regulation of JNK cascade,GO:0046330,Chemical and Drug Induced Liver Injury,D056486,26
+trovafloxacin,C080163,IL18,3606,positive regulation of inflammatory response,GO:0050729,Chemical and Drug Induced Liver Injury,D056486,26
+trovafloxacin,C080163,IL18,3606,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,26
+trovafloxacin,C080163,IGF1,3479,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Chemical and Drug Induced Liver Injury,D056486,26
+trovafloxacin,C080163,IGF1,3479,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,26
+trovafloxacin,C080163,IL1A,3552,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,26
+trovafloxacin,C080163,HMOX1,3162,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,26
+trovafloxacin,C080163,THBS1,7057,positive regulation of macrophage activation,GO:0043032,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,TNF,7124,positive regulation of cell population proliferation,GO:0008284,"Liver Failure, Acute",D017114,13
+trovafloxacin,C080163,TNF,7124,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Hepatitis,D006505,13
+trovafloxacin,C080163,TNF,7124,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Chlamydia Infections,D002690,13
+trovafloxacin,C080163,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Nausea,D009325,13
+trovafloxacin,C080163,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Nausea,D009325,13
+trovafloxacin,C080163,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Chlamydia Infections,D002690,13
+trovafloxacin,C080163,TNF,7124,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Nausea,D009325,13
+trovafloxacin,C080163,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,"Liver Failure, Acute",D017114,13
+trovafloxacin,C080163,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Hepatitis,D006505,13
+trovafloxacin,C080163,TNF,7124,positive regulation of ERK1 and ERK2 cascade,GO:0070374,"Liver Failure, Acute",D017114,13
+trovafloxacin,C080163,TNF,7124,positive regulation of inflammatory response,GO:0050729,"Liver Failure, Acute",D017114,13
+trovafloxacin,C080163,TNF,7124,positive regulation of inflammatory response,GO:0050729,Chlamydia Infections,D002690,13
+trovafloxacin,C080163,TNF,7124,positive regulation of inflammatory response,GO:0050729,Hepatitis,D006505,13
+trovafloxacin,C080163,TNF,7124,positive regulation of inflammatory response,GO:0050729,Nausea,D009325,13
+trovafloxacin,C080163,TNF,7124,positive regulation of JNK cascade,GO:0046330,Chlamydia Infections,D002690,13
+trovafloxacin,C080163,TNF,7124,positive regulation of JNK cascade,GO:0046330,Hepatitis,D006505,13
+trovafloxacin,C080163,TNF,7124,positive regulation of JNK cascade,GO:0046330,"Liver Failure, Acute",D017114,13
+trovafloxacin,C080163,TNF,7124,positive regulation of JNK cascade,GO:0046330,Nausea,D009325,13
+trovafloxacin,C080163,VEGFA,7422,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,VEGFA,7422,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,VEGFA,7422,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,Chlamydia Infections,D002690,13
+trovafloxacin,C080163,TNF,7124,positive regulation of cell population proliferation,GO:0008284,Hepatitis,D006505,13
+trovafloxacin,C080163,THBS1,7057,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,GADD45A,1647,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,THBS1,7057,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,ACTB,60,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,ADAM8,101,positive regulation of inflammatory response,GO:0050729,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,APOE,348,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,ATG5,9474,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,ATG5,9474,autophagosome assembly,GO:0000045,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,CCL2,6347,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,CCL2,6347,positive regulation of leukocyte mediated cytotoxicity,GO:0001912,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,E2F1,1869,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,FGA,2243,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,CDC25B,994,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,GADD45A,1647,positive regulation of JNK cascade,GO:0046330,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,PTGS2,5743,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,STAT3,6774,protein import into nucleus,GO:0006606,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,STAT3,6774,positive regulation of inflammatory response,GO:0050729,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,ITPR1,3708,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,SOD2,6648,release of cytochrome c from mitochondria,GO:0001836,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,STAT3,6774,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,MAP1LC3B,81631,autophagosome assembly,GO:0000045,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,LDLR,3949,positive regulation of inflammatory response,GO:0050729,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,KITL,17311,positive regulation of cell population proliferation,GO:0008284,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,KITL,17311,apoptotic process,GO:0006915,Chemical and Drug Induced Liver Injury,D056486,13
+trovafloxacin,C080163,IL1B,3553,apoptotic process,GO:0006915,Necrosis,D009336,9
+trovafloxacin,C080163,IL1B,3553,positive regulation of cell population proliferation,GO:0008284,Necrosis,D009336,9
+trovafloxacin,C080163,IL1B,3553,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Necrosis,D009336,9
+trovafloxacin,C080163,IL1B,3553,positive regulation of inflammatory response,GO:0050729,Necrosis,D009336,9
+trovafloxacin,C080163,IL1B,3553,positive regulation of JNK cascade,GO:0046330,Necrosis,D009336,9
+trovafloxacin,C080163,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Headache,D006261,6
+trovafloxacin,C080163,SERPINE1,5054,positive regulation of inflammatory response,GO:0050729,Liver Diseases,D008107,6
+trovafloxacin,C080163,IL6,3569,positive regulation of cell population proliferation,GO:0008284,Headache,D006261,6
+trovafloxacin,C080163,IL6,3569,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Headache,D006261,6
+trovafloxacin,C080163,IFNG,3458,positive regulation of inflammatory response,GO:0050729,Necrosis,D009336,6
+trovafloxacin,C080163,IFNG,3458,apoptotic process,GO:0006915,Necrosis,D009336,6
+trovafloxacin,C080163,HMOX1,3162,apoptotic process,GO:0006915,Liver Diseases,D008107,6
+trovafloxacin,C080163,IFNG,3458,positive regulation of cell population proliferation,GO:0008284,Necrosis,D009336,6
+trovafloxacin,C080163,IFNG,3458,positive regulation of cell population proliferation,GO:0008284,Vomiting,D014839,3
+trovafloxacin,C080163,IL6,3569,positive regulation of cell population proliferation,GO:0008284,Necrosis,D009336,3
+trovafloxacin,C080163,IL6,3569,positive regulation of apoptotic DNA fragmentation,GO:1902512,Necrosis,D009336,3
+trovafloxacin,C080163,IFNG,3458,positive regulation of inflammatory response,GO:0050729,Vomiting,D014839,3
+trovafloxacin,C080163,IFNG,3458,positive regulation of inflammatory response,GO:0050729,Nausea,D009325,3
+trovafloxacin,C080163,IFNG,3458,positive regulation of inflammatory response,GO:0050729,Hepatitis,D006505,3
+trovafloxacin,C080163,IFNG,3458,positive regulation of inflammatory response,GO:0050729,Chlamydia Infections,D002690,3
+trovafloxacin,C080163,IL6,3569,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Necrosis,D009336,3
+trovafloxacin,C080163,IFNG,3458,positive regulation of cell population proliferation,GO:0008284,Nausea,D009325,3
+trovafloxacin,C080163,IFNG,3458,positive regulation of cell population proliferation,GO:0008284,Chlamydia Infections,D002690,3
+trovafloxacin,C080163,IFNG,3458,apoptotic process,GO:0006915,Vomiting,D014839,3
+trovafloxacin,C080163,IFNG,3458,apoptotic process,GO:0006915,Nausea,D009325,3
+trovafloxacin,C080163,IFNG,3458,apoptotic process,GO:0006915,Hepatitis,D006505,3
+trovafloxacin,C080163,IFNG,3458,apoptotic process,GO:0006915,Chlamydia Infections,D002690,3
+trovafloxacin,C080163,IFNG,3458,positive regulation of cell population proliferation,GO:0008284,Hepatitis,D006505,3
+trovafloxacin,C080163,CD86,942,positive regulation of cell population proliferation,GO:0008284,Liver Diseases,D008107,2
+trovafloxacin,C080163,SOD2,6648,release of cytochrome c from mitochondria,GO:0001836,Necrosis,D009336,2
+trovafloxacin,C080163,NOS2,4843,positive regulation of leukocyte mediated cytotoxicity,GO:0001912,Liver Diseases,D008107,2
+trovafloxacin,C080163,NOS2,4843,positive regulation of leukocyte mediated cytotoxicity,GO:0001912,Necrosis,D009336,2
+trovafloxacin,C080163,CCL2,6347,positive regulation of leukocyte mediated cytotoxicity,GO:0001912,Liver Diseases,D008107,2
+trovafloxacin,C080163,CCL2,6347,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Liver Diseases,D008107,2
+trovafloxacin,C080163,ALDH1A1,216,apoptotic process,GO:0006915,Liver Diseases,D008107,2
+trovafloxacin,C080163,ATG5,9474,apoptotic process,GO:0006915,Necrosis,D009336,1
+trovafloxacin,C080163,ATG5,9474,autophagosome assembly,GO:0000045,Necrosis,D009336,1
+trovafloxacin,C080163,CD36,948,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Staphylococcal Infections,D013203,1
+trovafloxacin,C080163,GAPDH,2597,apoptotic process,GO:0006915,Necrosis,D009336,1
+trovafloxacin,C080163,HMOX1,3162,apoptotic process,GO:0006915,Hepatitis,D006505,1
+trovafloxacin,C080163,IGF1,3479,positive regulation of cell population proliferation,GO:0008284,Demyelinating Diseases,D003711,1
+trovafloxacin,C080163,IGF1,3479,positive regulation of ERK1 and ERK2 cascade,GO:0070374,Demyelinating Diseases,D003711,1
+trovafloxacin,C080163,PARP1,142,apoptotic process,GO:0006915,Hepatitis,D006505,1
+trovafloxacin,C080163,POMC,5443,positive regulation of cell population proliferation,GO:0008284,"Liver Failure, Acute",D017114,1
+trovafloxacin,C080163,POMC,5443,positive regulation of cell population proliferation,GO:0008284,Nausea,D009325,1
+trovafloxacin,C080163,POMC,5443,positive regulation of cell population proliferation,GO:0008284,Necrosis,D009336,1
+Arsenic Trioxide,D000077237,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,236880
+Diethylnitrosamine,D004052,GSTP1,2950,glutathione peroxidase activity,GO:0004602,"Liver Neoplasms, Experimental",D008114,196768
+Diethylnitrosamine,D004052,GSTP1,2950,glutathione transferase activity,GO:0004364,"Liver Neoplasms, Experimental",D008114,143104
+Diethylnitrosamine,D004052,MYC,4609,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,118680
+Arsenic Trioxide,D000077237,BCL2,596,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,117936
+Diethylnitrosamine,D004052,GSTP1,2950,glutathione metabolic process,GO:0006749,"Liver Neoplasms, Experimental",D008114,107328
+Arsenic Trioxide,D000077237,BCL2,596,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,104832
+Doxorubicin,D004317,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,90768
+Diethylnitrosamine,D004052,MYC,4609,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,71208
+Diethylnitrosamine,D004052,AFP,174,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,67424
+Acetylcysteine,D000111,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,62244
+Diethylnitrosamine,D004052,BCL2,596,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,55040
+Arsenic Trioxide,D000077237,BCL2L1,598,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,54990
+Acetylcysteine,D000111,MAPK1,5594,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,52364
+Diethylnitrosamine,D004052,CCND1,595,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,51600
+Acetylcysteine,D000111,MAPK3,5595,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,50882
+Acetylcysteine,D000111,BCL2,596,reactive oxygen species metabolic process,GO:0072593,"Liver Neoplasms, Experimental",D008114,47628
+Arsenic Trioxide,D000077237,MAPK1,5594,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,47235
+Arsenic Trioxide,D000077237,MAPK3,5595,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,45825
+Arsenic Trioxide,D000077237,TP53,7157,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,43710
+Arsenic Trioxide,D000077237,BCL2,596,regulation of mitochondrial membrane potential,GO:0051881,"Liver Neoplasms, Experimental",D008114,43344
+Quercetin,D011794,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,43296
+Phenobarbital,D010634,MYC,4609,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,41904
+Quercetin,D011794,BCL2,596,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,41820
+Diethylnitrosamine,D004052,CTNNB1,1499,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,41280
+Doxorubicin,D004317,BCL2,596,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,40176
+Doxorubicin,D004317,TP53,7157,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,39894
+Diethylnitrosamine,D004052,TP53,7157,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,39560
+Doxorubicin,D004317,BCL2,596,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,39432
+Diethylnitrosamine,D004052,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,38528
+Arsenic Trioxide,D000077237,BCL2,596,negative regulation of mitotic cell cycle,GO:0045930,"Liver Neoplasms, Experimental",D008114,36288
+Diethylnitrosamine,D004052,GSTP1,2950,inflammatory response,GO:0006954,"Liver Neoplasms, Experimental",D008114,35776
+Cisplatin,D002945,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,34020
+Arsenic Trioxide,D000077237,MYC,4609,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,33696
+Arsenic Trioxide,D000077237,PML,5371,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,33135
+Diethylnitrosamine,D004052,HRAS,3265,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,33024
+Diethylnitrosamine,D004052,BCL2,596,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,33024
+Tamoxifen,D013629,BCL2,596,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,32832
+Phenobarbital,D010634,CTNNB1,1499,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,31428
+Arsenic Trioxide,D000077237,BCL2,596,cell growth,GO:0016049,"Liver Neoplasms, Experimental",D008114,31248
+Arsenic Trioxide,D000077237,BCL2,596,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,31248
+Diethylnitrosamine,D004052,CCND1,595,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,30960
+Arsenic Trioxide,D000077237,BCL2,596,reactive oxygen species metabolic process,GO:0072593,"Liver Neoplasms, Experimental",D008114,30240
+Doxorubicin,D004317,BCL2L1,598,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,29280
+Acetylcysteine,D000111,TP53,7157,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,29146
+Diethylnitrosamine,D004052,TP53,7157,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,27692
+Tamoxifen,D013629,MYC,4609,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,27360
+Tamoxifen,D013629,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,25992
+Diethylnitrosamine,D004052,TGFB1,7040,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,25800
+Diethylnitrosamine,D004052,CTNNB1,1499,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,24768
+Arsenic Trioxide,D000077237,BCL2L1,598,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,24336
+Diethylnitrosamine,D004052,MYC,4609,positive regulation of multicellular organism growth,GO:0040018,"Liver Neoplasms, Experimental",D008114,23736
+Diethylnitrosamine,D004052,MYC,4609,cellular response to DNA damage stimulus,GO:0006974,"Liver Neoplasms, Experimental",D008114,23736
+Carbon Tetrachloride,D002251,TGFB1,7040,inflammatory response,GO:0006954,"Liver Neoplasms, Experimental",D008114,23436
+Phenobarbital,D010634,CYP1A2,1544,xenobiotic metabolic process,GO:0006805,"Liver Neoplasms, Experimental",D008114,23280
+Tamoxifen,D013629,CCND1,595,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,22800
+Acetylcysteine,D000111,TP53,7157,reactive oxygen species metabolic process,GO:0072593,"Liver Neoplasms, Experimental",D008114,22302
+Carbon Tetrachloride,D002251,TNF,7124,inflammatory response,GO:0006954,"Liver Neoplasms, Experimental",D008114,22113
+Arsenic Trioxide,D000077237,TP53,7157,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,21762
+Diethylnitrosamine,D004052,TNF,7124,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,21672
+Doxorubicin,D004317,BCL2,596,regulation of mitochondrial membrane potential,GO:0051881,"Liver Neoplasms, Experimental",D008114,20832
+bisphenol A,C006780,BCL2,596,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,20160
+Acetylcysteine,D000111,BCL2,596,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,19656
+Acetylcysteine,D000111,BCL2,596,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,19404
+Arsenic Trioxide,D000077237,TP53,7157,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,19344
+Diethylnitrosamine,D004052,BCL2L1,598,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,19264
+Quercetin,D011794,MAPK1,5594,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,19008
+Plant Extracts,D010936,BCL2,596,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,18848
+Quercetin,D011794,MAPK3,5595,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,18744
+Resveratrol,D000077185,BCL2,596,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,18620
+Doxorubicin,D004317,BCL2,596,negative regulation of cell population proliferation,GO:0008285,"Liver Neoplasms, Experimental",D008114,18600
+Doxorubicin,D004317,BCL2,596,reactive oxygen species metabolic process,GO:0072593,"Liver Neoplasms, Experimental",D008114,18600
+Diethylnitrosamine,D004052,GSTP1,2950,glutathione derivative biosynthetic process,GO:1901687,"Liver Neoplasms, Experimental",D008114,17888
+Doxorubicin,D004317,TP53,7157,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,17658
+Phenobarbital,D010634,CYP1A2,1544,xenobiotic catabolic process,GO:0042178,"Liver Neoplasms, Experimental",D008114,17460
+Doxorubicin,D004317,TP53,7157,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,17331
+Diethylnitrosamine,D004052,MAPK3,5595,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,16856
+bisphenol A,C006780,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,16740
+Diethylnitrosamine,D004052,BCL2,596,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,16512
+Diethylnitrosamine,D004052,BCL2,596,reactive oxygen species metabolic process,GO:0072593,"Liver Neoplasms, Experimental",D008114,16512
+Diethylnitrosamine,D004052,MAPK1,5594,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,15652
+Diethylnitrosamine,D004052,IL6,3569,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,15480
+Diethylnitrosamine,D004052,TGFB1,7040,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,15480
+Acetylcysteine,D000111,BCL2,596,regulation of mitochondrial membrane potential,GO:0051881,"Liver Neoplasms, Experimental",D008114,15372
+Quercetin,D011794,BCL2,596,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,15252
+Cisplatin,D002945,TP53,7157,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,15228
+Plant Extracts,D010936,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,15200
+Arsenic Trioxide,D000077237,BCL2,596,autophagy,GO:0006914,"Liver Neoplasms, Experimental",D008114,15120
+Acetylcysteine,D000111,TNF,7124,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,14976
+Arsenic Trioxide,D000077237,TNF,7124,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,14976
+Arsenic Trioxide,D000077237,FAS,355,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,14805
+Resveratrol,D000077185,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,14440
+Arsenic Trioxide,D000077237,BCL2,596,negative regulation of cell population proliferation,GO:0008285,"Liver Neoplasms, Experimental",D008114,14112
+Phenobarbital,D010634,GLUL,2752,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,13968
+Doxorubicin,D004317,MAPK3,5595,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,13908
+Acetylcysteine,D000111,BCL2,596,response to oxidative stress,GO:0006979,"Liver Neoplasms, Experimental",D008114,13860
+Diethylnitrosamine,D004052,GLUL,2752,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,13760
+Diethylnitrosamine,D004052,TRP53,22059,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,13760
+Doxorubicin,D004317,MAPK1,5594,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,13542
+Estradiol,D004958,MYC,4609,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,13536
+Cisplatin,D002945,BCL2,596,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,13440
+Diethylnitrosamine,D004052,MAPK1,5594,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,13416
+Doxorubicin,D004317,BCL2,596,cell growth,GO:0016049,"Liver Neoplasms, Experimental",D008114,13392
+Quercetin,D011794,BCL2,596,regulation of mitochondrial membrane potential,GO:0051881,"Liver Neoplasms, Experimental",D008114,13284
+Doxorubicin,D004317,BCL2L1,598,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,12720
+Doxorubicin,D004317,TNF,7124,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,12402
+Diethylnitrosamine,D004052,CTNNB1,1499,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,12384
+Quercetin,D011794,BCL2,596,negative regulation of mitotic cell cycle,GO:0045930,"Liver Neoplasms, Experimental",D008114,12300
+Quercetin,D011794,BCL2L1,598,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,12144
+Diethylnitrosamine,D004052,RB1,5925,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,12040
+Diethylnitrosamine,D004052,MYC,4609,G0 to G1 transition,GO:0045023,"Liver Neoplasms, Experimental",D008114,11868
+Diethylnitrosamine,D004052,TP53,7157,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,11868
+Diethylnitrosamine,D004052,TP53,7157,reactive oxygen species metabolic process,GO:0072593,"Liver Neoplasms, Experimental",D008114,11868
+Acetylcysteine,D000111,BCL2L1,598,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,11856
+Resveratrol,D000077185,TNF,7124,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,11820
+Doxorubicin,D004317,FAS,355,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,11712
+Phenobarbital,D010634,BCL2,596,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,11640
+Phenobarbital,D010634,CYP1A2,1544,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,"Liver Neoplasms, Experimental",D008114,11640
+Resveratrol,D000077185,BCL2,596,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,11400
+Quercetin,D011794,BCL2,596,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,11316
+Arsenic Trioxide,D000077237,STAT3,6774,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,11232
+Doxorubicin,D004317,BCL2,596,cellular response to DNA damage stimulus,GO:0006974,"Liver Neoplasms, Experimental",D008114,11160
+Arsenic Trioxide,D000077237,BCL2,596,release of cytochrome c from mitochondria,GO:0001836,"Liver Neoplasms, Experimental",D008114,11088
+Melatonin,D008550,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,11088
+Diethylnitrosamine,D004052,BCL2,596,cellular response to DNA damage stimulus,GO:0006974,"Liver Neoplasms, Experimental",D008114,11008
+Diethylnitrosamine,D004052,BCL2,596,positive regulation of multicellular organism growth,GO:0040018,"Liver Neoplasms, Experimental",D008114,11008
+Arsenic Trioxide,D000077237,CCND1,595,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,10881
+Diethylnitrosamine,D004052,TNF,7124,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,10836
+Quercetin,D011794,TP53,7157,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,10824
+Carbon Tetrachloride,D002251,IL6,3569,inflammatory response,GO:0006954,"Liver Neoplasms, Experimental",D008114,10773
+Tetrachlorodibenzodioxin,D013749,MYC,4609,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,10773
+bisphenol A,C006780,CTNNB1,1499,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,10752
+Arsenic Trioxide,D000077237,CTNNB1,1499,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,10530
+Phenobarbital,D010634,MYC,4609,cellular response to DNA damage stimulus,GO:0006974,"Liver Neoplasms, Experimental",D008114,10476
+Quercetin,D011794,TP53,7157,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,10455
+Plant Extracts,D010936,BCL2,596,response to oxidative stress,GO:0006979,"Liver Neoplasms, Experimental",D008114,10336
+Diethylnitrosamine,D004052,CCND1,595,cellular response to DNA damage stimulus,GO:0006974,"Liver Neoplasms, Experimental",D008114,10320
+bisphenol A,C006780,MAPK1,5594,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,10137
+Arsenic Trioxide,D000077237,BCL2L1,598,regulation of mitochondrial membrane potential,GO:0051881,"Liver Neoplasms, Experimental",D008114,10062
+Carbon Tetrachloride,D002251,TGFB1,7040,positive regulation of collagen biosynthetic process,GO:0032967,"Liver Neoplasms, Experimental",D008114,10044
+Tamoxifen,D013629,TP53,7157,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,10032
+Cisplatin,D002945,BCL2,596,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,9870
+Quercetin,D011794,TNF,7124,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,9858
+bisphenol A,C006780,MAPK3,5595,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,9765
+Doxorubicin,D004317,BCL2,596,negative regulation of mitotic cell cycle,GO:0045930,"Liver Neoplasms, Experimental",D008114,9672
+Diethylnitrosamine,D004052,CP,1356,lipid catabolic process,GO:0016042,"Liver Neoplasms, Experimental",D008114,9632
+Diethylnitrosamine,D004052,TRP53,22059,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,9632
+Arsenic Trioxide,D000077237,CTNNB1,1499,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,9360
+Paclitaxel,D017239,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,9240
+Acetylcysteine,D000111,TP53,7157,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,9204
+Acetylcysteine,D000111,TP53,7157,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,9086
+Cisplatin,D002945,BCL2L1,598,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,9072
+Arsenic Trioxide,D000077237,IL6,3569,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,9048
+Arsenic Trioxide,D000077237,MYC,4609,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,8928
+Acetylcysteine,D000111,BCL2,596,negative regulation of cell population proliferation,GO:0008285,"Liver Neoplasms, Experimental",D008114,8820
+bisphenol A,C006780,BCL2,596,reactive oxygen species metabolic process,GO:0072593,"Liver Neoplasms, Experimental",D008114,8820
+Arsenic Trioxide,D000077237,BAK1,578,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,8460
+Resveratrol,D000077185,MAPK1,5594,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,8436
+Diethylnitrosamine,D004052,RB1,5925,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,8428
+Doxorubicin,D004317,TRP53,22059,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,8418
+Quercetin,D011794,CTNNB1,1499,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,8415
+Resveratrol,D000077185,TP53,7157,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,8330
+Resveratrol,D000077185,TNF,7124,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,8274
+Diethylnitrosamine,D004052,BCL2L1,598,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,8256
+Diethylnitrosamine,D004052,CTNNB1,1499,angiogenesis,GO:0001525,"Liver Neoplasms, Experimental",D008114,8256
+Resveratrol,D000077185,STAT3,6774,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,8232
+Doxorubicin,D004317,TP53,7157,negative regulation of cell population proliferation,GO:0008285,"Liver Neoplasms, Experimental",D008114,8175
+Doxorubicin,D004317,TP53,7157,reactive oxygen species metabolic process,GO:0072593,"Liver Neoplasms, Experimental",D008114,8175
+Resveratrol,D000077185,MAPK3,5595,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,8132
+Arsenic Trioxide,D000077237,BCL2,596,cell migration,GO:0016477,"Liver Neoplasms, Experimental",D008114,8064
+Resveratrol,D000077185,BCL2,596,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,7980
+Quercetin,D011794,TNF,7124,negative regulation of mitotic cell cycle,GO:0045930,"Liver Neoplasms, Experimental",D008114,7950
+Tamoxifen,D013629,TP53,7157,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,7942
+bisphenol A,C006780,BCL2,596,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,7920
+Diethylnitrosamine,D004052,TP53,7157,cellular response to DNA damage stimulus,GO:0006974,"Liver Neoplasms, Experimental",D008114,7912
+Diethylnitrosamine,D004052,TP53,7157,protein import into nucleus,GO:0006606,"Liver Neoplasms, Experimental",D008114,7912
+Estradiol,D004958,BCL2,596,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,7872
+Carbon Tetrachloride,D002251,TGFB1,7040,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,7812
+Phenobarbital,D010634,GSTP1,2950,glutathione transferase activity,GO:0004364,"Liver Neoplasms, Experimental",D008114,7760
+Phenobarbital,D010634,GSTP1,2950,xenobiotic metabolic process,GO:0006805,"Liver Neoplasms, Experimental",D008114,7760
+Arsenic Trioxide,D000077237,BBC3,27113,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,7755
+Arsenic Trioxide,D000077237,TNFRSF10B,8795,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,7755
+Diethylnitrosamine,D004052,IL6,3569,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,7740
+Diethylnitrosamine,D004052,TGFB1,7040,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,7740
+bisphenol A,C006780,MYC,4609,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,7728
+Quercetin,D011794,STAT3,6774,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,7650
+Acetylcysteine,D000111,IL6,3569,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,7644
+Estradiol,D004958,CCND1,595,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,7584
+Diethylnitrosamine,D004052,CP,1356,glutathione peroxidase activity,GO:0004602,"Liver Neoplasms, Experimental",D008114,7568
+Doxorubicin,D004317,BCL2,596,response to oxidative stress,GO:0006979,"Liver Neoplasms, Experimental",D008114,7440
+Fluorouracil,D005472,BCL2,596,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,7400
+Resveratrol,D000077185,IL6,3569,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,7380
+Arsenic Trioxide,D000077237,TGFB1,7040,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,7371
+Carbon Tetrachloride,D002251,TNF,7124,positive regulation of apoptotic process,GO:0043065,"Liver Neoplasms, Experimental",D008114,7371
+Resveratrol,D000077185,MYC,4609,cell population proliferation,GO:0008283,"Liver Neoplasms, Experimental",D008114,7350
+Quercetin,D011794,TNF,7124,positive regulation of cell population proliferation,GO:0008284,"Liver Neoplasms, Experimental",D008114,7314
+Plant Extracts,D010936,BCL2,596,regulation of mitochondrial membrane potential,GO:0051881,"Liver Neoplasms, Experimental",D008114,7296
+Diethylnitrosamine,D004052,APOA4,337,lipid catabolic process,GO:0016042,"Liver Neoplasms, Experimental",D008114,7224
+Diethylnitrosamine,D004052,TNF,7124,inflammatory response,GO:0006954,"Liver Neoplasms, Experimental",D008114,7224
+Tamoxifen,D013629,MAPK1,5594,apoptotic process,GO:0006915,"Liver Neoplasms, Experimental",D008114,7220
